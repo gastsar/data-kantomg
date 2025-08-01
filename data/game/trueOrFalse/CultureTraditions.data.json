@@ -36,6 +36,16 @@
   ],
   "questions": [
     {
+      "questionId": "EASY_001",
+      "themeId": "CULT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Les lémuriens sont des animaux domestiques courants dans les maisons malgaches.",
+      "isTrue": false,
+      "explanation": "Faux, les lémuriens sont des animaux sauvages protégés et il est **illégal de les garder comme animaux de compagnie** à Madagascar.",
+      "source": "Conservation de la faune, Lois malgaches sur la biodiversité"
+    },
+    {
       "questionId": "EASY_002",
       "themeId": "CULT",
       "levelId": "EASY",
@@ -44,6 +54,16 @@
       "isTrue": true,
       "explanation": "Le **riz** est en effet l'aliment principal et la base de presque tous les repas à Madagascar.",
       "source": "Culture culinaire malgache"
+    },
+    {
+      "questionId": "EASY_003",
+      "themeId": "CULT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Les chapeaux en paille sont un artisanat typique de Madagascar.",
+      "isTrue": true,
+      "explanation": "Oui, les **chapeaux en paille**, souvent fabriqués à partir de raphia ou d'autres fibres naturelles, sont un **artisanat emblématique** et très répandu à Madagascar.",
+      "source": "Artisanat malgache, Guides de voyage"
     },
     {
       "questionId": "EASY_004",
@@ -56,6 +76,46 @@
       "source": "Observations culturelles, médias sportifs malgaches"
     },
     {
+      "questionId": "EASY_005",
+      "themeId": "CULT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Le vélo est le moyen de transport le plus courant dans les villes malgaches.",
+      "isTrue": false,
+      "explanation": "Faux, bien que les vélos soient utilisés, les **taxis-brousse et les pousse-pousse** (rickshaws) sont des moyens de transport bien plus courants et emblématiques dans les villes et les campagnes malgaches.",
+      "source": "Transports à Madagascar"
+    },
+    {
+      "questionId": "EASY_006",
+      "themeId": "CULT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Les Malgaches mangent du manioc uniquement en dessert.",
+      "isTrue": false,
+      "explanation": "Faux, le **manioc** est une plante racine importante qui est consommée de diverses manières à Madagascar, souvent comme **aliment de base ou accompagnement** des plats salés, en plus d'être utilisé pour des desserts.",
+      "source": "Culture culinaire malgache, Agriculture"
+    },
+    {
+      "questionId": "EASY_007",
+      "themeId": "CULT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Le 'Valiha' est un instrument de musique traditionnel malgache.",
+      "isTrue": true,
+      "explanation": "Oui, la **Valiha** est une **cithare tubulaire** en bambou, considérée comme l'instrument national de Madagascar et très présente dans la musique traditionnelle.",
+      "source": "Musique malgache, Ethnologie musicale"
+    },
+    {
+      "questionId": "EASY_008",
+      "themeId": "CULT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Les sculptures sur bois sont un art traditionnel à Madagascar.",
+      "isTrue": true,
+      "explanation": "Oui, la **sculpture sur bois** est un **art traditionnel très développé** à Madagascar, avec des styles variés selon les ethnies, notamment les Zafimaniry.",
+      "source": "Artisanat malgache, Culture"
+    },
+    {
       "questionId": "EASY_009",
       "themeId": "CULT",
       "levelId": "EASY",
@@ -66,44 +126,24 @@
       "source": "Culture malgache, Arts martiaux traditionnels"
     },
     {
-      "questionId": "EASY_014",
+      "questionId": "EASY_010",
       "themeId": "CULT",
       "levelId": "EASY",
       "ageRange": "6-99",
-      "questionText": "Le 'Fihavanana' est un concept important de l'hospitalité malgache.",
+      "questionText": "Les Malgaches fêtent le Nouvel An le 1er janvier comme dans la plupart des pays occidentaux.",
       "isTrue": true,
-      "explanation": "Le **Fihavanana** est un pilier de la société malgache, incarnant l'amitié, la solidarité, la parenté et la bienveillance mutuelle.",
-      "source": "Sociologie malgache, traditions"
+      "explanation": "Oui, le **1er janvier est une fête publique et est célébré comme le Nouvel An** à Madagascar, en ligne avec le calendrier grégorien. Cependant, il existe aussi un nouvel an traditionnel malgache, l'Alahamady Be, célébré à une autre date.",
+      "source": "Calendrier des jours fériés à Madagascar"
     },
     {
-      "questionId": "EASY_019",
+      "questionId": "MEDIUM_001",
       "themeId": "CULT",
-      "levelId": "EASY",
-      "ageRange": "6-99",
-      "questionText": "La musique 'Salegy' est un genre musical populaire à Madagascar.",
-      "isTrue": true,
-      "explanation": "Le **Salegy** est un genre musical dynamique et dansant, originaire du nord de Madagascar, très populaire dans tout le pays.",
-      "source": "Musiques du Monde, Musique malgache"
-    },
-    {
-      "questionId": "EASY_024",
-      "themeId": "CULT",
-      "levelId": "EASY",
-      "ageRange": "6-99",
-      "questionText": "Les Malgaches célèbrent Noël le 25 décembre comme dans de nombreux pays chrétiens.",
-      "isTrue": true,
-      "explanation": "Oui, une grande partie de la population malgache est chrétienne et **célèbre Noël le 25 décembre**.",
-      "source": "Pratiques religieuses à Madagascar"
-    },
-    {
-      "questionId": "EASY_029",
-      "themeId": "CULT",
-      "levelId": "EASY",
-      "ageRange": "6-99",
-      "questionText": "Les 'Aloalo' sont des sculptures funéraires en bois typiques de Madagascar.",
-      "isTrue": true,
-      "explanation": "Les **Aloalo** sont des piliers funéraires sculptés, souvent avec des scènes de la vie du défunt, typiques du sud de Madagascar.",
-      "source": "Art funéraire malgache"
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le 'Fihavanana' est un concept malgache qui met l'accent sur l'individualisme et la compétition.",
+      "isTrue": false,
+      "explanation": "Faux, le **Fihavanana** est un concept fondamental de la culture malgache qui promeut l'**harmonie sociale, la solidarité, l'entraide et le lien familial**, et non l'individualisme.",
+      "source": "Anthropologie culturelle malgache"
     },
     {
       "questionId": "MEDIUM_002",
@@ -116,7 +156,27 @@
       "source": "Anthropologie culturelle de Madagascar"
     },
     {
-      "questionId": "MEDIUM_007",
+      "questionId": "MEDIUM_003",
+      "themeId": "CULT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Les 'Fady' sont des interdictions ou tabous respectés par les Malgaches.",
+      "isTrue": true,
+      "explanation": "Oui, les **Fady** sont des **interdits culturels ou tabous** qui régissent la vie quotidienne et les interactions sociales à Madagascar, variant selon les régions et les ethnies.",
+      "source": "Ethnologie malgache, Coutumes"
+    },
+    {
+      "questionId": "MEDIUM_004",
+      "themeId": "CULT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le culte des ancêtres ne joue qu'un rôle mineur dans la vie religieuse et sociale malgache.",
+      "isTrue": false,
+      "explanation": "Faux, le **culte des ancêtres est central dans la vie religieuse et sociale** des Malgaches, influençant de nombreuses pratiques et décisions quotidiennes.",
+      "source": "Sociologie des religions à Madagascar"
+    },
+    {
+      "questionId": "MEDIUM_005",
       "themeId": "CULT",
       "levelId": "MEDIUM",
       "ageRange": "10-99",
@@ -126,27 +186,27 @@
       "source": "Traditions orales malgaches"
     },
     {
-      "questionId": "MEDIUM_012",
+      "questionId": "MEDIUM_006",
       "themeId": "CULT",
       "levelId": "MEDIUM",
       "ageRange": "10-99",
-      "questionText": "Le 'Jejy Voatavo' est un type de danse traditionnelle malgache.",
+      "questionText": "Les danses traditionnelles malgaches sont toujours accompagnées d'instruments électroniques modernes.",
       "isTrue": false,
-      "explanation": "Le **Jejy Voatavo** est un instrument de musique traditionnel malgache, une sorte de vièle à calebasse, et non une danse.",
-      "source": "Instruments de musique traditionnels malgaches"
+      "explanation": "Faux, les danses traditionnelles sont souvent accompagnées d'**instruments acoustiques traditionnels** comme la valiha, le marovany, ou des percussions, bien que la musique moderne intègre parfois des éléments électroniques.",
+      "source": "Musiques et danses traditionnelles malgaches"
     },
     {
-      "questionId": "MEDIUM_017",
+      "questionId": "MEDIUM_007",
       "themeId": "CULT",
       "levelId": "MEDIUM",
       "ageRange": "10-99",
-      "questionText": "Le 'Samby' est une danse traditionnelle exécutée uniquement par les femmes à Madagascar.",
-      "isTrue": false,
-      "explanation": "Le **Samby** est une danse rituelle pratiquée notamment dans le sud de Madagascar, souvent exécutée par des hommes, notamment les guerriers Antandroy.",
-      "source": "Danses traditionnelles malgaches"
+      "questionText": "Le 'Lamba' est un vêtement traditionnel malgache porté par les hommes et les femmes.",
+      "isTrue": true,
+      "explanation": "Oui, le **Lamba** est une **pièce de tissu rectangulaire** drapée autour du corps, essentielle dans la culture malgache, portée par tous et utilisée pour diverses occasions.",
+      "source": "Habillement traditionnel malgache"
     },
     {
-      "questionId": "MEDIUM_022",
+      "questionId": "MEDIUM_008",
       "themeId": "CULT",
       "levelId": "MEDIUM",
       "ageRange": "10-99",
@@ -156,17 +216,27 @@
       "source": "UNESCO - Patrimoine culturel immatériel"
     },
     {
-      "questionId": "MEDIUM_027",
+      "questionId": "MEDIUM_009",
       "themeId": "CULT",
       "levelId": "MEDIUM",
       "ageRange": "10-99",
-      "questionText": "Le 'Don-Tany' est une danse de célébration associée aux récoltes du riz.",
-      "isTrue": true,
-      "explanation": "Le **Don-Tany** (littéralement 'don de la terre') est une danse festive souvent exécutée lors de la fin des récoltes de riz pour remercier et célébrer l'abondance.",
-      "source": "Rites et danses agraires malgaches"
+      "questionText": "Le 'Tsenakely' est un grand supermarché moderne que l'on trouve dans toutes les villes malgaches.",
+      "isTrue": false,
+      "explanation": "Faux, un **Tsenakely** est un **petit marché local ou de quartier**, souvent informel, et non un supermarché.",
+      "source": "Vie quotidienne à Madagascar, Marchés locaux"
     },
     {
-      "questionId": "HARD_002",
+      "questionId": "MEDIUM_010",
+      "themeId": "CULT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le 'Hira Gasy' est une forme d'opéra occidental adaptée par les Malgaches.",
+      "isTrue": false,
+      "explanation": "Faux, le **Hira Gasy** est un **art scénique traditionnel malgache** complet qui combine musique, danse, chant et discours, souvent avec des messages sociaux ou moraux, et est une forme d'expression artistique indigène.",
+      "source": "Arts scéniques malgaches, Ethnologie"
+    },
+    {
+      "questionId": "HARD_001",
       "themeId": "CULT",
       "levelId": "HARD",
       "ageRange": "14-99",
@@ -176,7 +246,7 @@
       "source": "Ethnologie de Madagascar"
     },
     {
-      "questionId": "HARD_007",
+      "questionId": "HARD_002",
       "themeId": "CULT",
       "levelId": "HARD",
       "ageRange": "14-99",
@@ -186,7 +256,7 @@
       "source": "Vocabulaire culturel malgache"
     },
     {
-      "questionId": "HARD_012",
+      "questionId": "HARD_003",
       "themeId": "CULT",
       "levelId": "HARD",
       "ageRange": "14-99",
@@ -194,6 +264,176 @@
       "isTrue": true,
       "explanation": "Le **Fitampoha** (bain des reliques royales) est une cérémonie majeure du peuple Sakalava, qui vise à vénérer les ancêtres royaux et à renforcer la cohésion sociale.",
       "source": "Rituels royaux malgaches"
+    },
+    {
+      "questionId": "HARD_004",
+      "themeId": "CULT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le 'Razana' désigne exclusivement les vivants dans la culture malgache.",
+      "isTrue": false,
+      "explanation": "Faux, les **Razana** désignent les **ancêtres décédés**, qui occupent une place fondamentale et sacrée dans la spiritualité et la vie quotidienne malgache.",
+      "source": "Croyances malgaches, Ethnologie"
+    },
+    {
+      "questionId": "HARD_005",
+      "themeId": "CULT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le 'Fianarantsoa' est un instrument de musique à cordes traditionnel malgache, similaire à un violon.",
+      "isTrue": false,
+      "explanation": "Faux, **Fianarantsoa est une ville importante** des Hautes Terres de Madagascar, et non un instrument de musique.",
+      "source": "Géographie de Madagascar"
+    },
+    {
+      "questionId": "HARD_006",
+      "themeId": "CULT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le 'Sorabe' est un type d'écriture traditionnelle malgache, inspirée de l'alphabet arabe.",
+      "isTrue": true,
+      "explanation": "Vrai, le **Sorabe** est un système d'écriture utilisé pour transcrire la langue malgache, principalement par les Antemoro, et **basé sur l'alphabet arabe**, avant l'adoption de l'alphabet latin.",
+      "source": "Histoire de l'écriture malgache"
+    },
+    {
+      "questionId": "HARD_007",
+      "themeId": "CULT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le 'Famadihana' est une cérémonie qui a lieu uniquement dans la région côtière de Madagascar.",
+      "isTrue": false,
+      "explanation": "Faux, le **Famadihana est principalement pratiqué dans les Hautes Terres centrales de Madagascar**, notamment par les Merina et les Betsileo, et non seulement dans les régions côtières.",
+      "source": "Traditions funéraires malgaches"
+    },
+    {
+      "questionId": "HARD_008",
+      "themeId": "CULT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Les 'Fomba' désignent les coutumes et les règles de conduite traditionnelles de la société malgache.",
+      "isTrue": true,
+      "explanation": "Oui, les **Fomba** sont les **coutumes, les manières et les règles de comportement ancestrales** qui guident la vie sociale et les interactions au sein des communautés malgaches.",
+      "source": "Sociologie malgache, Coutumes"
+    },
+    {
+      "questionId": "HARD_009",
+      "themeId": "CULT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le 'Rova d'Antananarivo' était la résidence exclusive des rois et reines de la dynastie Sakalava.",
+      "isTrue": false,
+      "explanation": "Faux, le **Rova d'Antananarivo** était le complexe palatial et la forteresse des **souverains du royaume Merina** (Hautes Terres), et non de la dynastie Sakalava.",
+      "source": "Histoire de Madagascar, Architecture royale"
+    },
+    {
+      "questionId": "HARD_010",
+      "themeId": "CULT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "La production de 'Landy' (soie sauvage) est une tradition artisanale encore vivace dans certaines régions de Madagascar.",
+      "isTrue": true,
+      "explanation": "Vrai, la fabrication artisanale de la **soie sauvage ('Landy')** à partir des cocons de vers à soie est une **tradition ancestrale** encore préservée dans certaines régions des Hautes Terres, notamment autour d'Ambositra.",
+      "source": "Artisanat textile malgache, Patrimoine culturel"
+    },
+    {
+      "questionId": "EXPERT_001",
+      "themeId": "CULT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le 'Kabary' est une forme d'éloquence exclusivement utilisée lors des funérailles malgaches.",
+      "isTrue": false,
+      "explanation": "Faux, si le Kabary est important lors des funérailles, il est également utilisé dans de nombreuses autres occasions sociales : **mariages, tractations, réunions officielles, fêtes, et même pour résoudre des conflits**.",
+      "source": "Art oratoire malgache, Ethnologie"
+    },
+    {
+      "questionId": "EXPERT_002",
+      "themeId": "CULT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "L'architecture traditionnelle des Hautes Terres de Madagascar utilise fréquemment des maisons en bois et en terre, avec des toits de chaume ou de tuiles.",
+      "isTrue": true,
+      "explanation": "Oui, l'architecture des Hautes Terres se caractérise par des **maisons en briques de terre ou en pisé, souvent à plusieurs étages, avec des balcons en bois sculpté et des toits de tuiles ou de chaume**, reflétant une influence asiatique et africaine.",
+      "source": "Architecture traditionnelle malgache"
+    },
+    {
+      "questionId": "EXPERT_003",
+      "themeId": "CULT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le 'Mpihira Gasy' est le nom donné aux musiciens qui jouent uniquement de la Valiha.",
+      "isTrue": false,
+      "explanation": "Faux, le **Mpihira Gasy** désigne une **troupe entière de Hiragasy**, qui sont des artistes complets (chanteurs, musiciens, danseurs, orateurs) et utilisent une variété d'instruments, pas seulement la Valiha.",
+      "source": "Arts scéniques malgaches, Ethnologie"
+    },
+    {
+      "questionId": "EXPERT_004",
+      "themeId": "CULT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Les 'Ombiasa' sont des guérisseurs traditionnels qui utilisent des plantes médicinales et des rituels pour soigner.",
+      "isTrue": true,
+      "explanation": "Vrai, les **Ombiasa** sont des figures respectées dans la société malgache, agissant comme **guérisseurs, devins et conseillers spirituels**, combinant la connaissance des plantes et des rituels ancestraux.",
+      "source": "Médecine traditionnelle malgache, Anthropologie"
+    },
+    {
+      "questionId": "EXPERT_005",
+      "themeId": "CULT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le 'Hainteny' est un genre littéraire malgache qui se caractérise par des poèmes courts et sans rimes.",
+      "isTrue": false,
+      "explanation": "Faux, le **Hainteny** est un **genre poétique et oratoire traditionnel malgache** caractérisé par une **structure métaphorique complexe, des proverbes, et souvent un dialogue** ou un échange entre deux parties, plutôt que des poèmes courts et sans rimes.",
+      "source": "Littérature orale malgache, Études linguistiques"
+    },
+    {
+      "questionId": "EXPERT_006",
+      "themeId": "CULT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le 'Vintana' est le concept malgache de destinée ou de destin, influencé par le calendrier astrologique.",
+      "isTrue": true,
+      "explanation": "Vrai, le **Vintana** est une notion essentielle dans les croyances malgaches, représentant la **destinée individuelle ou collective influencée par les jours et les moments propices ou défavorables**, souvent déterminée par des astrologues (Mpanandro).",
+      "source": "Croyances malgaches, Astrologie traditionnelle"
+    },
+    {
+      "questionId": "EXPERT_007",
+      "themeId": "CULT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "La circoncision des garçons ('Didy Folo') est une pratique religieuse universelle à Madagascar, quelle que soit l'ethnie ou la religion.",
+      "isTrue": false,
+      "explanation": "Faux, bien que la **circoncision ('Didy Folo')** soit une **pratique culturelle et rituelle très répandue** à Madagascar, elle n'est pas universelle pour toutes les ethnies ou religions, et ses modalités varient considérablement.",
+      "source": "Rites de passage malgaches, Ethnographie"
+    },
+    {
+      "questionId": "EXPERT_008",
+      "themeId": "CULT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Les 'Zebu' sont des animaux sacrés et ne sont jamais consommés à Madagascar.",
+      "isTrue": false,
+      "explanation": "Faux, les **Zebu sont des bovins très importants culturellement et symboliquement** à Madagascar (signe de richesse, offrandes), mais ils sont aussi une **source majeure de viande et de lait** et sont consommés, notamment lors des fêtes et cérémonies.",
+      "source": "Élevage à Madagascar, Culture et alimentation"
+    },
+    {
+      "questionId": "EXPERT_009",
+      "themeId": "CULT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le 'Silamo' est le nom d'un type de danse folklorique typique de la côte Est de Madagascar.",
+      "isTrue": false,
+      "explanation": "Faux, **Silamo est un terme malgache pour désigner l'Islam** ou les musulmans, et non un type de danse folklorique.",
+      "source": "Lexique malgache, Religions à Madagascar"
+    },
+    {
+      "questionId": "EXPERT_010",
+      "themeId": "CULT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Les 'Ambaniandro' sont les peuples originaires de l'intérieur des terres, les 'gens d'en-haut', par opposition aux côtiers.",
+      "isTrue": true,
+      "explanation": "Vrai, les **Ambaniandro** (littéralement 'sous le soleil' ou 'gens d'en-haut') est un terme utilisé pour désigner les **habitants des Hautes Terres centrales de Madagascar**, en particulier les Merina, souvent par opposition aux populations côtières.",
+      "source": "Vocabulaire ethnographique malgache, Histoire"
     }
   ]
 }
