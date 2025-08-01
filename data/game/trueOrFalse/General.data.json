@@ -1,0 +1,79 @@
+{
+  "gameTitle": "Madagascar: Vrai ou Faux ?",
+  "description": "Un jeu de questions-réponses Vrai/Faux sur Madagascar, explorant sa culture, géographie, histoire, littérature et ses proverbes, avec différents niveaux de difficulté et adaptés à divers âges.",
+  "themes": [
+    {
+      "themeName": "Général",
+      "themeId": "GEN",
+      "description": "Questions variées sur Madagascar, couvrant des faits divers, des statistiques ou des informations transversales."
+    }
+  ],
+  "levels": [
+    {
+      "levelName": "Facile",
+      "levelId": "EASY",
+      "description": "Questions générales et accessibles, idéales pour les débutants.",
+      "minAge": 6
+    },
+    {
+      "levelName": "Moyen",
+      "levelId": "MEDIUM",
+      "description": "Questions nécessitant une connaissance un peu plus approfondie.",
+      "minAge": 10
+    },
+    {
+      "levelName": "Difficile",
+      "levelId": "HARD",
+      "description": "Questions spécifiques et détaillées, pour les experts de Madagascar.",
+      "minAge": 14
+    },
+    {
+      "levelName": "Expert",
+      "levelId": "EXPERT",
+      "description": "Questions très pointues ou nécessitant une réflexion approfondie, pour les connaisseurs et les curieux.",
+      "minAge": 16
+    }
+  ],
+  "questions": [
+    {
+      "questionId": "EXPERT_016",
+      "themeId": "GEN",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Madagascar est le premier exportateur mondial de vanille naturelle.",
+      "isTrue": true,
+      "explanation": "Madagascar est de loin le **plus grand producteur et exportateur mondial de vanille naturelle**, fournissant environ 80% de la production mondiale.",
+      "source": "FAO, Rapports sur la production agricole"
+    },
+    {
+      "questionId": "EXPERT_017",
+      "themeId": "GEN",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le tourisme à Madagascar est principalement axé sur le tourisme de masse et les grands complexes hôteliers.",
+      "isTrue": false,
+      "explanation": "Le tourisme à Madagascar est plutôt orienté vers le **tourisme écologique et d'aventure**, avec un accent sur la biodiversité unique et les parcs nationaux, bien qu'il existe quelques grands hôtels.",
+      "source": "Office National du Tourisme de Madagascar, Rapports du secteur"
+    },
+    {
+      "questionId": "EXPERT_019",
+      "themeId": "GEN",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Madagascar a été le premier pays africain à lancer un satellite de télécommunications en orbite.",
+      "isTrue": false,
+      "explanation": "Non, Madagascar n'a pas encore lancé de satellite de télécommunications en orbite. Plusieurs pays africains ont des satellites, mais ce n'est pas le cas de Madagascar à ce jour.",
+      "source": "Agences spatiales africaines, Actualités spatiales"
+    },
+    {
+      "questionId": "EXPERT_025",
+      "themeId": "GEN",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "La majorité de l'électricité à Madagascar est produite par des centrales nucléaires.",
+      "isTrue": false,
+      "explanation": "La majorité de l'électricité à Madagascar est produite à partir de sources **hydroélectriques et thermiques (groupes électrogènes)**, et non par des centrales nucléaires.",
+      "source": "Ministère de l'Énergie de Madagascar, Agence de l'énergie internationale"
+    }
+  ]
+}
