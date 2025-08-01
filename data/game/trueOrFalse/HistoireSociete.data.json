@@ -36,6 +36,46 @@
   ],
   "questions": [
     {
+      "questionId": "EASY_001",
+      "themeId": "HIST",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Madagascar est un pays indépendant depuis moins de 50 ans.",
+      "isTrue": false,
+      "explanation": "Madagascar a obtenu son indépendance en **1960**, il y a donc plus de 60 ans.",
+      "source": "Histoire contemporaine de Madagascar"
+    },
+    {
+      "questionId": "EASY_002",
+      "themeId": "HIST",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Les pirates ont autrefois eu des bases célèbres à Madagascar.",
+      "isTrue": true,
+      "explanation": "Oui, au 17ème et 18ème siècles, des îles comme **Sainte-Marie (Nosy Boraha)** étaient des repaires connus pour les pirates de l'océan Indien.",
+      "source": "Histoire de la piraterie dans l'océan Indien"
+    },
+    {
+      "questionId": "EASY_003",
+      "themeId": "HIST",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "La reine Ranavalona Ière a été une reine très appréciée et pacifiste.",
+      "isTrue": false,
+      "explanation": "Faux, la reine **Ranavalona Ière (1828-1861)** est connue pour son règne sévère et isolationniste, marqué par des persécutions contre les Chrétiens et des guerres, ce qui lui a valu le surnom de 'Ranavalona la Cruelle'.",
+      "source": "Histoire des monarchies malgaches"
+    },
+    {
+      "questionId": "EASY_004",
+      "themeId": "HIST",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "La population de Madagascar est majoritairement d'origine africaine.",
+      "isTrue": false,
+      "explanation": "La population malgache est un **mélange d'origines africaines et asiatiques (austronésiennes)**, les premières vagues de peuplement étant venues d'Asie du Sud-Est.",
+      "source": "Génétique des populations, Histoire du peuplement de Madagascar"
+    },
+    {
       "questionId": "EASY_005",
       "themeId": "HIST",
       "levelId": "EASY",
@@ -46,7 +86,17 @@
       "source": "Histoire de Madagascar - Wikipédia"
     },
     {
-      "questionId": "EASY_010",
+      "questionId": "EASY_006",
+      "themeId": "HIST",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "L'éducation est obligatoire et gratuite pour tous les enfants à Madagascar.",
+      "isTrue": true,
+      "explanation": "Oui, l'**éducation primaire est théoriquement obligatoire et gratuite** à Madagascar, bien que des défis persistent en matière d'accès et de qualité.",
+      "source": "Ministère de l'Éducation Nationale de Madagascar, UNICEF"
+    },
+    {
+      "questionId": "EASY_007",
       "themeId": "HIST",
       "levelId": "EASY",
       "ageRange": "6-99",
@@ -56,7 +106,7 @@
       "source": "Histoire coloniale de Madagascar"
     },
     {
-      "questionId": "EASY_015",
+      "questionId": "EASY_008",
       "themeId": "HIST",
       "levelId": "EASY",
       "ageRange": "6-99",
@@ -66,7 +116,7 @@
       "source": "Archives nationales de Madagascar, Histoire contemporaine"
     },
     {
-      "questionId": "EASY_020",
+      "questionId": "EASY_009",
       "themeId": "HIST",
       "levelId": "EASY",
       "ageRange": "6-99",
@@ -76,17 +126,7 @@
       "source": "Archéologie de Madagascar, Histoire ancienne"
     },
     {
-      "questionId": "EASY_025",
-      "themeId": "HIST",
-      "levelId": "EASY",
-      "ageRange": "6-99",
-      "questionText": "La monarchie a été abolie à Madagascar par une révolution populaire au 20ème siècle.",
-      "isTrue": false,
-      "explanation": "La monarchie a été abolie par la **colonisation française en 1897**, et non par une révolution populaire interne.",
-      "source": "Fin de la monarchie malgache"
-    },
-    {
-      "questionId": "EASY_030",
+      "questionId": "EASY_010",
       "themeId": "HIST",
       "levelId": "EASY",
       "ageRange": "6-99",
@@ -96,7 +136,17 @@
       "source": "Histoire des royaumes malgaches"
     },
     {
-      "questionId": "MEDIUM_003",
+      "questionId": "MEDIUM_001",
+      "themeId": "HIST",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le royaume Merina a réussi à unifier toute l'île de Madagascar avant l'arrivée des Européens.",
+      "isTrue": false,
+      "explanation": "Faux, le royaume Merina, sous **Radama Ier**, a conquis une grande partie de l'île, mais **n'a pas réussi à unifier l'intégralité du territoire** avant la colonisation française. Certains royaumes côtiers ont conservé une autonomie.",
+      "source": "Histoire précoloniale de Madagascar"
+    },
+    {
+      "questionId": "MEDIUM_002",
       "themeId": "HIST",
       "levelId": "MEDIUM",
       "ageRange": "10-99",
@@ -106,7 +156,7 @@
       "source": "Histoire politique de Madagascar"
     },
     {
-      "questionId": "MEDIUM_008",
+      "questionId": "MEDIUM_003",
       "themeId": "HIST",
       "levelId": "MEDIUM",
       "ageRange": "10-99",
@@ -116,7 +166,7 @@
       "source": "Histoire des royaumes et unification de Madagascar"
     },
     {
-      "questionId": "MEDIUM_013",
+      "questionId": "MEDIUM_004",
       "themeId": "HIST",
       "levelId": "MEDIUM",
       "ageRange": "10-99",
@@ -126,7 +176,7 @@
       "source": "Histoire de la colonisation de Madagascar"
     },
     {
-      "questionId": "MEDIUM_018",
+      "questionId": "MEDIUM_005",
       "themeId": "HIST",
       "levelId": "MEDIUM",
       "ageRange": "10-99",
@@ -136,7 +186,7 @@
       "source": "Patrimoine historique de Madagascar"
     },
     {
-      "questionId": "MEDIUM_023",
+      "questionId": "MEDIUM_006",
       "themeId": "HIST",
       "levelId": "MEDIUM",
       "ageRange": "10-99",
@@ -146,7 +196,7 @@
       "source": "Histoire de la décolonisation de Madagascar"
     },
     {
-      "questionId": "MEDIUM_028",
+      "questionId": "MEDIUM_007",
       "themeId": "HIST",
       "levelId": "MEDIUM",
       "ageRange": "10-99",
@@ -156,7 +206,37 @@
       "source": "Histoire sociale de Madagascar"
     },
     {
-      "questionId": "HARD_003",
+      "questionId": "MEDIUM_008",
+      "themeId": "HIST",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le Roi Radama Ier est considéré comme le premier roi à avoir presque unifié Madagascar au début du 19ème siècle.",
+      "isTrue": true,
+      "explanation": "Oui, **Radama Ier (1810-1828)**, fils d'Andrianampoinimerina, a réussi à étendre considérablement le royaume Merina et est souvent crédité de la quasi-unification de l'île.",
+      "source": "Histoire des royaumes malgaches"
+    },
+    {
+      "questionId": "MEDIUM_009",
+      "themeId": "HIST",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le Zébu est un animal introduit à Madagascar par les colons européens.",
+      "isTrue": false,
+      "explanation": "Faux, le **Zébu a été introduit à Madagascar bien avant la colonisation européenne**, probablement par les migrants africains, et fait partie intégrante de la culture malgache depuis des siècles.",
+      "source": "Archéozoologie de Madagascar, Histoire agricole"
+    },
+    {
+      "questionId": "MEDIUM_010",
+      "themeId": "HIST",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le système de castes ('Andriana', 'Hova', 'Andevo') a disparu complètement de la société malgache moderne.",
+      "isTrue": false,
+      "explanation": "Bien que le système de castes ne soit plus officiellement reconnu, ses **vestiges sociaux et des distinctions informelles** persistent encore dans certaines régions de Madagascar.",
+      "source": "Sociologie malgache, Études post-coloniales"
+    },
+    {
+      "questionId": "HARD_001",
       "themeId": "HIST",
       "levelId": "HARD",
       "ageRange": "14-99",
@@ -166,7 +246,7 @@
       "source": "Droit constitutionnel malgache, Histoire politique"
     },
     {
-      "questionId": "HARD_008",
+      "questionId": "HARD_002",
       "themeId": "HIST",
       "levelId": "HARD",
       "ageRange": "14-99",
@@ -176,7 +256,7 @@
       "source": "Histoire coloniale de l'Afrique et de Madagascar"
     },
     {
-      "questionId": "HARD_013",
+      "questionId": "HARD_003",
       "themeId": "HIST",
       "levelId": "HARD",
       "ageRange": "14-99",
@@ -184,6 +264,176 @@
       "isTrue": false,
       "explanation": "Le **Code des 305 articles de Ranavalona Ière** (1828-1861) était un recueil de lois basé sur le droit coutumier malgache, avec des influences chrétiennes et européennes, mais il visait avant tout à consolider son pouvoir et à maintenir l'ordre social traditionnel, souvent avec une grande sévérité.",
       "source": "Droit et législation malgaches anciennes"
+    },
+    {
+      "questionId": "HARD_004",
+      "themeId": "HIST",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le 'Fanorona' est un jeu de stratégie traditionnel malgache, utilisé aussi pour l'apprentissage militaire et politique.",
+      "isTrue": true,
+      "explanation": "Oui, le **Fanorona** est un jeu de plateau ancestral très populaire à Madagascar, dont la complexité a souvent été associée à des stratégies de guerre et à la réflexion politique.",
+      "source": "Jeux traditionnels malgaches, Anthropologie du jeu"
+    },
+    {
+      "questionId": "HARD_005",
+      "themeId": "HIST",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "L'Église Catholique est la religion majoritaire à Madagascar depuis le 19ème siècle.",
+      "isTrue": false,
+      "explanation": "Faux, bien que le christianisme soit majoritaire, il est partagé entre plusieurs confessions. Les **Églises protestantes ont historiquement eu une influence majeure** dès le 19ème siècle avant l'Église catholique, et une partie importante de la population pratique encore des religions traditionnelles.",
+      "source": "Histoire des religions à Madagascar, Statistiques religieuses"
+    },
+    {
+      "questionId": "HARD_006",
+      "themeId": "HIST",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le Traité de protection de 1885 entre la France et Madagascar a établi un protectorat français total sur l'île.",
+      "isTrue": false,
+      "explanation": "Faux, le **Traité de protection de 1885** a été un compromis ambigu : la France s'est arrogé le droit de représenter Madagascar à l'étranger, mais le royaume a maintenu son indépendance interne jusqu'à la guerre et l'annexion de 1895-1897.",
+      "source": "Relations franco-malgaches, Histoire diplomatique"
+    },
+    {
+      "questionId": "HARD_007",
+      "themeId": "HIST",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le gouvernement colonial français a systématiquement détruit toutes les structures administratives royales Merina.",
+      "isTrue": false,
+      "explanation": "Faux, si l'administration royale a été démantelée au sommet, les Français ont souvent **réutilisé et adapté certaines structures administratives locales et chefferies traditionnelles** pour faciliter leur contrôle du territoire.",
+      "source": "Administration coloniale à Madagascar"
+    },
+    {
+      "questionId": "HARD_008",
+      "themeId": "HIST",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "La période de l'histoire malgache de 1975 à 1993 est connue sous le nom de 'Deuxième République' ou 'Révolution Socialiste'.",
+      "isTrue": true,
+      "explanation": "Vrai, la période de 1975 à 1993, sous la présidence de Didier Ratsiraka, est appelée la **Deuxième République (ou République Démocratique de Madagascar)** et a été marquée par une orientation socialiste et révolutionnaire.",
+      "source": "Histoire politique contemporaine de Madagascar"
+    },
+    {
+      "questionId": "HARD_009",
+      "themeId": "HIST",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le rôle des 'Andriana' (nobles) a complètement disparu de la vie politique actuelle de Madagascar.",
+      "isTrue": false,
+      "explanation": "Faux, bien que leurs privilèges officiels aient été abolis, les descendants des **Andriana** (nobles) conservent souvent une **influence sociale, économique et parfois politique informelle** dans certaines régions ou au sein de certaines familles.",
+      "source": "Sociologie politique malgache, Traditions"
+    },
+    {
+      "questionId": "HARD_010",
+      "themeId": "HIST",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "L'arrivée des premiers missionnaires chrétiens à Madagascar a été initiée par des explorateurs portugais au 16ème siècle.",
+      "isTrue": false,
+      "explanation": "Faux, les premiers contacts portugais au 16ème siècle étaient commerciaux. L'**évangélisation chrétienne significative** a commencé bien plus tard, au **19ème siècle**, avec l'arrivée de missionnaires britanniques (Protestants) et français (Catholiques).",
+      "source": "Histoire des missions à Madagascar"
+    },
+    {
+      "questionId": "EXPERT_001",
+      "themeId": "HIST",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "La période du 'Malagasy Iray' (Unité Malgache) sous Philibert Tsiranana a réussi à éradiquer toutes les tensions ethniques héritées des royaumes précoloniaux.",
+      "isTrue": false,
+      "explanation": "Faux, bien que le concept de 'Malagasy Iray' visait à promouvoir l'unité nationale, la période de la Première République sous **Philibert Tsiranana (1960-1972)** a été marquée par des **tensions croissantes entre les élites côtières (côtiers) et les habitants des hauts plateaux (Merina)**, ainsi que des problèmes de gouvernance qui ont mené à sa chute.",
+      "source": "Histoire politique de la Première République malgache"
+    },
+    {
+      "questionId": "EXPERT_002",
+      "themeId": "HIST",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le concept de 'Fanjakana' englobe à la fois le pouvoir de l'État et la souveraineté des ancêtres dans la pensée malgache.",
+      "isTrue": true,
+      "explanation": "Vrai, le **Fanjakana** (gouvernement, royaume, État) est un concept complexe qui, dans la pensée malgache, intègre non seulement l'autorité politique visible, mais aussi une **légitimité spirituelle et ancestrale profonde**, reliant le pouvoir des vivants à celui des défunts.",
+      "source": "Philosophie politique malgache, Anthropologie du pouvoir"
+    },
+    {
+      "questionId": "EXPERT_003",
+      "themeId": "HIST",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "L'administration coloniale française a introduit le système de 'Corvée' pour la construction d'infrastructures, mais uniquement sur la base du volontariat.",
+      "isTrue": false,
+      "explanation": "Faux, le système de la **Corvée** (travail forcé) a été **largement utilisé par l'administration coloniale française** pour la construction de routes, chemins de fer et autres infrastructures, et ce, de manière **obligatoire et souvent brutale**, non volontaire.",
+      "source": "Histoire coloniale de Madagascar, Travail forcé"
+    },
+    {
+      "questionId": "EXPERT_004",
+      "themeId": "HIST",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "La crise politique de 2009 à Madagascar a été résolue pacifiquement par des élections immédiates, reconnues internationalement.",
+      "isTrue": false,
+      "explanation": "Faux, la **crise de 2009** a entraîné un **changement anticonstitutionnel de pouvoir** et une période d'isolement international pour Madagascar, avec des élections qui n'ont été organisées qu'en 2013-2014, après de longues négociations et sanctions.",
+      "source": "Analyse politique de Madagascar, Relations internationales"
+    },
+    {
+      "questionId": "EXPERT_005",
+      "themeId": "HIST",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le 'Trano Gasy' (maison malgache) traditionnelle des Hautes Terres est construite avec le toit orienté vers le nord pour des raisons symboliques et cosmologiques.",
+      "isTrue": true,
+      "explanation": "Vrai, l'orientation des maisons traditionnelles, et notamment du toit, vers le **nord (Avaratra)** est une pratique fondamentale dans la **cosmologie malgache**, le nord étant considéré comme la direction la plus sacrée et la plus noble.",
+      "source": "Architecture traditionnelle malgache, Cosmologie"
+    },
+    {
+      "questionId": "EXPERT_006",
+      "themeId": "HIST",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le rôle des 'Mpanandro' (astrologues-devins) a été formellement interdit par toutes les Républiques malgaches successives.",
+      "isTrue": false,
+      "explanation": "Faux, bien que non officiellement reconnus par l'État, les **Mpanandro conservent une influence significative** dans la vie quotidienne de nombreux Malgaches, et leurs conseils sont toujours recherchés pour des événements importants (mariages, constructions, Famadiana), sans être formellement interdits.",
+      "source": "Croyances et pratiques traditionnelles malgaches"
+    },
+    {
+      "questionId": "EXPERT_007",
+      "themeId": "HIST",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "La Constitution de 1992 à Madagascar a marqué un tournant vers le multipartisme et une plus grande démocratisation après une période de régime socialiste.",
+      "isTrue": true,
+      "explanation": "Vrai, la **Constitution de la Troisième République (1992)** a mis fin au régime socialiste de la Deuxième République, instaurant un système **multipartite, une séparation des pouvoirs** et une orientation plus démocratique et libérale.",
+      "source": "Droit constitutionnel malgache, Transitions politiques"
+    },
+    {
+      "questionId": "EXPERT_008",
+      "themeId": "HIST",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "La Grande Famine de 1974-1975 dans le Sud de Madagascar était due principalement à un conflit armé prolongé.",
+      "isTrue": false,
+      "explanation": "Faux, la **grande famine de 1974-1975 dans le Sud** était principalement le résultat d'une **sécheresse persistante et sévère**, aggravée par des problèmes d'accès et de gouvernance, et non directement par un conflit armé majeur à cette période.",
+      "source": "Histoire économique et sociale de Madagascar, Rapports humanitaires"
+    },
+    {
+      "questionId": "EXPERT_009",
+      "themeId": "HIST",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le 'Doany' est un terme désignant un lieu de culte protestant spécifique à la culture malgache.",
+      "isTrue": false,
+      "explanation": "Faux, un **Doany** est un **site sacré royal ou princier** dans certaines traditions malgaches (notamment Sakalava), souvent lié au culte des ancêtres royaux et aux reliques, et non un lieu de culte protestant.",
+      "source": "Ethnologie malgache, Culte des ancêtres"
+    },
+    {
+      "questionId": "EXPERT_010",
+      "themeId": "HIST",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "La doctrine du 'Fokonolona' est un concept récent introduit pour moderniser la gouvernance locale après l'indépendance.",
+      "isTrue": false,
+      "explanation": "Faux, le **Fokonolona** est un concept traditionnel ancestral qui désigne la **communauté villageoise et son mode d'organisation collective**, basé sur la consultation et le consensus, et qui a été réactivé (parfois réinterprété) après l'indépendance, mais n'est pas récent.",
+      "source": "Droit coutumier malgache, Sociologie rurale"
     }
   ]
 }
