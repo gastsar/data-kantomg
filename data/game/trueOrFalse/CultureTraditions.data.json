@@ -1,0 +1,199 @@
+{
+  "gameTitle": "Madagascar: Vrai ou Faux ?",
+  "description": "Un jeu de questions-réponses Vrai/Faux sur Madagascar, explorant sa culture, géographie, histoire, littérature et ses proverbes, avec différents niveaux de difficulté et adaptés à divers âges.",
+  "themes": [
+    {
+      "themeName": "Culture & Traditions",
+      "themeId": "CULT",
+      "description": "Questions sur les coutumes, fêtes, musique, artisanat et mode de vie malgaches."
+    }
+  ],
+  "levels": [
+    {
+      "levelName": "Facile",
+      "levelId": "EASY",
+      "description": "Questions générales et accessibles, idéales pour les débutants.",
+      "minAge": 6
+    },
+    {
+      "levelName": "Moyen",
+      "levelId": "MEDIUM",
+      "description": "Questions nécessitant une connaissance un peu plus approfondie.",
+      "minAge": 10
+    },
+    {
+      "levelName": "Difficile",
+      "levelId": "HARD",
+      "description": "Questions spécifiques et détaillées, pour les experts de Madagascar.",
+      "minAge": 14
+    },
+    {
+      "levelName": "Expert",
+      "levelId": "EXPERT",
+      "description": "Questions très pointues ou nécessitant une réflexion approfondie, pour les connaisseurs et les curieux.",
+      "minAge": 16
+    }
+  ],
+  "questions": [
+    {
+      "questionId": "EASY_002",
+      "themeId": "CULT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Le riz est l'aliment de base à Madagascar.",
+      "isTrue": true,
+      "explanation": "Le **riz** est en effet l'aliment principal et la base de presque tous les repas à Madagascar.",
+      "source": "Culture culinaire malgache"
+    },
+    {
+      "questionId": "EASY_004",
+      "themeId": "CULT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Le football est le sport le plus populaire à Madagascar.",
+      "isTrue": true,
+      "explanation": "Le **football** est très populaire à Madagascar, avec de nombreux fans et des ligues locales.",
+      "source": "Observations culturelles, médias sportifs malgaches"
+    },
+    {
+      "questionId": "EASY_009",
+      "themeId": "CULT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Le 'Moraingy' est un art martial traditionnel malgache.",
+      "isTrue": true,
+      "explanation": "Le **Moraingy** est un sport de combat traditionnel malgache, pratiqué principalement dans les régions côtières.",
+      "source": "Culture malgache, Arts martiaux traditionnels"
+    },
+    {
+      "questionId": "EASY_014",
+      "themeId": "CULT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Le 'Fihavanana' est un concept important de l'hospitalité malgache.",
+      "isTrue": true,
+      "explanation": "Le **Fihavanana** est un pilier de la société malgache, incarnant l'amitié, la solidarité, la parenté et la bienveillance mutuelle.",
+      "source": "Sociologie malgache, traditions"
+    },
+    {
+      "questionId": "EASY_019",
+      "themeId": "CULT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "La musique 'Salegy' est un genre musical populaire à Madagascar.",
+      "isTrue": true,
+      "explanation": "Le **Salegy** est un genre musical dynamique et dansant, originaire du nord de Madagascar, très populaire dans tout le pays.",
+      "source": "Musiques du Monde, Musique malgache"
+    },
+    {
+      "questionId": "EASY_024",
+      "themeId": "CULT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Les Malgaches célèbrent Noël le 25 décembre comme dans de nombreux pays chrétiens.",
+      "isTrue": true,
+      "explanation": "Oui, une grande partie de la population malgache est chrétienne et **célèbre Noël le 25 décembre**.",
+      "source": "Pratiques religieuses à Madagascar"
+    },
+    {
+      "questionId": "EASY_029",
+      "themeId": "CULT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Les 'Aloalo' sont des sculptures funéraires en bois typiques de Madagascar.",
+      "isTrue": true,
+      "explanation": "Les **Aloalo** sont des piliers funéraires sculptés, souvent avec des scènes de la vie du défunt, typiques du sud de Madagascar.",
+      "source": "Art funéraire malgache"
+    },
+    {
+      "questionId": "MEDIUM_002",
+      "themeId": "CULT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le 'Famadiana' est une cérémonie malgache qui consiste à enterrer les morts.",
+      "isTrue": false,
+      "explanation": "Le **Famadiana** est une cérémonie traditionnelle malgache qui consiste à déterrer les corps des ancêtres pour les envelopper dans de nouveaux linceuls et célébrer avec eux, en signe de respect et de lien avec les défunts.",
+      "source": "Anthropologie culturelle de Madagascar"
+    },
+    {
+      "questionId": "MEDIUM_007",
+      "themeId": "CULT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le 'Kabary' est une forme d'art oratoire traditionnelle malgache.",
+      "isTrue": true,
+      "explanation": "Le **Kabary** est un discours public traditionnel, souvent très élaboré et riche en proverbes, utilisé lors de cérémonies, de négociations ou de funérailles.",
+      "source": "Traditions orales malgaches"
+    },
+    {
+      "questionId": "MEDIUM_012",
+      "themeId": "CULT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le 'Jejy Voatavo' est un type de danse traditionnelle malgache.",
+      "isTrue": false,
+      "explanation": "Le **Jejy Voatavo** est un instrument de musique traditionnel malgache, une sorte de vièle à calebasse, et non une danse.",
+      "source": "Instruments de musique traditionnels malgaches"
+    },
+    {
+      "questionId": "MEDIUM_017",
+      "themeId": "CULT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le 'Samby' est une danse traditionnelle exécutée uniquement par les femmes à Madagascar.",
+      "isTrue": false,
+      "explanation": "Le **Samby** est une danse rituelle pratiquée notamment dans le sud de Madagascar, souvent exécutée par des hommes, notamment les guerriers Antandroy.",
+      "source": "Danses traditionnelles malgaches"
+    },
+    {
+      "questionId": "MEDIUM_022",
+      "themeId": "CULT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le 'Zafimaniry' est un groupe ethnique malgache réputé pour son artisanat du bois et ses techniques de menuiserie sans clous.",
+      "isTrue": true,
+      "explanation": "Les **Zafimaniry**, un peuple des hauts plateaux du sud-est de Madagascar, sont célèbres pour leur savoir-faire exceptionnel en menuiserie et sculpture sur bois, inscrit au patrimoine culturel immatériel de l'UNESCO.",
+      "source": "UNESCO - Patrimoine culturel immatériel"
+    },
+    {
+      "questionId": "MEDIUM_027",
+      "themeId": "CULT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le 'Don-Tany' est une danse de célébration associée aux récoltes du riz.",
+      "isTrue": true,
+      "explanation": "Le **Don-Tany** (littéralement 'don de la terre') est une danse festive souvent exécutée lors de la fin des récoltes de riz pour remercier et célébrer l'abondance.",
+      "source": "Rites et danses agraires malgaches"
+    },
+    {
+      "questionId": "HARD_002",
+      "themeId": "CULT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le 'tromba' est une forme de possession spirituelle dans certaines cultures malgaches.",
+      "isTrue": true,
+      "explanation": "Le **tromba** est un phénomène de possession par des esprits d'anciens rois ou ancêtres, présent dans les rituels traditionnels de certaines ethnies malgaches, notamment Sakalava et Antakarana.",
+      "source": "Ethnologie de Madagascar"
+    },
+    {
+      "questionId": "HARD_007",
+      "themeId": "CULT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le 'Tsangatsangana' est une pratique funéraire malgache impliquant la construction de tombes monumentales.",
+      "isTrue": false,
+      "explanation": "Le **Tsangatsangana** est un pèlerinage ou une excursion joyeuse, souvent vers un lieu sacré ou historique, et non une pratique funéraire liée aux tombes.",
+      "source": "Vocabulaire culturel malgache"
+    },
+    {
+      "questionId": "HARD_012",
+      "themeId": "CULT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le 'Fitampoha' est une cérémonie royale Sakalava qui se déroule tous les cinq ans et implique le bain des reliques royales.",
+      "isTrue": true,
+      "explanation": "Le **Fitampoha** (bain des reliques royales) est une cérémonie majeure du peuple Sakalava, qui vise à vénérer les ancêtres royaux et à renforcer la cohésion sociale.",
+      "source": "Rituels royaux malgaches"
+    }
+  ]
+}

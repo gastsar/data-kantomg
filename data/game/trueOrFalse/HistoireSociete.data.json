@@ -1,0 +1,189 @@
+{
+  "gameTitle": "Madagascar: Vrai ou Faux ?",
+  "description": "Un jeu de questions-réponses Vrai/Faux sur Madagascar, explorant sa culture, géographie, histoire, littérature et ses proverbes, avec différents niveaux de difficulté et adaptés à divers âges.",
+  "themes": [
+    {
+      "themeName": "Histoire & Société",
+      "themeId": "HIST",
+      "description": "Questions sur l'histoire de Madagascar, ses personnages clés, son organisation sociale et ses défis actuels."
+    }
+  ],
+  "levels": [
+    {
+      "levelName": "Facile",
+      "levelId": "EASY",
+      "description": "Questions générales et accessibles, idéales pour les débutants.",
+      "minAge": 6
+    },
+    {
+      "levelName": "Moyen",
+      "levelId": "MEDIUM",
+      "description": "Questions nécessitant une connaissance un peu plus approfondie.",
+      "minAge": 10
+    },
+    {
+      "levelName": "Difficile",
+      "levelId": "HARD",
+      "description": "Questions spécifiques et détaillées, pour les experts de Madagascar.",
+      "minAge": 14
+    },
+    {
+      "levelName": "Expert",
+      "levelId": "EXPERT",
+      "description": "Questions très pointues ou nécessitant une réflexion approfondie, pour les connaisseurs et les curieux.",
+      "minAge": 16
+    }
+  ],
+  "questions": [
+    {
+      "questionId": "EASY_005",
+      "themeId": "HIST",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Madagascar a toujours été une république.",
+      "isTrue": false,
+      "explanation": "Madagascar a été un **royaume** pendant une grande partie de son histoire avant de devenir une colonie française, puis une république.",
+      "source": "Histoire de Madagascar - Wikipédia"
+    },
+    {
+      "questionId": "EASY_010",
+      "themeId": "HIST",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "La France a colonisé Madagascar pendant plusieurs siècles.",
+      "isTrue": false,
+      "explanation": "La France a colonisé Madagascar de **1897 à 1960**, soit moins d'un siècle, mais l'influence française est restée forte après l'indépendance.",
+      "source": "Histoire coloniale de Madagascar"
+    },
+    {
+      "questionId": "EASY_015",
+      "themeId": "HIST",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Madagascar a obtenu son indépendance de la France en 1960.",
+      "isTrue": true,
+      "explanation": "Madagascar a proclamé son **indépendance le 26 juin 1960**.",
+      "source": "Archives nationales de Madagascar, Histoire contemporaine"
+    },
+    {
+      "questionId": "EASY_020",
+      "themeId": "HIST",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Les premiers habitants de Madagascar venaient d'Afrique continentale.",
+      "isTrue": false,
+      "explanation": "Les premiers habitants de Madagascar seraient venus d'**Asie du Sud-Est**, et plus particulièrement d'Indonésie, il y a environ 2000 ans, avant des vagues migratoires africaines.",
+      "source": "Archéologie de Madagascar, Histoire ancienne"
+    },
+    {
+      "questionId": "EASY_025",
+      "themeId": "HIST",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "La monarchie a été abolie à Madagascar par une révolution populaire au 20ème siècle.",
+      "isTrue": false,
+      "explanation": "La monarchie a été abolie par la **colonisation française en 1897**, et non par une révolution populaire interne.",
+      "source": "Fin de la monarchie malgache"
+    },
+    {
+      "questionId": "EASY_030",
+      "themeId": "HIST",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Le roi Andrianampoinimerina a uni les royaumes de Madagascar sous une seule couronne.",
+      "isTrue": false,
+      "explanation": "Le roi **Andrianampoinimerina** a uni une grande partie du royaume Merina, mais c'est son fils, le **roi Radama Ier**, qui a étendu le royaume sur la quasi-totalité de l'île.",
+      "source": "Histoire des royaumes malgaches"
+    },
+    {
+      "questionId": "MEDIUM_003",
+      "themeId": "HIST",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "La reine Ranavalona III fut la dernière monarque de Madagascar avant la colonisation française.",
+      "isTrue": true,
+      "explanation": "**Ranavalona III** a régné de 1883 à 1897, date de l'annexion de Madagascar par la France.",
+      "source": "Histoire politique de Madagascar"
+    },
+    {
+      "questionId": "MEDIUM_008",
+      "themeId": "HIST",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "La dynastie des Merina est la seule à avoir régné sur l'ensemble de Madagascar.",
+      "isTrue": false,
+      "explanation": "Bien que les Merina aient étendu leur influence sur la majeure partie de l'île, ils n'ont pas toujours contrôlé l'intégralité du territoire, d'autres royaumes subsistant sur les côtes. C'est surtout **Radama Ier** qui a consolidé ce règne.",
+      "source": "Histoire des royaumes et unification de Madagascar"
+    },
+    {
+      "questionId": "MEDIUM_013",
+      "themeId": "HIST",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "La période coloniale française à Madagascar a été marquée par des infrastructures significatives mais aussi des répressions violentes.",
+      "isTrue": true,
+      "explanation": "La colonisation a apporté des routes, des chemins de fer et des hôpitaux, mais elle a aussi été caractérisée par des **répressions brutales**, notamment l'insurrection de 1947.",
+      "source": "Histoire de la colonisation de Madagascar"
+    },
+    {
+      "questionId": "MEDIUM_018",
+      "themeId": "HIST",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le 'Rova d'Antananarivo' était le palais des rois et reines de Madagascar.",
+      "isTrue": true,
+      "explanation": "Le **Rova d'Antananarivo** (ou Palais Royal) était la résidence et le centre politique du Royaume de Merina et de Madagascar.",
+      "source": "Patrimoine historique de Madagascar"
+    },
+    {
+      "questionId": "MEDIUM_023",
+      "themeId": "HIST",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "La Rébellion de 1947 à Madagascar était une révolte contre le pouvoir monarchique malgache.",
+      "isTrue": false,
+      "explanation": "La **Rébellion de 1947** était une insurrection nationaliste majeure contre l'**administration coloniale française**, et non contre la monarchie malgache (qui avait été abolie).",
+      "source": "Histoire de la décolonisation de Madagascar"
+    },
+    {
+      "questionId": "MEDIUM_028",
+      "themeId": "HIST",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "L'abolition de l'esclavage à Madagascar a eu lieu immédiatement après l'indépendance en 1960.",
+      "isTrue": false,
+      "explanation": "L'esclavage a été **officiellement aboli par les Français en 1896** lors de la colonisation, bien que ses effets sociaux aient perduré au-delà.",
+      "source": "Histoire sociale de Madagascar"
+    },
+    {
+      "questionId": "HARD_003",
+      "themeId": "HIST",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "La Constitution de la Première République malgache (1960) a instauré un régime présidentiel fort, inspiré du modèle américain.",
+      "isTrue": false,
+      "explanation": "La Constitution de 1960 a instauré un **régime semi-présidentiel** inspiré du modèle de la Cinquième République française, avec un président fort mais aussi un Premier ministre.",
+      "source": "Droit constitutionnel malgache, Histoire politique"
+    },
+    {
+      "questionId": "HARD_008",
+      "themeId": "HIST",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "La Conférence de Berlin de 1884-1885 a officiellement attribué Madagascar à la France.",
+      "isTrue": false,
+      "explanation": "La **Conférence de Berlin** a réglé le partage de l'Afrique, mais Madagascar n'y a pas été explicitement 'attribuée'. L'influence française s'est accrue progressivement, menant à la conquête par la force en 1895 et l'annexion en 1897.",
+      "source": "Histoire coloniale de l'Afrique et de Madagascar"
+    },
+    {
+      "questionId": "HARD_013",
+      "themeId": "HIST",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le Code des 305 articles de la reine Ranavalona Ière visait à moderniser le droit malgache sur le modèle européen.",
+      "isTrue": false,
+      "explanation": "Le **Code des 305 articles de Ranavalona Ière** (1828-1861) était un recueil de lois basé sur le droit coutumier malgache, avec des influences chrétiennes et européennes, mais il visait avant tout à consolider son pouvoir et à maintenir l'ordre social traditionnel, souvent avec une grande sévérité.",
+      "source": "Droit et législation malgaches anciennes"
+    }
+  ]
+}

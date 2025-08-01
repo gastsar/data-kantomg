@@ -1,0 +1,179 @@
+{
+  "gameTitle": "Madagascar: Vrai ou Faux ?",
+  "description": "Un jeu de questions-réponses Vrai/Faux sur Madagascar, explorant sa culture, géographie, histoire, littérature et ses proverbes, avec différents niveaux de difficulté et adaptés à divers âges.",
+  "themes": [
+    {
+      "themeName": "Littérature & Arts",
+      "themeId": "LITT",
+      "description": "Questions sur les auteurs malgaches célèbres, leurs œuvres et l'influence de la littérature et des arts à Madagascar."
+    }
+  ],
+  "levels": [
+    {
+      "levelName": "Facile",
+      "levelId": "EASY",
+      "description": "Questions générales et accessibles, idéales pour les débutants.",
+      "minAge": 6
+    },
+    {
+      "levelName": "Moyen",
+      "levelId": "MEDIUM",
+      "description": "Questions nécessitant une connaissance un peu plus approfondie.",
+      "minAge": 10
+    },
+    {
+      "levelName": "Difficile",
+      "levelId": "HARD",
+      "description": "Questions spécifiques et détaillées, pour les experts de Madagascar.",
+      "minAge": 14
+    },
+    {
+      "levelName": "Expert",
+      "levelId": "EXPERT",
+      "description": "Questions très pointues ou nécessitant une réflexion approfondie, pour les connaisseurs et les curieux.",
+      "minAge": 16
+    }
+  ],
+  "questions": [
+    {
+      "questionId": "EASY_007",
+      "themeId": "LITT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Les contes malgaches sont souvent basés sur des animaux parlants.",
+      "isTrue": true,
+      "explanation": "De nombreux **contes populaires malgaches** mettent en scène des animaux anthropomorphiques (qui parlent et agissent comme des humains) pour transmettre des leçons morales.",
+      "source": "Contes et légendes malgaches"
+    },
+    {
+      "questionId": "EASY_012",
+      "themeId": "LITT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Les 'Hira Gasy' sont des spectacles de chant et danse traditionnels.",
+      "isTrue": true,
+      "explanation": "Les **Hira Gasy** sont des formes d'art scénique populaires à Madagascar, combinant musique, danse et discours, souvent avec des messages sociaux ou satiriques.",
+      "source": "Musique et danse traditionnelle malgache"
+    },
+    {
+      "questionId": "EASY_017",
+      "themeId": "LITT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "La littérature malgache est très ancienne et n'a pas été influencée par les langues étrangères.",
+      "isTrue": false,
+      "explanation": "La littérature malgache est riche mais a été **influencée par l'arabe, le sanskrit et plus tard le français**, notamment par l'écriture et l'introduction de nouvelles formes littéraires.",
+      "source": "Histoire de la littérature malgache"
+    },
+    {
+      "questionId": "EASY_022",
+      "themeId": "LITT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Les 'Ohabolana' sont des contes de fées malgaches.",
+      "isTrue": false,
+      "explanation": "Les **Ohabolana** sont des proverbes ou des maximes malgaches, et non des contes de fées.",
+      "source": "Littérature orale malgache"
+    },
+    {
+      "questionId": "EASY_027",
+      "themeId": "LITT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "La langue malgache s'écrit avec l'alphabet latin.",
+      "isTrue": true,
+      "explanation": "Bien qu'il y ait eu des systèmes d'écriture plus anciens, la langue malgache s'écrit principalement avec l'**alphabet latin** depuis le 19ème siècle.",
+      "source": "Linguistique malgache"
+    },
+    {
+      "questionId": "MEDIUM_005",
+      "themeId": "LITT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Jean-Joseph Rabearivelo est un poète malgache célèbre pour ses œuvres en langue française uniquement.",
+      "isTrue": false,
+      "explanation": "**Jean-Joseph Rabearivelo** (1901-1937) a écrit en français mais aussi en **malgache**, et ses œuvres bilingues sont très importantes pour la littérature malgache moderne.",
+      "source": "Biographie de Jean-Joseph Rabearivelo"
+    },
+    {
+      "questionId": "MEDIUM_010",
+      "themeId": "LITT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Rakoto Frah était un célèbre joueur de valiha, un instrument à cordes malgache.",
+      "isTrue": false,
+      "explanation": "**Rakoto Frah** (1923-1999) était un virtuose de la **sodina**, une flûte traditionnelle malgache, et non de la valiha (qui est un instrument à cordes, mais pas son instrument de prédilection).",
+      "source": "Musique traditionnelle malgache, biographie d'artistes"
+    },
+    {
+      "questionId": "MEDIUM_015",
+      "themeId": "LITT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Dox (Jean Verdi Razakandraina) est un auteur malgache reconnu pour ses romans de science-fiction.",
+      "isTrue": false,
+      "explanation": "**Dox** est un poète et dramaturge malgache très important, connu pour ses œuvres lyriques et engagées, mais pas pour la science-fiction.",
+      "source": "Littérature malgache contemporaine"
+    },
+    {
+      "questionId": "MEDIUM_020",
+      "themeId": "LITT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Les 'Malagasy Classics' sont une collection de contes de fées pour enfants uniquement.",
+      "isTrue": false,
+      "explanation": "Les 'Malagasy Classics' (ou classiques malgaches) désignent une collection plus large d'œuvres littéraires importantes, y compris des poésies, romans, et pièces de théâtre, qui reflètent la richesse de la littérature malgache pour **tous les âges**.",
+      "source": "Panorama de la littérature malgache"
+    },
+    {
+      "questionId": "MEDIUM_025",
+      "themeId": "LITT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "La poésie 'Hain-Teny' est une forme de poésie classique malgache avec des règles de composition strictes.",
+      "isTrue": true,
+      "explanation": "Le **Hain-Teny** est une forme de poésie traditionnelle malgache, souvent improvisée, caractérisée par des jeux de mots, des allusions et des métaphores, avec des règles rythmiques et sémantiques précises.",
+      "source": "Formes poétiques malgaches"
+    },
+    {
+      "questionId": "MEDIUM_030",
+      "themeId": "LITT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Ny Avana Ramanantoanina est un écrivain malgache connu pour ses œuvres historiques sur les rois Merina.",
+      "isTrue": true,
+      "explanation": "**Ny Avana Ramanantoanina** (1891-1940) est un écrivain et historien malgache, auteur de plusieurs ouvrages importants sur l'histoire et la culture de l'Imerina, dont des chroniques royales.",
+      "source": "Dictionnaire des auteurs malgaches"
+    },
+    {
+      "questionId": "HARD_005",
+      "themeId": "LITT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le 'Sorabe' est un ancien système d'écriture arabe utilisé pour transcrire la langue malgache.",
+      "isTrue": true,
+      "explanation": "Le **Sorabe** (littéralement 'grandes écritures') est une écriture arabico-malgache utilisée principalement dans le sud-est de Madagascar pour transcrire des textes religieux, historiques et médicaux en malgache.",
+      "source": "Histoire de l'écriture malgache"
+    },
+    {
+      "questionId": "HARD_010",
+      "themeId": "LITT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le 'Vakodrazana' est un genre littéraire oral malgache qui raconte des légendes et des mythes anciens.",
+      "isTrue": true,
+      "explanation": "Le **Vakodrazana** est une forme d'expression orale traditionnelle qui englobe des chants, des contes, des légendes et des récits historiques transmis de génération en génération.",
+      "source": "Patrimoine oral malgache"
+    },
+    {
+      "questionId": "HARD_015",
+      "themeId": "LITT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Flavien Ranaivo est un écrivain malgache connu pour ses pièces de théâtre engagées contre le colonialisme.",
+      "isTrue": false,
+      "explanation": "**Flavien Ranaivo** (1914-1999) est un poète malgache célèbre pour ses poèmes lyriques et évocateurs de la vie rurale, de l'amour et de la nature malgache, souvent d'une grande finesse, mais pas principalement pour le théâtre anti-colonial.",
+      "source": "Poésie malgache moderne"
+    }
+  ]
+}

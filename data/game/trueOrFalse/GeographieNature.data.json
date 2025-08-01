@@ -1,0 +1,209 @@
+{
+  "gameTitle": "Madagascar: Vrai ou Faux ?",
+  "description": "Un jeu de questions-réponses Vrai/Faux sur Madagascar, explorant sa culture, géographie, histoire, littérature et ses proverbes, avec différents niveaux de difficulté et adaptés à divers âges.",
+  "themes": [
+    {
+      "themeName": "Géographie & Nature",
+      "themeId": "GEO",
+      "description": "Questions sur les paysages, la faune, la flore, les villes et la topographie de Madagascar."
+    }
+  ],
+  "levels": [
+    {
+      "levelName": "Facile",
+      "levelId": "EASY",
+      "description": "Questions générales et accessibles, idéales pour les débutants.",
+      "minAge": 6
+    },
+    {
+      "levelName": "Moyen",
+      "levelId": "MEDIUM",
+      "description": "Questions nécessitant une connaissance un peu plus approfondie.",
+      "minAge": 10
+    },
+    {
+      "levelName": "Difficile",
+      "levelId": "HARD",
+      "description": "Questions spécifiques et détaillées, pour les experts de Madagascar.",
+      "minAge": 14
+    },
+    {
+      "levelName": "Expert",
+      "levelId": "EXPERT",
+      "description": "Questions très pointues ou nécessitant une réflexion approfondie, pour les connaisseurs et les curieux.",
+      "minAge": 16
+    }
+  ],
+  "questions": [
+    {
+      "questionId": "EASY_001",
+      "themeId": "GEO",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Madagascar est une île située dans l'océan Atlantique.",
+      "isTrue": false,
+      "explanation": "Madagascar est une île située dans l'**océan Indien**, au large des côtes de l'Afrique de l'Est.",
+      "source": "Atlas géographique mondial"
+    },
+    {
+      "questionId": "EASY_003",
+      "themeId": "GEO",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Les lémuriens sont des animaux que l'on trouve uniquement à Madagascar.",
+      "isTrue": true,
+      "explanation": "Les **lémuriens** sont des primates endémiques, ce qui signifie qu'on les trouve exclusivement à Madagascar et sur les petites îles avoisinantes.",
+      "source": "WWF Madagascar, Biodiversité"
+    },
+    {
+      "questionId": "EASY_008",
+      "themeId": "GEO",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Le Canal des Pangalanes est une voie navigable naturelle à Madagascar.",
+      "isTrue": false,
+      "explanation": "Le **Canal des Pangalanes** est une voie navigable artificielle et naturelle, composée de lacs et de lagunes reliées par des canaux creusés par l'homme.",
+      "source": "Office National du Tourisme de Madagascar"
+    },
+    {
+      "questionId": "EASY_013",
+      "themeId": "GEO",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "La capitale de Madagascar est Antananarivo.",
+      "isTrue": true,
+      "explanation": "**Antananarivo** est bien la capitale de Madagascar, située sur les hautes terres centrales.",
+      "source": "Géographie de Madagascar"
+    },
+    {
+      "questionId": "EASY_018",
+      "themeId": "GEO",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Le baobab est un arbre que l'on trouve en grande quantité à Madagascar.",
+      "isTrue": true,
+      "explanation": "Madagascar abrite **six des huit espèces de baobabs** connues dans le monde, dont certaines sont endémiques.",
+      "source": "Parcs Nationaux de Madagascar, Flore"
+    },
+    {
+      "questionId": "EASY_023",
+      "themeId": "GEO",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Madagascar est surnommée l'« Île Rouge » à cause de la couleur de sa terre.",
+      "isTrue": true,
+      "explanation": "Le surnom d'« **Île Rouge** » vient de la latérite, un sol riche en oxyde de fer, qui donne cette couleur rouge caractéristique à la terre malgache, surtout sur les hautes terres.",
+      "source": "Géologie et paysages de Madagascar"
+    },
+    {
+      "questionId": "EASY_028",
+      "themeId": "GEO",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Madagascar est bordée par l'océan Pacifique à l'est.",
+      "isTrue": false,
+      "explanation": "Madagascar est bordée par l'**océan Indien** à l'est, et le canal du Mozambique à l'ouest.",
+      "source": "Géographie de Madagascar"
+    },
+    {
+      "questionId": "MEDIUM_001",
+      "themeId": "GEO",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le Parc National de l'Isalo est réputé pour ses formations rocheuses particulières et ses piscines naturelles.",
+      "isTrue": true,
+      "explanation": "Le **Parc National de l'Isalo**, situé dans le sud-ouest de Madagascar, est célèbre pour ses canyons, ses formations gréseuses érodées et ses oasis de fraîcheur.",
+      "source": "Parcs Nationaux de Madagascar"
+    },
+    {
+      "questionId": "MEDIUM_006",
+      "themeId": "GEO",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le Mont Maromokotro est le point culminant de Madagascar.",
+      "isTrue": true,
+      "explanation": "Le **Mont Maromokotro**, situé dans le massif du Tsaratanana, est le plus haut sommet de Madagascar, culminant à 2 876 mètres.",
+      "source": "Géographie physique de Madagascar"
+    },
+    {
+      "questionId": "MEDIUM_011",
+      "themeId": "GEO",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le Canal du Mozambique sépare Madagascar du continent africain.",
+      "isTrue": true,
+      "explanation": "Le **Canal du Mozambique** est bien le bras de mer qui sépare Madagascar de l'Afrique australe.",
+      "source": "Cartographie et géographie de l'océan Indien"
+    },
+    {
+      "questionId": "MEDIUM_016",
+      "themeId": "GEO",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le Tsingy de Bemaraha est un massif calcaire classé au patrimoine mondial de l'UNESCO pour ses paysages uniques.",
+      "isTrue": true,
+      "explanation": "Les **Tsingy de Bemaraha** sont des formations rocheuses karstiques acérées, un site naturel exceptionnel et un site du patrimoine mondial de l'UNESCO.",
+      "source": "UNESCO World Heritage List"
+    },
+    {
+      "questionId": "MEDIUM_021",
+      "themeId": "GEO",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le Lac Alaotra est le plus grand lac naturel de Madagascar.",
+      "isTrue": true,
+      "explanation": "Le **Lac Alaotra**, situé sur les hautes terres, est le plus grand lac naturel de Madagascar et une zone humide importante.",
+      "source": "Zones humides de Madagascar, Géographie"
+    },
+    {
+      "questionId": "MEDIUM_026",
+      "themeId": "GEO",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "La ville de Nosy Be est célèbre pour ses plantations de cacao.",
+      "isTrue": false,
+      "explanation": "**Nosy Be** est plutôt célèbre pour ses plages, sa production d'ylang-ylang et son tourisme, bien que du cacao puisse y être cultivé en plus petites quantités, ce n'est pas sa principale renommée.",
+      "source": "Tourisme et économie de Nosy Be"
+    },
+    {
+      "questionId": "HARD_001",
+      "themeId": "GEO",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le parc national d'Andohahela est le seul endroit au monde où cohabitent trois écosystèmes distincts sur une courte distance.",
+      "isTrue": true,
+      "explanation": "Le **Parc National d'Andohahela** est exceptionnel pour sa biodiversité et sa géographie, présentant une forêt tropicale humide, une forêt sèche et une végétation d'épineux en très proche proximité.",
+      "source": "UNESCO World Heritage - Andohahela"
+    },
+    {
+      "questionId": "HARD_006",
+      "themeId": "GEO",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le Grand Sud de Madagascar est caractérisé par un climat désertique avec de très faibles précipitations.",
+      "isTrue": false,
+      "explanation": "Le Grand Sud est caractérisé par un **climat semi-aride à aride**, avec des périodes de sécheresse sévères, mais pas un désert classique. La végétation est de type bush épineux.",
+      "source": "Climatologie de Madagascar, IRD"
+    },
+    {
+      "questionId": "HARD_011",
+      "themeId": "GEO",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Les Andringitra sont un massif montagneux de Madagascar célèbre pour son pic Imarivolanitra, le second plus haut de l'île.",
+      "isTrue": true,
+      "explanation": "Le **massif de l'Andringitra** est un site remarquable avec le pic Imarivolanitra (Pic Boby), qui est bien le deuxième plus haut sommet de Madagascar.",
+      "source": "Parcs Nationaux de Madagascar, Topographie"
+    },
+    {
+      "questionId": "HARD_016",
+      "themeId": "GEO",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "La Grande Barrière de Corail de Madagascar est la plus longue barrière corallienne de l'océan Indien.",
+      "isTrue": false,
+      "explanation": "Bien que Madagascar possède d'importants récifs coralliens, la **plus longue barrière de corail de l'océan Indien** est le grand récif de la Nouvelle-Calédonie, tandis que la plus grande barrière au monde est en Australie.",
+      "source": "Conservation Marine Internationale, Géographie récifale"
+    }
+  ]
+}

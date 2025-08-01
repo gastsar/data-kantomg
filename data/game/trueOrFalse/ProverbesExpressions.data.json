@@ -1,0 +1,179 @@
+{
+  "gameTitle": "Madagascar: Vrai ou Faux ?",
+  "description": "Un jeu de questions-réponses Vrai/Faux sur Madagascar, explorant sa culture, géographie, histoire, littérature et ses proverbes, avec différents niveaux de difficulté et adaptés à divers âges.",
+  "themes": [
+    {
+      "themeName": "Proverbes & Expressions",
+      "themeId": "PROV",
+      "description": "Questions sur la signification et l'utilisation des proverbes malgaches (ohabolana)."
+    }
+  ],
+  "levels": [
+    {
+      "levelName": "Facile",
+      "levelId": "EASY",
+      "description": "Questions générales et accessibles, idéales pour les débutants.",
+      "minAge": 6
+    },
+    {
+      "levelName": "Moyen",
+      "levelId": "MEDIUM",
+      "description": "Questions nécessitant une connaissance un peu plus approfondie.",
+      "minAge": 10
+    },
+    {
+      "levelName": "Difficile",
+      "levelId": "HARD",
+      "description": "Questions spécifiques et détaillées, pour les experts de Madagascar.",
+      "minAge": 14
+    },
+    {
+      "levelName": "Expert",
+      "levelId": "EXPERT",
+      "description": "Questions très pointues ou nécessitant une réflexion approfondie, pour les connaisseurs et les curieux.",
+      "minAge": 16
+    }
+  ],
+  "questions": [
+    {
+      "questionId": "EASY_006",
+      "themeId": "PROV",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Un proverbe malgache dit : 'Ny rano natsipy an-doha ihany no miverina' signifie 'L'eau versée sur la tête revient toujours'.",
+      "isTrue": true,
+      "explanation": "Ce proverbe signifie que les actions que l'on pose ont des conséquences qui nous reviennent, une sorte de 'retour de bâton'.",
+      "source": "Recueil de Proverbes Malgaches"
+    },
+    {
+      "questionId": "EASY_011",
+      "themeId": "PROV",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Le proverbe 'Aza miasa rano an-dRano' signifie 'Ne travaille pas de l'eau dans l'eau'.",
+      "isTrue": true,
+      "explanation": "Ce proverbe signifie 'Ne fais pas un travail inutile', ou 'Ne perds pas ton temps à faire quelque chose qui n'aura pas d'effet'.",
+      "source": "Dictionnaire des proverbes malgaches"
+    },
+    {
+      "questionId": "EASY_016",
+      "themeId": "PROV",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Le proverbe 'Ny fanahy no olona' signifie 'L'esprit fait l'homme'.",
+      "isTrue": true,
+      "explanation": "Ce proverbe souligne l'importance de la personnalité, du caractère et de l'intégrité morale par rapport à l'apparence physique.",
+      "source": "Proverbes malgaches usuels"
+    },
+    {
+      "questionId": "EASY_021",
+      "themeId": "PROV",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Le proverbe 'Azafady' est une salutation qui signifie 'Bonjour'.",
+      "isTrue": false,
+      "explanation": "**Azafady** signifie 'S'il vous plaît' ou 'Pardon' et est une expression de politesse, pas une salutation directe.",
+      "source": "Lexique malgache courant"
+    },
+    {
+      "questionId": "EASY_026",
+      "themeId": "PROV",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Le proverbe 'Ny vato an-tanety ihany no mahay mamely' signifie 'Seule la pierre à terre sait frapper'.",
+      "isTrue": true,
+      "explanation": "Ce proverbe met en évidence l'importance de l'action ou de l'expérience concrète : seule une personne active et impliquée peut avoir un impact.",
+      "source": "Recueil de Proverbes Malgaches"
+    },
+    {
+      "questionId": "MEDIUM_004",
+      "themeId": "PROV",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le proverbe malgache 'Ny vary tsy an-drano, tsy ho vary' signifie 'Le riz sans eau ne sera pas du riz'.",
+      "isTrue": true,
+      "explanation": "Ce proverbe souligne l'importance des conditions nécessaires pour qu'une chose puisse exister ou se développer. Il met en évidence la dépendance vitale de certaines choses (ici le riz à l'eau).",
+      "source": "Recueil de Proverbes Malgaches"
+    },
+    {
+      "questionId": "MEDIUM_009",
+      "themeId": "PROV",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le proverbe 'Ny tany lavitra, ny olona akaiky' signifie 'La terre est lointaine, les gens sont proches'.",
+      "isTrue": true,
+      "explanation": "Ce proverbe malgache met l'accent sur l'importance des **relations humaines et de la solidarité**, qui priment sur la distance physique.",
+      "source": "Proverbes et sagesse malgaches"
+    },
+    {
+      "questionId": "MEDIUM_014",
+      "themeId": "PROV",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le proverbe 'Aleo mandeha miadana toy izay mananihana haingana' signifie 'Mieux vaut aller lentement que de courir vite et trébucher'.",
+      "isTrue": true,
+      "explanation": "Ce proverbe encourage la prudence et la patience, soulignant qu'il est préférable de prendre son temps pour bien faire les choses plutôt que de se précipiter et de faire des erreurs.",
+      "source": "Recueil de Proverbes Malgaches"
+    },
+    {
+      "questionId": "MEDIUM_019",
+      "themeId": "PROV",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le proverbe 'Ny teny dia toy ny rano, raha tsy atao an-tanana, dia tsy ho tafita' signifie 'La parole est comme l'eau, si on ne la tient pas dans la main, elle ne passera pas'.",
+      "isTrue": true,
+      "explanation": "Ce proverbe met l'accent sur la nécessité de la **précision et de la clarté** dans la communication pour qu'un message soit compris et transmis efficacement.",
+      "source": "Proverbes malgaches sur la communication"
+    },
+    {
+      "questionId": "MEDIUM_024",
+      "themeId": "PROV",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le proverbe 'Ny fitiavana tsy mifidy endrika, fa mifidy fo' signifie 'L'amour ne choisit pas le visage, mais choisit le cœur'.",
+      "isTrue": true,
+      "explanation": "Ce proverbe souligne que la **vraie affection** et l'amour se basent sur les qualités intérieures et non sur l'apparence physique.",
+      "source": "Proverbes malgaches sur l'amour"
+    },
+    {
+      "questionId": "MEDIUM_029",
+      "themeId": "PROV",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le proverbe 'Ny tena kely, mahay mananihana havoana' signifie 'Même le petit sait escalader la colline'.",
+      "isTrue": true,
+      "explanation": "Ce proverbe encourage la **persévérance et la confiance en soi**, signifiant que même une petite personne ou une entité modeste peut accomplir de grandes choses avec détermination.",
+      "source": "Sagesse populaire malgache"
+    },
+    {
+      "questionId": "HARD_004",
+      "themeId": "PROV",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le proverbe 'Ny vary an-davanila, tsy hita fa ny kisoa an-kely no hita' signifie 'On ne voit pas le riz dans le grenier, mais le cochon dans la porcherie'.",
+      "isTrue": true,
+      "explanation": "Ce proverbe signifie que ce qui est caché ou moins évident (le riz dans le grenier, ici, la richesse ou le bien-être) est parfois négligé au profit de ce qui est visible ou problématique (le cochon, ici, les soucis ou défauts). Il incite à regarder au-delà des apparences.",
+      "source": "Proverbes malgaches profonds"
+    },
+    {
+      "questionId": "HARD_009",
+      "themeId": "PROV",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le proverbe 'Ny toky tsy mihetsika, fa ny teny no mihetsika' signifie 'Le serment ne bouge pas, mais la parole bouge'.",
+      "isTrue": true,
+      "explanation": "Ce proverbe malgache met en lumière la **différence entre un engagement ferme (serment) et la nature parfois changeante ou moins fiable des simples paroles** ou promesses.",
+      "source": "Recueil avancé de Proverbes Malgaches"
+    },
+    {
+      "questionId": "HARD_014",
+      "themeId": "PROV",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le proverbe 'Ny mahay manam-bady, ka tsy mahay manana vady' signifie 'Celui qui sait épouser n'est pas celui qui sait avoir une épouse'.",
+      "isTrue": true,
+      "explanation": "Ce proverbe complexe distingue la **capacité à se marier (l'acte) de la capacité à bien vivre en couple (la relation)**, soulignant que l'un ne garantit pas l'autre.",
+      "source": "Proverbes malgaches sur les relations"
+    }
+  ]
+}
