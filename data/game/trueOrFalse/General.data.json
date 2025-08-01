@@ -36,6 +36,406 @@
   ],
   "questions": [
     {
+      "questionId": "EASY_001",
+      "themeId": "GEN",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "La capitale de Madagascar s'appelle Antananarivo.",
+      "isTrue": true,
+      "explanation": "Oui, **Antananarivo** est bien la capitale de Madagascar. C'est la plus grande ville du pays.",
+      "source": "Manuels scolaires de géographie, Atlas"
+    },
+    {
+      "questionId": "EASY_002",
+      "themeId": "GEN",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Madagascar est un pays situé en Afrique de l'Ouest.",
+      "isTrue": false,
+      "explanation": "Faux, Madagascar est une **île située dans l'océan Indien**, au large de la côte sud-est de l'Afrique, et non en Afrique de l'Ouest.",
+      "source": "Manuels scolaires de géographie, Atlas"
+    },
+    {
+      "questionId": "EASY_003",
+      "themeId": "GEN",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Le lémurien est un animal que l'on trouve seulement à Madagascar.",
+      "isTrue": true,
+      "explanation": "C'est vrai ! Les lémuriens sont des **animaux endémiques de Madagascar**, ce qui signifie qu'on ne les trouve nulle part ailleurs dans le monde à l'état sauvage.",
+      "source": "WWF, Parcs nationaux de Madagascar"
+    },
+    {
+      "questionId": "EASY_004",
+      "themeId": "GEN",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "La langue officielle de Madagascar est l'anglais.",
+      "isTrue": false,
+      "explanation": "Non, les langues officielles de Madagascar sont le **malgache et le français**.",
+      "source": "Constitution malgache"
+    },
+    {
+      "questionId": "EASY_005",
+      "themeId": "GEN",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Madagascar est plus grand que la France en superficie.",
+      "isTrue": false,
+      "explanation": "Faux, la **France (y compris l'outre-mer) est plus grande que Madagascar**. Madagascar a une superficie d'environ 587 041 km², tandis que la France métropolitaine est de 551 695 km² mais avec l'outre-mer, elle est de plus de 643 801 km².",
+      "source": "Statistiques mondiales, CIA World Factbook"
+    },
+    {
+      "questionId": "EASY_006",
+      "themeId": "GEN",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Madagascar est surnommée l'île Rouge.",
+      "isTrue": true,
+      "explanation": "Oui, Madagascar est souvent appelée l'**île Rouge** en raison de la couleur latéritique de ses sols, particulièrement visible après l'érosion.",
+      "source": "Guides de voyage sur Madagascar, Géographie physique"
+    },
+    {
+      "questionId": "EASY_007",
+      "themeId": "GEN",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Le riz est l'aliment de base à Madagascar.",
+      "isTrue": true,
+      "explanation": "Absolument ! Le **riz est l'aliment de base** et la nourriture principale pour la majorité des Malgaches.",
+      "source": "Culture alimentaire malgache, Études sur la nutrition"
+    },
+    {
+      "questionId": "EASY_008",
+      "themeId": "GEN",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Il n'y a pas de montagnes à Madagascar.",
+      "isTrue": false,
+      "explanation": "C'est faux. Madagascar possède plusieurs **chaînes de montagnes et hauts plateaux**, notamment le massif de l'Ankaratra et le Maromokotro, le plus haut sommet.",
+      "source": "Géographie de Madagascar"
+    },
+    {
+      "questionId": "EASY_009",
+      "themeId": "GEN",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Le baobab est un arbre très commun à Madagascar.",
+      "isTrue": true,
+      "explanation": "Oui, plusieurs espèces de **baobabs sont endémiques à Madagascar**, et ils sont emblématiques du paysage malgache, surtout sur la fameuse Allée des Baobabs.",
+      "source": "Botanique de Madagascar, Guides de voyage"
+    },
+    {
+      "questionId": "EASY_010",
+      "themeId": "GEN",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Madagascar est le pays qui a inventé le chocolat.",
+      "isTrue": false,
+      "explanation": "Faux, le chocolat est originaire des **civilisations mésoaméricaines** (comme les Mayas et les Aztèques), pas de Madagascar, même si Madagascar produit du cacao.",
+      "source": "Histoire du chocolat"
+    },
+    {
+      "questionId": "MEDIUM_001",
+      "themeId": "GEN",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "L'espèce de lémurien la plus grande et la plus emblématique est l'Aye-aye.",
+      "isTrue": false,
+      "explanation": "Faux, l'**Indri indri** est la plus grande espèce de lémurien existante, connue pour ses cris caractéristiques. L'Aye-aye est unique par son doigt long et fin, mais il n'est pas le plus grand.",
+      "source": "Muséum National d'Histoire Naturelle, Faune de Madagascar"
+    },
+    {
+      "questionId": "MEDIUM_002",
+      "themeId": "GEN",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "La Grande Île, terme souvent utilisé pour Madagascar, fait référence à sa taille par rapport aux autres îles de l'océan Indien.",
+      "isTrue": true,
+      "explanation": "C'est vrai. Madagascar est la **quatrième plus grande île du monde**, ce qui justifie son surnom de 'Grande Île'.",
+      "source": "Géographie mondiale, Encyclopédies"
+    },
+    {
+      "questionId": "MEDIUM_003",
+      "themeId": "GEN",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le 'Fihavanana' est un concept malgache qui met l'accent sur l'individualisme et la compétition.",
+      "isTrue": false,
+      "explanation": "Faux, le **Fihavanana** est un concept fondamental de la culture malgache qui promeut l'**harmonie sociale, la solidarité, l'entraide et le lien familial**, et non l'individualisme.",
+      "source": "Anthropologie culturelle malgache"
+    },
+    {
+      "questionId": "MEDIUM_004",
+      "themeId": "GEN",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Madagascar est traversé par l'équateur.",
+      "isTrue": false,
+      "explanation": "Faux, Madagascar est situé au **sud de l'équateur**, dans l'hémisphère sud. Le Tropique du Capricorne traverse le sud de l'île.",
+      "source": "Géographie mondiale, Cartes du monde"
+    },
+    {
+      "questionId": "MEDIUM_005",
+      "themeId": "GEN",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "La majorité de la population malgache vit en milieu urbain.",
+      "isTrue": false,
+      "explanation": "Faux, bien que l'urbanisation progresse, la **majorité de la population malgache vit encore en milieu rural** et dépend de l'agriculture.",
+      "source": "Banque Mondiale, Statistiques démographiques"
+    },
+    {
+      "questionId": "MEDIUM_006",
+      "themeId": "GEN",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le franc malgache est la monnaie actuelle de Madagascar.",
+      "isTrue": false,
+      "explanation": "Faux, la monnaie actuelle de Madagascar est l'**Ariary (MGA)** depuis 2005. Le franc malgache a été remplacé.",
+      "source": "Banque Centrale de Madagascar"
+    },
+    {
+      "questionId": "MEDIUM_007",
+      "themeId": "GEN",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Les tombes royales à Madagascar sont souvent orientées vers l'ouest.",
+      "isTrue": true,
+      "explanation": "Vrai, une pratique funéraire traditionnelle malgache consiste à **orienter les tombes royales vers l'ouest**, en direction des ancêtres et du soleil couchant.",
+      "source": "Anthropologie malgache, Us et coutumes"
+    },
+    {
+      "questionId": "MEDIUM_008",
+      "themeId": "GEN",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le rugby est un sport très populaire à Madagascar.",
+      "isTrue": true,
+      "explanation": "Oui, le **rugby est l'un des sports les plus populaires à Madagascar**, et l'équipe nationale, les Makis, est très suivie.",
+      "source": "Fédération Malgache de Rugby, Médias sportifs"
+    },
+    {
+      "questionId": "MEDIUM_009",
+      "themeId": "GEN",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Madagascar est réputé pour ses déserts de sable immenses.",
+      "isTrue": false,
+      "explanation": "Bien que le sud de Madagascar soit sec et semi-aride, l'île n'est **pas réputée pour des déserts de sable immenses** comme le Sahara. Elle est plutôt connue pour ses forêts, ses plateaux et ses côtes.",
+      "source": "Climatologie de Madagascar, Géographie physique"
+    },
+    {
+      "questionId": "MEDIUM_010",
+      "themeId": "GEN",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le Famadihana est une cérémonie de retournement des morts qui a lieu dans certaines régions de Madagascar.",
+      "isTrue": true,
+      "explanation": "Oui, le **Famadihana**, ou 'retournement des morts', est une tradition funéraire malgache importante où les restes des ancêtres sont exhumés, enveloppés dans de nouveaux linceuls et célébrés.",
+      "source": "Ethnologie de Madagascar, Traditions malgaches"
+    },
+    {
+      "questionId": "HARD_001",
+      "themeId": "GEN",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "La Constitution malgache reconnaît une seule langue officielle : le malgache.",
+      "isTrue": false,
+      "explanation": "Faux, la Constitution malgache reconnaît **deux langues officielles : le malgache et le français**.",
+      "source": "Constitution de la Quatrième République de Madagascar (2010)"
+    },
+    {
+      "questionId": "HARD_002",
+      "themeId": "GEN",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "La Route Nationale 7 (RN7) est la principale artère routière reliant le nord au sud de Madagascar.",
+      "isTrue": false,
+      "explanation": "Faux, la **RN7 relie Antananarivo (centre) à Toliara (sud)**. La RN6 relie Antsiranana (nord) à Ambanja.",
+      "source": "Cartes routières de Madagascar, Ministère des Travaux Publics"
+    },
+    {
+      "questionId": "HARD_003",
+      "themeId": "GEN",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le 'Hiragasy' est une forme d'art traditionnel malgache combinant musique, danse et théâtre, pratiquée par des groupes itinérants.",
+      "isTrue": true,
+      "explanation": "C'est vrai. Le **Hiragasy** est un spectacle complet et une tradition orale majeure des Hautes Terres de Madagascar, exécuté par des troupes appelées 'Mpihira Gasy'.",
+      "source": "UNESCO, Patrimoine culturel immatériel de Madagascar"
+    },
+    {
+      "questionId": "HARD_004",
+      "themeId": "GEN",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "L'île de Nosy Be est située sur la côte est de Madagascar.",
+      "isTrue": false,
+      "explanation": "Faux, **Nosy Be est une île touristique majeure située au large de la côte nord-ouest** de Madagascar, dans la région de Diana.",
+      "source": "Guides de voyage sur Madagascar, Géographie touristique"
+    },
+    {
+      "questionId": "HARD_005",
+      "themeId": "GEN",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Madagascar est membre de la Communauté de développement de l'Afrique australe (SADC).",
+      "isTrue": true,
+      "explanation": "Oui, Madagascar est bien un **État membre de la SADC** (Southern African Development Community), une organisation intergouvernementale visant la coopération et l'intégration socio-économique.",
+      "source": "Site officiel de la SADC"
+    },
+    {
+      "questionId": "HARD_006",
+      "themeId": "GEN",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "La majorité des espèces de caméléons présentes sur Terre se trouvent uniquement à Madagascar.",
+      "isTrue": true,
+      "explanation": "C'est vrai. Plus de la **moitié des espèces de caméléons connues dans le monde sont endémiques de Madagascar**, ce qui en fait un hotspot de biodiversité pour ces reptiles.",
+      "source": "Herpétologie, Centres de recherche sur la biodiversité"
+    },
+    {
+      "questionId": "HARD_007",
+      "themeId": "GEN",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le 'Moraingy' est un type de danse traditionnelle malgache pratiquée uniquement par les femmes.",
+      "isTrue": false,
+      "explanation": "Faux, le **Moraingy est une forme de boxe traditionnelle malgache** pratiquée principalement par les **hommes**, souvent lors de fêtes villageoises.",
+      "source": "Sports et traditions malgaches"
+    },
+    {
+      "questionId": "HARD_008",
+      "themeId": "GEN",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Madagascar est un pays très développé avec un PIB par habitant parmi les plus élevés d'Afrique.",
+      "isTrue": false,
+      "explanation": "Faux, Madagascar fait partie des **pays les moins avancés du monde**, avec un PIB par habitant parmi les plus faibles, bien qu'il ait un grand potentiel de développement.",
+      "source": "Banque Mondiale, Fonds Monétaire International"
+    },
+    {
+      "questionId": "HARD_009",
+      "themeId": "GEN",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le pic le plus élevé de Madagascar est le Mont Tsiafajavona.",
+      "isTrue": false,
+      "explanation": "Faux, le pic le plus élevé de Madagascar est le **Maromokotro**, culminant à 2 876 mètres d'altitude, situé dans le massif du Tsaratanana.",
+      "source": "Géographie physique de Madagascar, Atlas nationaux"
+    },
+    {
+      "questionId": "HARD_010",
+      "themeId": "GEN",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Les 'Fady' sont des tabous ou interdits sociaux et culturels qui varient selon les régions et les groupes ethniques à Madagascar.",
+      "isTrue": true,
+      "explanation": "C'est vrai. Les **Fady** sont des interdictions ou des tabous qui régissent la vie quotidienne et sociale malgache. Ils sont très divers et spécifiques à certaines communautés, clans, lieux ou moments.",
+      "source": "Anthropologie malgache, Coutumes et croyances"
+    },
+    {
+      "questionId": "EXPERT_001",
+      "themeId": "GEN",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le traité de Londres de 1890 a officiellement reconnu la souveraineté française sur Madagascar en échange d'autres concessions territoriales.",
+      "isTrue": true,
+      "explanation": "Vrai, le **Traité de Londres de 1890** a été un accord entre le Royaume-Uni et la France, où le Royaume-Uni a reconnu le protectorat français sur Madagascar en échange de la reconnaissance par la France de la souveraineté britannique sur Zanzibar.",
+      "source": "Histoire coloniale de Madagascar, Archives diplomatiques"
+    },
+    {
+      "questionId": "EXPERT_002",
+      "themeId": "GEN",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le système juridique malgache est exclusivement basé sur le droit coutumier ancestral.",
+      "isTrue": false,
+      "explanation": "Faux, le système juridique malgache est un **mélange de droit français (droit civil) et de droit coutumier ancestral**, où le droit coutumier joue un rôle important dans les affaires familiales et foncières.",
+      "source": "Droit malgache, Manuels de droit comparé"
+    },
+    {
+      "questionId": "EXPERT_003",
+      "themeId": "GEN",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "La production de pierres précieuses, notamment le saphir, constitue une part négligeable de l'économie malgache.",
+      "isTrue": false,
+      "explanation": "Faux, la **production de pierres précieuses, en particulier de saphirs, est une industrie importante et souvent lucrative** à Madagascar, contribuant significativement à l'économie malgré des défis liés à l'exploitation informelle.",
+      "source": "Ministère des Mines de Madagascar, Rapports économiques"
+    },
+    {
+      "questionId": "EXPERT_004",
+      "themeId": "GEN",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le système éducatif malgache est fortement décentralisé, avec une autonomie complète des écoles primaires.",
+      "isTrue": false,
+      "explanation": "Faux, le système éducatif malgache est encore **largement centralisé**, bien que des efforts de décentralisation aient été tentés, l'autonomie des écoles reste limitée.",
+      "source": "Ministère de l'Éducation Nationale de Madagascar, Rapports UNESCO"
+    },
+    {
+      "questionId": "EXPERT_005",
+      "themeId": "GEN",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le concept de 'Hasina' dans la culture malgache est une notion de sacralité et de légitimité, souvent liée au pouvoir ancestral.",
+      "isTrue": true,
+      "explanation": "Vrai, le **Hasina** est une notion fondamentale dans la culture malgache, représentant une **force sacrée, une bénédiction, un pouvoir spirituel et une légitimité**, souvent associée aux rois, aux ancêtres et à la terre.",
+      "source": "Ethnologie malgache, Études sur la royauté Merina"
+    },
+    {
+      "questionId": "EXPERT_006",
+      "themeId": "GEN",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "La majorité des Malgaches pratiquent le christianisme orthodoxe.",
+      "isTrue": false,
+      "explanation": "Faux, la majorité des Malgaches pratiquent un **mélange de christianisme (catholicisme et protestantisme) et de croyances traditionnelles animistes**, avec une forte vénération des ancêtres. Le christianisme orthodoxe est très minoritaire.",
+      "source": "Recensements religieux, Études sociologiques"
+    },
+    {
+      "questionId": "EXPERT_007",
+      "themeId": "GEN",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le plateau central de Madagascar est principalement composé de roches volcaniques et de latérite.",
+      "isTrue": true,
+      "explanation": "Vrai, le **plateau central de Madagascar** est caractérisé par des paysages de **latérite rouge** (sol ferrallitique) résultant de l'altération de roches cristallines et volcaniques, d'où le surnom d'« Île Rouge ».",
+      "source": "Géologie de Madagascar, Géomorphologie"
+    },
+    {
+      "questionId": "EXPERT_008",
+      "themeId": "GEN",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "La production d'ylang-ylang à Madagascar est utilisée presque exclusivement pour l'industrie pharmaceutique.",
+      "isTrue": false,
+      "explanation": "Faux, la production d'**ylang-ylang** à Madagascar est principalement destinée à l'**industrie de la parfumerie et de la cosmétique** pour son huile essentielle, bien que des applications en aromathérapie existent.",
+      "source": "Industrie des plantes aromatiques, Rapports sur les exportations"
+    },
+    {
+      "questionId": "EXPERT_009",
+      "themeId": "GEN",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Madagascar a une histoire de piraterie maritime significative, particulièrement aux XVIIe et XVIIIe siècles, servant de base aux pirates de l'océan Indien.",
+      "isTrue": true,
+      "explanation": "Vrai, Madagascar, et notamment l'île de Sainte-Marie, a servi de **refuge et de base importante pour de nombreux pirates** et corsaires durant l'âge d'or de la piraterie aux XVIIe et XVIIIe siècles.",
+      "source": "Histoire de la piraterie, Historiographie de Madagascar"
+    },
+    {
+      "questionId": "EXPERT_010",
+      "themeId": "GEN",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "La culture du sisal est une industrie agricole majeure et en pleine expansion dans toutes les régions de Madagascar.",
+      "isTrue": false,
+      "explanation": "Faux, la culture du **sisal** est concentrée dans certaines **régions semi-arides du sud de Madagascar** et n'est pas en pleine expansion partout. Elle est utilisée principalement pour la fibre.",
+      "source": "Agriculture malgache, Rapports sectoriels"
+    },
+    {
       "questionId": "EXPERT_016",
       "themeId": "GEN",
       "levelId": "EXPERT",
