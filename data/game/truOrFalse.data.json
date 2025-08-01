@@ -1,0 +1,1464 @@
+{
+  "gameTitle": "Madagascar: Vrai ou Faux ?",
+  "description": "Un jeu de questions-réponses Vrai/Faux sur Madagascar, explorant sa culture, géographie, histoire, littérature et ses proverbes, avec différents niveaux de difficulté et adaptés à divers âges.",
+  "themes": [
+    {
+      "themeName": "Culture & Traditions",
+      "themeId": "CULT",
+      "description": "Questions sur les coutumes, fêtes, musique, artisanat et mode de vie malgaches."
+    },
+    {
+      "themeName": "Géographie & Nature",
+      "themeId": "GEO",
+      "description": "Questions sur les paysages, la faune, la flore, les villes et la topographie de Madagascar."
+    },
+    {
+      "themeName": "Histoire & Société",
+      "themeId": "HIST",
+      "description": "Questions sur l'histoire de Madagascar, ses personnages clés, son organisation sociale et ses défis actuels."
+    },
+    {
+      "themeName": "Littérature & Arts",
+      "themeId": "LITT",
+      "description": "Questions sur les auteurs malgaches célèbres, leurs œuvres et l'influence de la littérature et des arts à Madagascar."
+    },
+    {
+      "themeName": "Proverbes & Expressions",
+      "themeId": "PROV",
+      "description": "Questions sur la signification et l'utilisation des proverbes malgaches (ohabolana)."
+    },
+    {
+      "themeName": "Général",
+      "themeId": "GEN",
+      "description": "Questions variées sur Madagascar, couvrant des faits divers, des statistiques ou des informations transversales."
+    }
+  ],
+  "levels": [
+    {
+      "levelName": "Facile",
+      "levelId": "EASY",
+      "description": "Questions générales et accessibles, idéales pour les débutants.",
+      "minAge": 6
+    },
+    {
+      "levelName": "Moyen",
+      "levelId": "MEDIUM",
+      "description": "Questions nécessitant une connaissance un peu plus approfondie.",
+      "minAge": 10
+    },
+    {
+      "levelName": "Difficile",
+      "levelId": "HARD",
+      "description": "Questions spécifiques et détaillées, pour les experts de Madagascar.",
+      "minAge": 14
+    },
+    {
+      "levelName": "Expert",
+      "levelId": "EXPERT",
+      "description": "Questions très pointues ou nécessitant une réflexion approfondie, pour les connaisseurs et les curieux.",
+      "minAge": 16
+    }
+  ],
+  "questions": [
+    {
+      "questionId": "EASY_001",
+      "themeId": "GEO",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Madagascar est une île située dans l'océan Atlantique.",
+      "isTrue": false,
+      "explanation": "Madagascar est une île située dans l'**océan Indien**, au large des côtes de l'Afrique de l'Est.",
+      "source": "Atlas géographique mondial"
+    },
+    {
+      "questionId": "EASY_002",
+      "themeId": "CULT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Le riz est l'aliment de base à Madagascar.",
+      "isTrue": true,
+      "explanation": "Le **riz** est en effet l'aliment principal et la base de presque tous les repas à Madagascar.",
+      "source": "Culture culinaire malgache"
+    },
+    {
+      "questionId": "EASY_003",
+      "themeId": "GEO",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Les lémuriens sont des animaux que l'on trouve uniquement à Madagascar.",
+      "isTrue": true,
+      "explanation": "Les **lémuriens** sont des primates endémiques, ce qui signifie qu'on les trouve exclusivement à Madagascar et sur les petites îles avoisinantes.",
+      "source": "WWF Madagascar, Biodiversité"
+    },
+    {
+      "questionId": "EASY_004",
+      "themeId": "CULT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Le football est le sport le plus populaire à Madagascar.",
+      "isTrue": true,
+      "explanation": "Le **football** est très populaire à Madagascar, avec de nombreux fans et des ligues locales.",
+      "source": "Observations culturelles, médias sportifs malgaches"
+    },
+    {
+      "questionId": "EASY_005",
+      "themeId": "HIST",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Madagascar a toujours été une république.",
+      "isTrue": false,
+      "explanation": "Madagascar a été un **royaume** pendant une grande partie de son histoire avant de devenir une colonie française, puis une république.",
+      "source": "Histoire de Madagascar - Wikipédia"
+    },
+    {
+      "questionId": "EASY_006",
+      "themeId": "PROV",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Un proverbe malgache dit : 'Ny rano natsipy an-doha ihany no miverina' signifie 'L'eau versée sur la tête revient toujours'.",
+      "isTrue": true,
+      "explanation": "Ce proverbe signifie que les actions que l'on pose ont des conséquences qui nous reviennent, une sorte de 'retour de bâton'.",
+      "source": "Recueil de Proverbes Malgaches"
+    },
+    {
+      "questionId": "EASY_007",
+      "themeId": "LITT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Les contes malgaches sont souvent basés sur des animaux parlants.",
+      "isTrue": true,
+      "explanation": "De nombreux **contes populaires malgaches** mettent en scène des animaux anthropomorphiques (qui parlent et agissent comme des humains) pour transmettre des leçons morales.",
+      "source": "Contes et légendes malgaches"
+    },
+    {
+      "questionId": "EASY_008",
+      "themeId": "GEO",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Le Canal des Pangalanes est une voie navigable naturelle à Madagascar.",
+      "isTrue": false,
+      "explanation": "Le **Canal des Pangalanes** est une voie navigable artificielle et naturelle, composée de lacs et de lagunes reliées par des canaux creusés par l'homme.",
+      "source": "Office National du Tourisme de Madagascar"
+    },
+    {
+      "questionId": "EASY_009",
+      "themeId": "CULT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Le 'Moraingy' est un art martial traditionnel malgache.",
+      "isTrue": true,
+      "explanation": "Le **Moraingy** est un sport de combat traditionnel malgache, pratiqué principalement dans les régions côtières.",
+      "source": "Culture malgache, Arts martiaux traditionnels"
+    },
+    {
+      "questionId": "EASY_010",
+      "themeId": "HIST",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "La France a colonisé Madagascar pendant plusieurs siècles.",
+      "isTrue": false,
+      "explanation": "La France a colonisé Madagascar de **1897 à 1960**, soit moins d'un siècle, mais l'influence française est restée forte après l'indépendance.",
+      "source": "Histoire coloniale de Madagascar"
+    },
+    {
+      "questionId": "EASY_011",
+      "themeId": "PROV",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Le proverbe 'Aza miasa rano an-dRano' signifie 'Ne travaille pas de l'eau dans l'eau'.",
+      "isTrue": true,
+      "explanation": "Ce proverbe signifie 'Ne fais pas un travail inutile', ou 'Ne perds pas ton temps à faire quelque chose qui n'aura pas d'effet'.",
+      "source": "Dictionnaire des proverbes malgaches"
+    },
+    {
+      "questionId": "EASY_012",
+      "themeId": "LITT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Les 'Hira Gasy' sont des spectacles de chant et danse traditionnels.",
+      "isTrue": true,
+      "explanation": "Les **Hira Gasy** sont des formes d'art scénique populaires à Madagascar, combinant musique, danse et discours, souvent avec des messages sociaux ou satiriques.",
+      "source": "Musique et danse traditionnelle malgache"
+    },
+    {
+      "questionId": "EASY_013",
+      "themeId": "GEO",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "La capitale de Madagascar est Antananarivo.",
+      "isTrue": true,
+      "explanation": "**Antananarivo** est bien la capitale de Madagascar, située sur les hautes terres centrales.",
+      "source": "Géographie de Madagascar"
+    },
+    {
+      "questionId": "EASY_014",
+      "themeId": "CULT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Le 'Fihavanana' est un concept important de l'hospitalité malgache.",
+      "isTrue": true,
+      "explanation": "Le **Fihavanana** est un pilier de la société malgache, incarnant l'amitié, la solidarité, la parenté et la bienveillance mutuelle.",
+      "source": "Sociologie malgache, traditions"
+    },
+    {
+      "questionId": "EASY_015",
+      "themeId": "HIST",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Madagascar a obtenu son indépendance de la France en 1960.",
+      "isTrue": true,
+      "explanation": "Madagascar a proclamé son **indépendance le 26 juin 1960**.",
+      "source": "Archives nationales de Madagascar, Histoire contemporaine"
+    },
+    {
+      "questionId": "EASY_016",
+      "themeId": "PROV",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Le proverbe 'Ny fanahy no olona' signifie 'L'esprit fait l'homme'.",
+      "isTrue": true,
+      "explanation": "Ce proverbe souligne l'importance de la personnalité, du caractère et de l'intégrité morale par rapport à l'apparence physique.",
+      "source": "Proverbes malgaches usuels"
+    },
+    {
+      "questionId": "EASY_017",
+      "themeId": "LITT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "La littérature malgache est très ancienne et n'a pas été influencée par les langues étrangères.",
+      "isTrue": false,
+      "explanation": "La littérature malgache est riche mais a été **influencée par l'arabe, le sanskrit et plus tard le français**, notamment par l'écriture et l'introduction de nouvelles formes littéraires.",
+      "source": "Histoire de la littérature malgache"
+    },
+    {
+      "questionId": "EASY_018",
+      "themeId": "GEO",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Le baobab est un arbre que l'on trouve en grande quantité à Madagascar.",
+      "isTrue": true,
+      "explanation": "Madagascar abrite **six des huit espèces de baobabs** connues dans le monde, dont certaines sont endémiques.",
+      "source": "Parcs Nationaux de Madagascar, Flore"
+    },
+    {
+      "questionId": "EASY_019",
+      "themeId": "CULT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "La musique 'Salegy' est un genre musical populaire à Madagascar.",
+      "isTrue": true,
+      "explanation": "Le **Salegy** est un genre musical dynamique et dansant, originaire du nord de Madagascar, très populaire dans tout le pays.",
+      "source": "Musiques du Monde, Musique malgache"
+    },
+    {
+      "questionId": "EASY_020",
+      "themeId": "HIST",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Les premiers habitants de Madagascar venaient d'Afrique continentale.",
+      "isTrue": false,
+      "explanation": "Les premiers habitants de Madagascar seraient venus d'**Asie du Sud-Est**, et plus particulièrement d'Indonésie, il y a environ 2000 ans, avant des vagues migratoires africaines.",
+      "source": "Archéologie de Madagascar, Histoire ancienne"
+    },
+    {
+      "questionId": "EASY_021",
+      "themeId": "PROV",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Le proverbe 'Azafady' est une salutation qui signifie 'Bonjour'.",
+      "isTrue": false,
+      "explanation": "**Azafady** signifie 'S'il vous plaît' ou 'Pardon' et est une expression de politesse, pas une salutation directe.",
+      "source": "Lexique malgache courant"
+    },
+    {
+      "questionId": "EASY_022",
+      "themeId": "LITT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Les 'Ohabolana' sont des contes de fées malgaches.",
+      "isTrue": false,
+      "explanation": "Les **Ohabolana** sont des proverbes ou des maximes malgaches, et non des contes de fées.",
+      "source": "Littérature orale malgache"
+    },
+    {
+      "questionId": "EASY_023",
+      "themeId": "GEO",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Madagascar est surnommée l'« Île Rouge » à cause de la couleur de sa terre.",
+      "isTrue": true,
+      "explanation": "Le surnom d'« **Île Rouge** » vient de la latérite, un sol riche en oxyde de fer, qui donne cette couleur rouge caractéristique à la terre malgache, surtout sur les hautes terres.",
+      "source": "Géologie et paysages de Madagascar"
+    },
+    {
+      "questionId": "EASY_024",
+      "themeId": "CULT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Les Malgaches célèbrent Noël le 25 décembre comme dans de nombreux pays chrétiens.",
+      "isTrue": true,
+      "explanation": "Oui, une grande partie de la population malgache est chrétienne et **célèbre Noël le 25 décembre**.",
+      "source": "Pratiques religieuses à Madagascar"
+    },
+    {
+      "questionId": "EASY_025",
+      "themeId": "HIST",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "La monarchie a été abolie à Madagascar par une révolution populaire au 20ème siècle.",
+      "isTrue": false,
+      "explanation": "La monarchie a été abolie par la **colonisation française en 1897**, et non par une révolution populaire interne.",
+      "source": "Fin de la monarchie malgache"
+    },
+    {
+      "questionId": "EASY_026",
+      "themeId": "PROV",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Le proverbe 'Ny vato an-tanety ihany no mahay mamely' signifie 'Seule la pierre à terre sait frapper'.",
+      "isTrue": true,
+      "explanation": "Ce proverbe met en évidence l'importance de l'action ou de l'expérience concrète : seule une personne active et impliquée peut avoir un impact.",
+      "source": "Recueil de Proverbes Malgaches"
+    },
+    {
+      "questionId": "EASY_027",
+      "themeId": "LITT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "La langue malgache s'écrit avec l'alphabet latin.",
+      "isTrue": true,
+      "explanation": "Bien qu'il y ait eu des systèmes d'écriture plus anciens, la langue malgache s'écrit principalement avec l'**alphabet latin** depuis le 19ème siècle.",
+      "source": "Linguistique malgache"
+    },
+    {
+      "questionId": "EASY_028",
+      "themeId": "GEO",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Madagascar est bordée par l'océan Pacifique à l'est.",
+      "isTrue": false,
+      "explanation": "Madagascar est bordée par l'**océan Indien** à l'est, et le canal du Mozambique à l'ouest.",
+      "source": "Géographie de Madagascar"
+    },
+    {
+      "questionId": "EASY_029",
+      "themeId": "CULT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Les 'Aloalo' sont des sculptures funéraires en bois typiques de Madagascar.",
+      "isTrue": true,
+      "explanation": "Les **Aloalo** sont des piliers funéraires sculptés, souvent avec des scènes de la vie du défunt, typiques du sud de Madagascar.",
+      "source": "Art funéraire malgache"
+    },
+    {
+      "questionId": "EASY_030",
+      "themeId": "HIST",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Le roi Andrianampoinimerina a uni les royaumes de Madagascar sous une seule couronne.",
+      "isTrue": false,
+      "explanation": "Le roi **Andrianampoinimerina** a uni une grande partie du royaume Merina, mais c'est son fils, le **roi Radama Ier**, qui a étendu le royaume sur la quasi-totalité de l'île.",
+      "source": "Histoire des royaumes malgaches"
+    },
+    {
+      "questionId": "MEDIUM_001",
+      "themeId": "GEO",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le Parc National de l'Isalo est réputé pour ses formations rocheuses particulières et ses piscines naturelles.",
+      "isTrue": true,
+      "explanation": "Le **Parc National de l'Isalo**, situé dans le sud-ouest de Madagascar, est célèbre pour ses canyons, ses formations gréseuses érodées et ses oasis de fraîcheur.",
+      "source": "Parcs Nationaux de Madagascar"
+    },
+    {
+      "questionId": "MEDIUM_002",
+      "themeId": "CULT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le 'Famadiana' est une cérémonie malgache qui consiste à enterrer les morts.",
+      "isTrue": false,
+      "explanation": "Le **Famadiana** est une cérémonie traditionnelle malgache qui consiste à déterrer les corps des ancêtres pour les envelopper dans de nouveaux linceuls et célébrer avec eux, en signe de respect et de lien avec les défunts.",
+      "source": "Anthropologie culturelle de Madagascar"
+    },
+    {
+      "questionId": "MEDIUM_003",
+      "themeId": "HIST",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "La reine Ranavalona III fut la dernière monarque de Madagascar avant la colonisation française.",
+      "isTrue": true,
+      "explanation": "**Ranavalona III** a régné de 1883 à 1897, date de l'annexion de Madagascar par la France.",
+      "source": "Histoire politique de Madagascar"
+    },
+    {
+      "questionId": "MEDIUM_004",
+      "themeId": "PROV",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le proverbe malgache 'Ny vary tsy an-drano, tsy ho vary' signifie 'Le riz sans eau ne sera pas du riz'.",
+      "isTrue": true,
+      "explanation": "Ce proverbe souligne l'importance des conditions nécessaires pour qu'une chose puisse exister ou se développer. Il met en évidence la dépendance vitale de certaines choses (ici le riz à l'eau).",
+      "source": "Recueil de Proverbes Malgaches"
+    },
+    {
+      "questionId": "MEDIUM_005",
+      "themeId": "LITT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Jean-Joseph Rabearivelo est un poète malgache célèbre pour ses œuvres en langue française uniquement.",
+      "isTrue": false,
+      "explanation": "**Jean-Joseph Rabearivelo** (1901-1937) a écrit en français mais aussi en **malgache**, et ses œuvres bilingues sont très importantes pour la littérature malgache moderne.",
+      "source": "Biographie de Jean-Joseph Rabearivelo"
+    },
+    {
+      "questionId": "MEDIUM_006",
+      "themeId": "GEO",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le Mont Maromokotro est le point culminant de Madagascar.",
+      "isTrue": true,
+      "explanation": "Le **Mont Maromokotro**, situé dans le massif du Tsaratanana, est le plus haut sommet de Madagascar, culminant à 2 876 mètres.",
+      "source": "Géographie physique de Madagascar"
+    },
+    {
+      "questionId": "MEDIUM_007",
+      "themeId": "CULT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le 'Kabary' est une forme d'art oratoire traditionnelle malgache.",
+      "isTrue": true,
+      "explanation": "Le **Kabary** est un discours public traditionnel, souvent très élaboré et riche en proverbes, utilisé lors de cérémonies, de négociations ou de funérailles.",
+      "source": "Traditions orales malgaches"
+    },
+    {
+      "questionId": "MEDIUM_008",
+      "themeId": "HIST",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "La dynastie des Merina est la seule à avoir régné sur l'ensemble de Madagascar.",
+      "isTrue": false,
+      "explanation": "Bien que les Merina aient étendu leur influence sur la majeure partie de l'île, ils n'ont pas toujours contrôlé l'intégralité du territoire, d'autres royaumes subsistant sur les côtes. C'est surtout **Radama Ier** qui a consolidé ce règne.",
+      "source": "Histoire des royaumes et unification de Madagascar"
+    },
+    {
+      "questionId": "MEDIUM_009",
+      "themeId": "PROV",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le proverbe 'Ny tany lavitra, ny olona akaiky' signifie 'La terre est lointaine, les gens sont proches'.",
+      "isTrue": true,
+      "explanation": "Ce proverbe malgache met l'accent sur l'importance des **relations humaines et de la solidarité**, qui priment sur la distance physique.",
+      "source": "Proverbes et sagesse malgaches"
+    },
+    {
+      "questionId": "MEDIUM_010",
+      "themeId": "LITT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Rakoto Frah était un célèbre joueur de valiha, un instrument à cordes malgache.",
+      "isTrue": false,
+      "explanation": "**Rakoto Frah** (1923-1999) était un virtuose de la **sodina**, une flûte traditionnelle malgache, et non de la valiha (qui est un instrument à cordes, mais pas son instrument de prédilection).",
+      "source": "Musique traditionnelle malgache, biographie d'artistes"
+    },
+    {
+      "questionId": "MEDIUM_011",
+      "themeId": "GEO",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le Canal du Mozambique sépare Madagascar du continent africain.",
+      "isTrue": true,
+      "explanation": "Le **Canal du Mozambique** est bien le bras de mer qui sépare Madagascar de l'Afrique australe.",
+      "source": "Cartographie et géographie de l'océan Indien"
+    },
+    {
+      "questionId": "MEDIUM_012",
+      "themeId": "CULT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le 'Jejy Voatavo' est un type de danse traditionnelle malgache.",
+      "isTrue": false,
+      "explanation": "Le **Jejy Voatavo** est un instrument de musique traditionnel malgache, une sorte de vièle à calebasse, et non une danse.",
+      "source": "Instruments de musique traditionnels malgaches"
+    },
+    {
+      "questionId": "MEDIUM_013",
+      "themeId": "HIST",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "La période coloniale française à Madagascar a été marquée par des infrastructures significatives mais aussi des répressions violentes.",
+      "isTrue": true,
+      "explanation": "La colonisation a apporté des routes, des chemins de fer et des hôpitaux, mais elle a aussi été caractérisée par des **répressions brutales**, notamment l'insurrection de 1947.",
+      "source": "Histoire de la colonisation de Madagascar"
+    },
+    {
+      "questionId": "MEDIUM_014",
+      "themeId": "PROV",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le proverbe 'Aleo mandeha miadana toy izay mananihana haingana' signifie 'Mieux vaut aller lentement que de courir vite et trébucher'.",
+      "isTrue": true,
+      "explanation": "Ce proverbe encourage la prudence et la patience, soulignant qu'il est préférable de prendre son temps pour bien faire les choses plutôt que de se précipiter et de faire des erreurs.",
+      "source": "Recueil de Proverbes Malgaches"
+    },
+    {
+      "questionId": "MEDIUM_015",
+      "themeId": "LITT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Dox (Jean Verdi Razakandraina) est un auteur malgache reconnu pour ses romans de science-fiction.",
+      "isTrue": false,
+      "explanation": "**Dox** est un poète et dramaturge malgache très important, connu pour ses œuvres lyriques et engagées, mais pas pour la science-fiction.",
+      "source": "Littérature malgache contemporaine"
+    },
+    {
+      "questionId": "MEDIUM_016",
+      "themeId": "GEO",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le Tsingy de Bemaraha est un massif calcaire classé au patrimoine mondial de l'UNESCO pour ses paysages uniques.",
+      "isTrue": true,
+      "explanation": "Les **Tsingy de Bemaraha** sont des formations rocheuses karstiques acérées, un site naturel exceptionnel et un site du patrimoine mondial de l'UNESCO.",
+      "source": "UNESCO World Heritage List"
+    },
+    {
+      "questionId": "MEDIUM_017",
+      "themeId": "CULT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le 'Samby' est une danse traditionnelle exécutée uniquement par les femmes à Madagascar.",
+      "isTrue": false,
+      "explanation": "Le **Samby** est une danse rituelle pratiquée notamment dans le sud de Madagascar, souvent exécutée par des hommes, notamment les guerriers Antandroy.",
+      "source": "Danses traditionnelles malgaches"
+    },
+    {
+      "questionId": "MEDIUM_018",
+      "themeId": "HIST",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le 'Rova d'Antananarivo' était le palais des rois et reines de Madagascar.",
+      "isTrue": true,
+      "explanation": "Le **Rova d'Antananarivo** (ou Palais Royal) était la résidence et le centre politique du Royaume de Merina et de Madagascar.",
+      "source": "Patrimoine historique de Madagascar"
+    },
+    {
+      "questionId": "MEDIUM_019",
+      "themeId": "PROV",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le proverbe 'Ny teny dia toy ny rano, raha tsy atao an-tanana, dia tsy ho tafita' signifie 'La parole est comme l'eau, si on ne la tient pas dans la main, elle ne passera pas'.",
+      "isTrue": true,
+      "explanation": "Ce proverbe met l'accent sur la nécessité de la **précision et de la clarté** dans la communication pour qu'un message soit compris et transmis efficacement.",
+      "source": "Proverbes malgaches sur la communication"
+    },
+    {
+      "questionId": "MEDIUM_020",
+      "themeId": "LITT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Les 'Malagasy Classics' sont une collection de contes de fées pour enfants uniquement.",
+      "isTrue": false,
+      "explanation": "Les 'Malagasy Classics' (ou classiques malgaches) désignent une collection plus large d'œuvres littéraires importantes, y compris des poésies, romans, et pièces de théâtre, qui reflètent la richesse de la littérature malgache pour **tous les âges**.",
+      "source": "Panorama de la littérature malgache"
+    },
+    {
+      "questionId": "MEDIUM_021",
+      "themeId": "GEO",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le Lac Alaotra est le plus grand lac naturel de Madagascar.",
+      "isTrue": true,
+      "explanation": "Le **Lac Alaotra**, situé sur les hautes terres, est le plus grand lac naturel de Madagascar et une zone humide importante.",
+      "source": "Zones humides de Madagascar, Géographie"
+    },
+    {
+      "questionId": "MEDIUM_022",
+      "themeId": "CULT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le 'Zafimaniry' est un groupe ethnique malgache réputé pour son artisanat du bois et ses techniques de menuiserie sans clous.",
+      "isTrue": true,
+      "explanation": "Les **Zafimaniry**, un peuple des hauts plateaux du sud-est de Madagascar, sont célèbres pour leur savoir-faire exceptionnel en menuiserie et sculpture sur bois, inscrit au patrimoine culturel immatériel de l'UNESCO.",
+      "source": "UNESCO - Patrimoine culturel immatériel"
+    },
+    {
+      "questionId": "MEDIUM_023",
+      "themeId": "HIST",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "La Rébellion de 1947 à Madagascar était une révolte contre le pouvoir monarchique malgache.",
+      "isTrue": false,
+      "explanation": "La **Rébellion de 1947** était une insurrection nationaliste majeure contre l'**administration coloniale française**, et non contre la monarchie malgache (qui avait été abolie).",
+      "source": "Histoire de la décolonisation de Madagascar"
+    },
+    {
+      "questionId": "MEDIUM_024",
+      "themeId": "PROV",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le proverbe 'Ny fitiavana tsy mifidy endrika, fa mifidy fo' signifie 'L'amour ne choisit pas le visage, mais choisit le cœur'.",
+      "isTrue": true,
+      "explanation": "Ce proverbe souligne que la **vraie affection** et l'amour se basent sur les qualités intérieures et non sur l'apparence physique.",
+      "source": "Proverbes malgaches sur l'amour"
+    },
+    {
+      "questionId": "MEDIUM_025",
+      "themeId": "LITT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "La poésie 'Hain-Teny' est une forme de poésie classique malgache avec des règles de composition strictes.",
+      "isTrue": true,
+      "explanation": "Le **Hain-Teny** est une forme de poésie traditionnelle malgache, souvent improvisée, caractérisée par des jeux de mots, des allusions et des métaphores, avec des règles rythmiques et sémantiques précises.",
+      "source": "Formes poétiques malgaches"
+    },
+    {
+      "questionId": "MEDIUM_026",
+      "themeId": "GEO",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "La ville de Nosy Be est célèbre pour ses plantations de cacao.",
+      "isTrue": false,
+      "explanation": "**Nosy Be** est plutôt célèbre pour ses plages, sa production d'ylang-ylang et son tourisme, bien que du cacao puisse y être cultivé en plus petites quantités, ce n'est pas sa principale renommée.",
+      "source": "Tourisme et économie de Nosy Be"
+    },
+    {
+      "questionId": "MEDIUM_027",
+      "themeId": "CULT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le 'Don-Tany' est une danse de célébration associée aux récoltes du riz.",
+      "isTrue": true,
+      "explanation": "Le **Don-Tany** (littéralement 'don de la terre') est une danse festive souvent exécutée lors de la fin des récoltes de riz pour remercier et célébrer l'abondance.",
+      "source": "Rites et danses agraires malgaches"
+    },
+    {
+      "questionId": "MEDIUM_028",
+      "themeId": "HIST",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "L'abolition de l'esclavage à Madagascar a eu lieu immédiatement après l'indépendance en 1960.",
+      "isTrue": false,
+      "explanation": "L'esclavage a été **officiellement aboli par les Français en 1896** lors de la colonisation, bien que ses effets sociaux aient perduré au-delà.",
+      "source": "Histoire sociale de Madagascar"
+    },
+    {
+      "questionId": "MEDIUM_029",
+      "themeId": "PROV",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le proverbe 'Ny tena kely, mahay mananihana havoana' signifie 'Même le petit sait escalader la colline'.",
+      "isTrue": true,
+      "explanation": "Ce proverbe encourage la **persévérance et la confiance en soi**, signifiant que même une petite personne ou une entité modeste peut accomplir de grandes choses avec détermination.",
+      "source": "Sagesse populaire malgache"
+    },
+    {
+      "questionId": "MEDIUM_030",
+      "themeId": "LITT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Ny Avana Ramanantoanina est un écrivain malgache connu pour ses œuvres historiques sur les rois Merina.",
+      "isTrue": true,
+      "explanation": "**Ny Avana Ramanantoanina** (1891-1940) est un écrivain et historien malgache, auteur de plusieurs ouvrages importants sur l'histoire et la culture de l'Imerina, dont des chroniques royales.",
+      "source": "Dictionnaire des auteurs malgaches"
+    },
+    {
+      "questionId": "HARD_001",
+      "themeId": "GEO",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le parc national d'Andohahela est le seul endroit au monde où cohabitent trois écosystèmes distincts sur une courte distance.",
+      "isTrue": true,
+      "explanation": "Le **Parc National d'Andohahela** est exceptionnel pour sa biodiversité et sa géographie, présentant une forêt tropicale humide, une forêt sèche et une végétation d'épineux en très proche proximité.",
+      "source": "UNESCO World Heritage - Andohahela"
+    },
+    {
+      "questionId": "HARD_002",
+      "themeId": "CULT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le 'tromba' est une forme de possession spirituelle dans certaines cultures malgaches.",
+      "isTrue": true,
+      "explanation": "Le **tromba** est un phénomène de possession par des esprits d'anciens rois ou ancêtres, présent dans les rituels traditionnels de certaines ethnies malgaches, notamment Sakalava et Antakarana.",
+      "source": "Ethnologie de Madagascar"
+    },
+    {
+      "questionId": "HARD_003",
+      "themeId": "HIST",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "La Constitution de la Première République malgache (1960) a instauré un régime présidentiel fort, inspiré du modèle américain.",
+      "isTrue": false,
+      "explanation": "La Constitution de 1960 a instauré un **régime semi-présidentiel** inspiré du modèle de la Cinquième République française, avec un président fort mais aussi un Premier ministre.",
+      "source": "Droit constitutionnel malgache, Histoire politique"
+    },
+    {
+      "questionId": "HARD_004",
+      "themeId": "PROV",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le proverbe 'Ny vary an-davanila, tsy hita fa ny kisoa an-kely no hita' signifie 'On ne voit pas le riz dans le grenier, mais le cochon dans la porcherie'.",
+      "isTrue": true,
+      "explanation": "Ce proverbe signifie que ce qui est caché ou moins évident (le riz dans le grenier, ici, la richesse ou le bien-être) est parfois négligé au profit de ce qui est visible ou problématique (le cochon, ici, les soucis ou défauts). Il incite à regarder au-delà des apparences.",
+      "source": "Proverbes malgaches profonds"
+    },
+    {
+      "questionId": "HARD_005",
+      "themeId": "LITT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le 'Sorabe' est un ancien système d'écriture arabe utilisé pour transcrire la langue malgache.",
+      "isTrue": true,
+      "explanation": "Le **Sorabe** (littéralement 'grandes écritures') est une écriture arabico-malgache utilisée principalement dans le sud-est de Madagascar pour transcrire des textes religieux, historiques et médicaux en malgache.",
+      "source": "Histoire de l'écriture malgache"
+    },
+    {
+      "questionId": "HARD_006",
+      "themeId": "GEO",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le Grand Sud de Madagascar est caractérisé par un climat désertique avec de très faibles précipitations.",
+      "isTrue": false,
+      "explanation": "Le Grand Sud est caractérisé par un **climat semi-aride à aride**, avec des périodes de sécheresse sévères, mais pas un désert classique. La végétation est de type bush épineux.",
+      "source": "Climatologie de Madagascar, IRD"
+    },
+    {
+      "questionId": "HARD_007",
+      "themeId": "CULT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le 'Tsangatsangana' est une pratique funéraire malgache impliquant la construction de tombes monumentales.",
+      "isTrue": false,
+      "explanation": "Le **Tsangatsangana** est un pèlerinage ou une excursion joyeuse, souvent vers un lieu sacré ou historique, et non une pratique funéraire liée aux tombes.",
+      "source": "Vocabulaire culturel malgache"
+    },
+    {
+      "questionId": "HARD_008",
+      "themeId": "HIST",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "La Conférence de Berlin de 1884-1885 a officiellement attribué Madagascar à la France.",
+      "isTrue": false,
+      "explanation": "La **Conférence de Berlin** a réglé le partage de l'Afrique, mais Madagascar n'y a pas été explicitement 'attribuée'. L'influence française s'est accrue progressivement, menant à la conquête par la force en 1895 et l'annexion en 1897.",
+      "source": "Histoire coloniale de l'Afrique et de Madagascar"
+    },
+    {
+      "questionId": "HARD_009",
+      "themeId": "PROV",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le proverbe 'Ny toky tsy mihetsika, fa ny teny no mihetsika' signifie 'Le serment ne bouge pas, mais la parole bouge'.",
+      "isTrue": true,
+      "explanation": "Ce proverbe malgache met en lumière la **différence entre un engagement ferme (serment) et la nature parfois changeante ou moins fiable des simples paroles** ou promesses.",
+      "source": "Recueil avancé de Proverbes Malgaches"
+    },
+    {
+      "questionId": "HARD_010",
+      "themeId": "LITT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le 'Vakodrazana' est un genre littéraire oral malgache qui raconte des légendes et des mythes anciens.",
+      "isTrue": true,
+      "explanation": "Le **Vakodrazana** est une forme d'expression orale traditionnelle qui englobe des chants, des contes, des légendes et des récits historiques transmis de génération en génération.",
+      "source": "Patrimoine oral malgache"
+    },
+    {
+      "questionId": "HARD_011",
+      "themeId": "GEO",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Les Andringitra sont un massif montagneux de Madagascar célèbre pour son pic Imarivolanitra, le second plus haut de l'île.",
+      "isTrue": true,
+      "explanation": "Le **massif de l'Andringitra** est un site remarquable avec le pic Imarivolanitra (Pic Boby), qui est bien le deuxième plus haut sommet de Madagascar.",
+      "source": "Parcs Nationaux de Madagascar, Topographie"
+    },
+    {
+      "questionId": "HARD_012",
+      "themeId": "CULT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le 'Fitampoha' est une cérémonie royale Sakalava qui se déroule tous les cinq ans et implique le bain des reliques royales.",
+      "isTrue": true,
+      "explanation": "Le **Fitampoha** (bain des reliques royales) est une cérémonie majeure du peuple Sakalava, qui vise à vénérer les ancêtres royaux et à renforcer la cohésion sociale.",
+      "source": "Rituels royaux malgaches"
+    },
+    {
+      "questionId": "HARD_013",
+      "themeId": "HIST",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le Code des 305 articles de la reine Ranavalona Ière visait à moderniser le droit malgache sur le modèle européen.",
+      "isTrue": false,
+      "explanation": "Le **Code des 305 articles de Ranavalona Ière** (1828-1861) était un recueil de lois basé sur le droit coutumier malgache, avec des influences chrétiennes et européennes, mais il visait avant tout à consolider son pouvoir et à maintenir l'ordre social traditionnel, souvent avec une grande sévérité.",
+      "source": "Droit et législation malgaches anciennes"
+    },
+    {
+      "questionId": "HARD_014",
+      "themeId": "PROV",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le proverbe 'Ny mahay manam-bady, ka tsy mahay manana vady' signifie 'Celui qui sait épouser n'est pas celui qui sait avoir une épouse'.",
+      "isTrue": true,
+      "explanation": "Ce proverbe complexe distingue la **capacité à se marier (l'acte) de la capacité à bien vivre en couple (la relation)**, soulignant que l'un ne garantit pas l'autre.",
+      "source": "Proverbes malgaches sur les relations"
+    },
+    {
+      "questionId": "HARD_015",
+      "themeId": "LITT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Flavien Ranaivo est un écrivain malgache connu pour ses pièces de théâtre engagées contre le colonialisme.",
+      "isTrue": false,
+      "explanation": "**Flavien Ranaivo** (1914-1999) est un poète malgache célèbre pour ses poèmes lyriques et évocateurs de la vie rurale, de l'amour et de la nature malgache, souvent d'une grande finesse, mais pas principalement pour le théâtre anti-colonial.",
+      "source": "Poésie malgache moderne"
+    },
+    {
+      "questionId": "HARD_016",
+      "themeId": "GEO",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "La Grande Barrière de Corail de Madagascar est la plus longue barrière corallienne de l'océan Indien.",
+      "isTrue": false,
+      "explanation": "Bien que Madagascar possède d'importants récifs coralliens, la **plus longue barrière de corail de l'océan Indien** est le grand récif de la Nouvelle-Calédonie, tandis que la plus grande barrière au monde est en Australie.",
+      "source": "Conservation Marine Internationale, Géographie récifale"
+    },
+    {
+      "questionId": "HARD_017",
+      "themeId": "CULT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le 'Volon-Koditra' est un type de tatouage facial traditionnel réservé aux membres de la royauté Merina.",
+      "isTrue": false,
+      "explanation": "Le **Volon-Koditra** désigne en malgache les cheveux (volo) et la peau (koditra), et n'est pas un type de tatouage traditionnel royal. Les tatouages existaient, mais cette dénomination est incorrecte dans ce contexte.",
+      "source": "Ethnobotanique et culture corporelle malgache (pas de référence directe trouvée pour 'Volon-Koditra' comme tatouage royal)"
+    },
+    {
+      "questionId": "HARD_018",
+      "themeId": "HIST",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Les 'Zanak'andriana' étaient la classe la plus élevée de la société Merina, composée des descendants directs des rois.",
+      "isTrue": true,
+      "explanation": "Les **Zanak'andriana** étaient effectivement les 'enfants des souverains', la plus haute caste noble au sein du royaume Merina.",
+      "source": "Organisation sociale du Royaume Merina"
+    },
+    {
+      "questionId": "HARD_019",
+      "themeId": "PROV",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le proverbe 'Ny soavaly tsy miova fihina, fa ny olona no miova toetra' signifie 'Le cheval ne change pas de mors, mais l'homme change de caractère'.",
+      "isTrue": true,
+      "explanation": "Ce proverbe exprime l'idée que si certains aspects des animaux sont fixes, la **nature humaine est capable de changement et d'inconstance**.",
+      "source": "Sagesse et observation de la nature humaine dans les proverbes malgaches"
+    },
+    {
+      "questionId": "HARD_020",
+      "themeId": "LITT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "E.D. Andriamalala est un auteur malgache pionnier de la littérature romanesque en langue malgache.",
+      "isTrue": true,
+      "explanation": "**E.D. Andriamalala** (1917-2005) est considéré comme l'un des pères du roman moderne en langue malgache, avec des œuvres abordant des thèmes sociaux et historiques.",
+      "source": "Histoire du roman malgache"
+    },
+    {
+      "questionId": "HARD_021",
+      "themeId": "GEO",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "La chaîne de montagnes de l'Ankarana est connue pour ses grottes abritant une faune unique et ses réseaux souterrains.",
+      "isTrue": true,
+      "explanation": "Le **massif de l'Ankarana** est un réseau karstique avec de nombreuses grottes, rivières souterraines et une biodiversité adaptée à ces environnements uniques.",
+      "source": "Parcs Nationaux de Madagascar, Spéléologie"
+    },
+    {
+      "questionId": "HARD_022",
+      "themeId": "CULT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le 'Hira Gasy' est une forme d'art qui mêle le chant, la danse et la musique, et qui se déroule principalement lors de rituels funéraires.",
+      "isTrue": false,
+      "explanation": "Si les **Hira Gasy** sont bien des spectacles de chant, danse et musique, ils sont principalement donnés lors de fêtes, de marchés ou d'événements publics, et non spécifiquement lors de rituels funéraires, bien qu'ils puissent y avoir des thèmes de deuil ou d'hommage.",
+      "source": "Folklore et arts de la scène malgaches"
+    },
+    {
+      "questionId": "HARD_023",
+      "themeId": "HIST",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le 'Traité de Paris' de 1814-1815 est un jalon majeur de l'histoire de Madagascar, marquant son entrée dans la sphère d'influence britannique.",
+      "isTrue": false,
+      "explanation": "Le **Traité de Paris** concernait principalement la réorganisation de l'Europe après les guerres napoléoniennes. Son impact sur Madagascar fut indirect : la Grande-Bretagne a gagné le Cap, mais Madagascar n'a pas été formellement attribuée à une sphère d'influence spécifique dans ce traité. L'influence britannique a été forte via les missionnaires et le commerce, mais n'est pas le résultat direct de ce traité.",
+      "source": "Histoire des relations internationales, Histoire de Madagascar (influence britannique)"
+    },
+    {
+      "questionId": "HARD_024",
+      "themeId": "PROV",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le proverbe 'Ny akoholahy mipetraka an-davaky ny akohovavy, ka tsy mahay manazava ny lalana' signifie 'Le coq qui reste dans le nid de la poule ne sait pas éclairer le chemin'.",
+      "isTrue": true,
+      "explanation": "Ce proverbe malgache met l'accent sur la **nécessité de l'expérience et de l'autonomie** pour acquérir la sagesse et la capacité de guider les autres.",
+      "source": "Sagesse traditionnelle malgache"
+    },
+    {
+      "questionId": "HARD_025",
+      "themeId": "LITT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le 'Hainteny' est un type de poésie malgache qui se caractérise par des vers libres et une absence de rime.",
+      "isTrue": false,
+      "explanation": "Au contraire, le **Hainteny** est une forme poétique traditionnelle malgache caractérisée par une **structure métrique et rythmique spécifique**, l'utilisation de parallélismes et de figures de style complexes, et souvent des rimes internes.",
+      "source": "Analyse de la poésie malgache"
+    },
+    {
+      "questionId": "HARD_026",
+      "themeId": "GEO",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Madagascar possède la plus grande forêt tropicale humide primaire intacte d'Afrique.",
+      "isTrue": false,
+      "explanation": "Bien que Madagascar ait d'importantes forêts primaires, la **plus grande forêt tropicale humide intacte d'Afrique** se trouve plutôt dans le bassin du Congo. Les forêts de Madagascar sont très fragmentées et menacées.",
+      "source": "Conservation et déforestation en Afrique et à Madagascar"
+    },
+    {
+      "questionId": "HARD_027",
+      "themeId": "CULT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le 'Razana' désigne exclusivement les défunts enterrés dans des tombes royales.",
+      "isTrue": false,
+      "explanation": "Le terme **Razana** désigne de manière générale les ancêtres vénérés, qui peuvent être enterrés dans diverses tombes, pas seulement royales. Le culte des ancêtres est fondamental pour tous les Malgaches.",
+      "source": "Culte des ancêtres malgaches"
+    },
+    {
+      "questionId": "HARD_028",
+      "themeId": "HIST",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le concept de 'Fokonolona' a été introduit à Madagascar par les colons français pour organiser les communautés rurales.",
+      "isTrue": false,
+      "explanation": "Le **Fokonolona** est une institution sociale et administrative traditionnelle malgache, existant bien avant la colonisation, et représentant une communauté villageoise avec ses règles et son organisation interne.",
+      "source": "Structures sociales et politiques traditionnelles de Madagascar"
+    },
+    {
+      "questionId": "HARD_029",
+      "themeId": "PROV",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le proverbe 'Ny vava no mamono, fa ny tanana no mamita' signifie 'La bouche tue, mais la main achève'.",
+      "isTrue": true,
+      "explanation": "Ce proverbe signifie que les **paroles peuvent causer des dommages considérables**, parfois plus destructeurs que les actes physiques, et que les actions (mains) peuvent ensuite finaliser ce qui a été initié par les paroles.",
+      "source": "Proverbes malgaches sur le pouvoir de la parole"
+    },
+    {
+      "questionId": "HARD_030",
+      "themeId": "LITT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Jacques Rabemananjara, un homme politique et écrivain, a été l'un des premiers Malgaches à être élu à l'Académie Française.",
+      "isTrue": false,
+      "explanation": "Bien que **Jacques Rabemananjara** (1913-2005) soit un intellectuel, homme politique et écrivain majeur, il n'a **jamais été élu à l'Académie Française**. Il a néanmoins eu une grande influence littéraire et politique.",
+      "source": "Biographies d'écrivains malgaches, Académie Française"
+    },
+    {
+      "questionId": "EXPERT_001",
+      "themeId": "GEO",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le 'couloir forestier' de Mandraka est une zone de conservation critique reliant plusieurs parcs nationaux dans l'est de Madagascar.",
+      "isTrue": true,
+      "explanation": "Le **couloir forestier de Mandraka** est un corridor écologique essentiel qui joue un rôle crucial dans la connectivité des habitats pour la faune entre différentes aires protégées de l'Est malgache.",
+      "source": "Conservation International Madagascar, Écologie des corridors"
+    },
+    {
+      "questionId": "EXPERT_002",
+      "themeId": "CULT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le 'Mangaiko' est un système de divination traditionnel malgache basé sur l'interprétation des rêves.",
+      "isTrue": false,
+      "explanation": "Le **Mangaiko** n'est pas un système de divination reconnu à Madagascar. La divination traditionnelle est principalement l'**Sikidy**, qui utilise des graines et l'interprétation de figures pour prédire l'avenir ou résoudre des problèmes.",
+      "source": "Anthropologie de la divination malgache (le Sikidy)"
+    },
+    {
+      "questionId": "EXPERT_003",
+      "themeId": "HIST",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le concept de 'Hova' au sein de la société Merina désignait une classe sociale uniquement composée de roturiers sans lien avec l'aristocratie.",
+      "isTrue": false,
+      "explanation": "Le terme **Hova** désignait la classe des hommes libres roturiers mais qui pouvaient avoir une influence et une richesse significatives. Ils étaient distincts des nobles (Andriana) et des esclaves (Andevo), mais certains Hova pouvaient être liés à l'aristocratie par des mariages ou des alliances au fil du temps.",
+      "source": "Stratification sociale du Royaume Merina"
+    },
+    {
+      "questionId": "EXPERT_004",
+      "themeId": "PROV",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le proverbe 'Ny tany lavitra, ny olona akaiky, ny fanahy tsy an-toerana' signifie 'La terre est lointaine, les gens sont proches, l'esprit est sans lieu'.",
+      "isTrue": true,
+      "explanation": "Ce proverbe évoque la dimension spirituelle et métaphysique du **Fihavanana** (lien social), où l'esprit et la connexion humaine transcendent les barrières physiques. Il suggère une union profonde au-delà de la proximité géographique.",
+      "source": "Proverbes malgaches philosophiques"
+    },
+    {
+      "questionId": "EXPERT_005",
+      "themeId": "LITT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "La 'Tantara ny Andriana eto Madagasikara' (Histoire des nobles à Madagascar) est une œuvre écrite par un unique auteur malgache au début du 20ème siècle.",
+      "isTrue": false,
+      "explanation": "La **Tantara ny Andriana eto Madagasikara** est une compilation majeure de traditions orales et de documents historiques sur les rois Merina, assemblée et transcrite par le **Père François Callet**, missionnaire jésuite, à la fin du 19ème siècle, à partir de récits locaux. Ce n'est pas l'œuvre d'un unique auteur malgache.",
+      "source": "Historiographie de Madagascar, Histoire de la littérature malgache"
+    },
+    {
+      "questionId": "EXPERT_006",
+      "themeId": "GEO",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le fleuve Mangoky est le plus long fleuve de Madagascar, essentiel pour l'irrigation agricole dans le sud-ouest.",
+      "isTrue": true,
+      "explanation": "Le **Mangoky** est le fleuve le plus long de Madagascar et joue un rôle crucial pour l'agriculture dans la région sud-ouest, particulièrement pour la culture du riz et du coton.",
+      "source": "Hydrologie et géographie fluviale de Madagascar"
+    },
+    {
+      "questionId": "EXPERT_007",
+      "themeId": "CULT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le 'Moletry' est un rituel de guérison chamanique pratiqué par les Antandroy du sud de Madagascar.",
+      "isTrue": false,
+      "explanation": "Le **Moletry** (ou molehity) est un type de vêtement traditionnel, souvent en coton, et non un rituel de guérison. Les rituels de guérison existent, mais sous d'autres noms (ex: *fanafody*, *ombiasa*).",
+      "source": "Vêtements traditionnels malgaches, Rituels de guérison (pas le moletry)"
+    },
+    {
+      "questionId": "EXPERT_008",
+      "themeId": "HIST",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le Traité de protection de Tamatave de 1868 est un exemple de la diplomatie malgache qui a permis de maintenir l'indépendance face aux puissances européennes pendant plusieurs décennies.",
+      "isTrue": true,
+      "explanation": "Les traités signés par les souverains malgaches, y compris le **Traité de Tamatave avec la France en 1868**, étaient des tentatives de maintenir la souveraineté en jouant sur la rivalité entre puissances coloniales, prolongeant ainsi l'indépendance jusqu'à la fin du 19ème siècle.",
+      "source": "Relations internationales de Madagascar au 19ème siècle"
+    },
+    {
+      "questionId": "EXPERT_009",
+      "themeId": "PROV",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le proverbe 'Ny tany lavitra, ny ala akaiky, ny fon'ny olona tsy hita' signifie 'La terre est lointaine, la forêt est proche, le cœur de l'homme est inconnu'.",
+      "isTrue": true,
+      "explanation": "Ce proverbe très profond met en évidence la **difficulté de connaître les véritables intentions ou sentiments d'une personne**, même si elle est physiquement proche, par contraste avec des réalités géographiques ou naturelles observables.",
+      "source": "Proverbes malgaches sur la psychologie humaine"
+    },
+    {
+      "questionId": "EXPERT_010",
+      "themeId": "LITT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Georges Ramamonjisoa est un poète contemporain malgache connu pour ses œuvres qui explorent l'exil et la diaspora.",
+      "isTrue": false,
+      "explanation": "Bien qu'il y ait des auteurs malgaches qui explorent ces thèmes, **Georges Ramamonjisoa n'est pas un nom d'écrivain malgache reconnu dans le grand public ou les cercles académiques majeurs pour ces thèmes**. Cette question est basée sur une improvisation pour la complexité du niveau 'Expert'.",
+      "source": "Improvisation - Pas de référence directe pour un auteur de ce nom pour ces thèmes."
+    },
+    {
+      "questionId": "EXPERT_011",
+      "themeId": "GEO",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le Massif du Makay, dans l'ouest de Madagascar, est un site géologique unique caractérisé par un labyrinthe de canyons et une biodiversité endémique exceptionnelle et peu explorée.",
+      "isTrue": true,
+      "explanation": "Le **Massif du Makay** est une formation gréseuse isolée, peu explorée et d'une richesse biologique et géologique remarquable, avec de nombreuses espèces encore à découvrir.",
+      "source": "Expéditions scientifiques Makay, Géologie de Madagascar"
+    },
+    {
+      "questionId": "EXPERT_012",
+      "themeId": "CULT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le 'Moro-Be' est une danse rituelle pratiquée exclusivement par les chamans malgaches pour invoquer les esprits.",
+      "isTrue": false,
+      "explanation": "Le terme **Moro-Be** n'est pas un rituel de danse chamanique traditionnel malgache largement documenté. Il est possible que ce soit un terme local ou une invention. Les rituels d'invocation spirituelle existent mais sous d'autres formes et noms (ex: *Tromba*).",
+      "source": "Improvisation - Pas de référence directe pour le 'Moro-Be' comme rituel chamanique."
+    },
+    {
+      "questionId": "EXPERT_013",
+      "themeId": "HIST",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "La 'Révolution Socialiste Malgache' des années 1970 a conduit à une nationalisation généralisée et un rapprochement avec les pays du bloc de l'Est.",
+      "isTrue": true,
+      "explanation": "La période du **'Socialisme Scientifique' du régime de Didier Ratsiraka** (à partir de 1975) a effectivement mis en œuvre des politiques de nationalisation, d'autarcie et de non-alignement penché vers le bloc de l'Est.",
+      "source": "Histoire politique contemporaine de Madagascar"
+    },
+    {
+      "questionId": "EXPERT_014",
+      "themeId": "PROV",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le proverbe 'Ny omby manana tandroka, tsy mahay mamono, fa ny omby tsy manana tandroka no mamono' signifie 'Le bœuf qui a des cornes ne sait pas tuer, mais le bœuf sans cornes tue'.",
+      "isTrue": true,
+      "explanation": "Ce proverbe complexe suggère que **ceux qui semblent les plus menaçants (avec des cornes) ne sont pas toujours les plus dangereux**. Le vrai danger peut venir de ceux qui sont sous-estimés ou qui agissent sournoisement (sans cornes). Il met en garde contre les apparences.",
+      "source": "Proverbes malgaches à double sens"
+    },
+    {
+      "questionId": "EXPERT_015",
+      "themeId": "LITT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le mouvement littéraire malgache 'Mitady ny Very' (À la recherche du perdu) visait à rejeter toute influence occidentale et à revenir aux formes artistiques purement malgaches.",
+      "isTrue": false,
+      "explanation": "Le mouvement **Mitady ny Very** (qui signifie 'à la recherche du perdu' ou 'du trésor perdu') était un courant de renouveau culturel et littéraire des années 1930, qui cherchait à valoriser l'identité malgache et à explorer le passé, mais il n'a pas systématiquement rejeté toutes les influences occidentales, cherchant plutôt une synthèse ou une réappropriation.",
+      "source": "Histoire des mouvements littéraires malgaches"
+    },
+    {
+      "questionId": "EXPERT_016",
+      "themeId": "GEO",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le courant marin d'Agulhas, un courant chaud, influence directement le climat de la côte ouest de Madagascar.",
+      "isTrue": false,
+      "explanation": "Le **courant d'Agulhas** est un courant chaud qui longe la côte est de l'Afrique et le sud de Madagascar, influençant plutôt la **côte sud et sud-est** de l'île, tandis que le courant du Mozambique influence la côte ouest.",
+      "source": "Océanographie de l'océan Indien"
+    },
+    {
+      "questionId": "EXPERT_017",
+      "themeId": "CULT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Les 'Fady' sont des interdits ou tabous ancestraux, qui varient considérablement d'une région à l'autre et d'un groupe ethnique à l'autre à Madagascar.",
+      "isTrue": true,
+      "explanation": "Les **Fady** sont des règles de conduite ou des interdits qui régissent la vie quotidienne et rituelle à Madagascar. Leur nature et leur application sont très diverses selon les communautés et peuvent concerner des lieux, des aliments, des actions ou des personnes.",
+      "source": "Anthropologie sociale et culturelle de Madagascar"
+    },
+    {
+      "questionId": "EXPERT_018",
+      "themeId": "HIST",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le Pacte colonial interdisait à Madagascar de commercer avec d'autres nations que la France.",
+      "isTrue": true,
+      "explanation": "Le **Pacte colonial** était une politique de la France visant à réserver le commerce et les ressources des colonies à la métropole, limitant ainsi fortement les relations commerciales de Madagascar avec d'autres pays pendant la période coloniale.",
+      "source": "Économie coloniale de Madagascar"
+    },
+    {
+      "questionId": "EXPERT_019",
+      "themeId": "PROV",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le proverbe 'Ny hazo no tohan'ny hazo, ny olona no tohan'ny olona' signifie 'Un arbre soutient un autre arbre, un homme soutient un autre homme'.",
+      "isTrue": true,
+      "explanation": "Ce proverbe exprime la valeur fondamentale de la **solidarité et de l'entraide mutuelle** au sein de la communauté malgache, essentielle pour la survie et le bien-être de tous.",
+      "source": "Philosophie des proverbes malgaches"
+    },
+    {
+      "questionId": "EXPERT_020",
+      "themeId": "LITT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Raharimanana est un écrivain malgache contemporain dont l'œuvre explore souvent les traumatismes de l'histoire coloniale et post-coloniale de Madagascar.",
+      "isTrue": true,
+      "explanation": "**Raharimanana** (Jean-Luc Raharimanana) est un écrivain malgache de renommée internationale, dont l'œuvre romanesque et poétique est effectivement marquée par une exploration profonde des cicatrices de l'histoire, de la mémoire et de l'identité malgache.",
+      "source": "Critique littéraire, Œuvre de Raharimanana"
+    },
+    {
+      "questionId": "EXPERT_021",
+      "themeId": "GEO",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le Plateau de l'Ankarafantsika est une région caractérisée par une forte pluviométrie et une dense forêt tropicale humide.",
+      "isTrue": false,
+      "explanation": "Le **Parc National d'Ankarafantsika** est situé dans le nord-ouest et est principalement connu pour sa **forêt sèche caducifoliée** et son climat plus sec, non pour une forte pluviométrie ou une forêt tropicale humide dense.",
+      "source": "Écosystèmes de Madagascar, Guide des parcs nationaux"
+    },
+    {
+      "questionId": "EXPERT_022",
+      "themeId": "CULT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le 'Fanorona' est un jeu de stratégie traditionnel malgache qui se joue sur un plateau avec des pions.",
+      "isTrue": true,
+      "explanation": "Le **Fanorona** est un ancien jeu de plateau de stratégie malgache, joué par deux adversaires, qui simule des tactiques militaires. Il est très populaire et considéré comme un symbole de l'intelligence malgache.",
+      "source": "Jeux traditionnels malgaches, Culture et société"
+    },
+    {
+      "questionId": "EXPERT_023",
+      "themeId": "HIST",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le mouvement des 'Menalamba' était une rébellion armée contre la monarchie Merina à la fin du 19ème siècle.",
+      "isTrue": false,
+      "explanation": "Le mouvement des **Menalamba** (ceux qui portent des lamba rouges) était une **rébellion nationaliste armée contre la colonisation française** et les changements qu'elle imposait, survenue à la fin du 19ème siècle, et non contre la monarchie Merina.",
+      "source": "Mouvements de résistance coloniale à Madagascar"
+    },
+    {
+      "questionId": "EXPERT_024",
+      "themeId": "PROV",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le proverbe 'Ny marina tsy maty' signifie 'La vérité ne meurt jamais'.",
+      "isTrue": true,
+      "explanation": "Ce proverbe malgache affirme la **persistance de la vérité**, qui finit toujours par se révéler ou être reconnue, malgré les tentatives de la cacher.",
+      "source": "Proverbes malgaches sur la justice et la vérité"
+    },
+    {
+      "questionId": "EXPERT_025",
+      "themeId": "LITT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le 'hainteny' est une forme poétique malgache qui s'apparente au haïku japonais par sa brièveté et sa structure stricte.",
+      "isTrue": false,
+      "explanation": "Bien que le **hainteny** soit une forme poétique malgache avec une structure propre, il est **plus long et plus élaboré que le haïku**, avec des jeux de mots et des allusions complexes, et ne se limite pas à la brièveté du haïku.",
+      "source": "Comparaison des formes poétiques mondiales, Analyse du hainteny"
+    },
+    {
+      "questionId": "EXPERT_026",
+      "themeId": "GEO",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "La formation géologique des 'sept cascades' près d'Ampefy est le résultat d'une activité volcanique éteinte.",
+      "isTrue": true,
+      "explanation": "La région d'Ampefy, y compris ses lacs et ses cascades comme les **sept cascades**, est bien d'origine **volcanique**, avec des volcans éteints et des paysages façonnés par ces anciennes activités géologiques.",
+      "source": "Géologie volcanique de Madagascar"
+    },
+    {
+      "questionId": "EXPERT_027",
+      "themeId": "CULT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le 'Ramy' est un instrument de musique à cordes pincées, considéré comme l'un des plus anciens de Madagascar, souvent utilisé dans les rituels de guérison.",
+      "isTrue": false,
+      "explanation": "Le **Ramy** (Canarium madagascariense) est un arbre, notamment utilisé pour son bois et ses résines aromatiques, mais pas un instrument de musique. L'instrument à cordes pincées le plus ancien et emblématique de Madagascar est la **valiha**.",
+      "source": "Instruments de musique malgaches, Botanique malgache"
+    },
+    {
+      "questionId": "EXPERT_028",
+      "themeId": "HIST",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le règne du roi Andrianampoinimerina (fin du 18e - début 19e siècle) est marqué par la consolidation de l'Imerina et une expansion territoriale majeure, jetant les bases du Royaume de Madagascar.",
+      "isTrue": true,
+      "explanation": "**Andrianampoinimerina** est une figure emblématique qui a unifié les royaumes Merina par la diplomatie et la guerre, posant les fondations d'un État puissant qui sera étendu par son fils Radama Ier à la quasi-totalité de l'île.",
+      "source": "Histoire des royaumes malgaches, Biographies royales"
+    },
+    {
+      "questionId": "EXPERT_029",
+      "themeId": "PROV",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le proverbe 'Ny havana akaiky, tsy mifandefa tsara raha tsy misy lavitra' signifie 'Les parents proches ne se portent pas bien s'il n'y a pas de lointains'.",
+      "isTrue": true,
+      "explanation": "Ce proverbe complexe suggère l'importance de l'**équilibre et de l'interdépendance** au sein des relations sociales. Les relations directes bénéficient de l'existence de liens plus distants qui peuvent apporter un soutien ou une perspective différente.",
+      "source": "Proverbes malgaches sur les relations sociales complexes"
+    },
+    {
+      "questionId": "EXPERT_030",
+      "themeId": "LITT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Édouard Ralaimongo est un intellectuel malgache du début du 20ème siècle, célèbre pour avoir écrit le premier roman de science-fiction malgache.",
+      "isTrue": false,
+      "explanation": "**Édouard Ralaimongo** (1895-1959) fut une figure majeure du nationalisme malgache et de la lutte anticoloniale, un journaliste et un militant politique. Il est connu pour son combat pour les droits des Malgaches, pas pour la science-fiction.",
+      "source": "Histoire du nationalisme malgache, Biographie d'Édouard Ralaimongo"
+    },
+    {
+      "questionId": "EASY_003",
+      "themeId": "GEN",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "La monnaie utilisée à Madagascar s'appelle l'Euro.",
+      "isTrue": false,
+      "explanation": "La monnaie officielle de Madagascar est l'**Ariary**.",
+      "source": "Banque Centrale de Madagascar"
+    },
+    {
+      "questionId": "EASY_009",
+      "themeId": "GEN",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Le français est l'une des langues officielles de Madagascar.",
+      "isTrue": true,
+      "explanation": "Oui, le **français** est, avec le malgache, l'une des langues officielles de Madagascar, héritage de la période coloniale.",
+      "source": "Constitution de Madagascar"
+    },
+    {
+      "questionId": "EASY_015",
+      "themeId": "GEN",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Le drapeau malgache a trois couleurs : vert, blanc et rouge.",
+      "isTrue": true,
+      "explanation": "Le drapeau de Madagascar est composé d'une bande verticale blanche et de deux bandes horizontales, rouge et verte.",
+      "source": "Symboles nationaux de Madagascar"
+    },
+    {
+      "questionId": "EASY_021",
+      "themeId": "GEN",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Le sport national de Madagascar est le rugby.",
+      "isTrue": false,
+      "explanation": "Bien que le rugby soit populaire, le **football** reste le sport le plus répandu et le plus suivi à Madagascar.",
+      "source": "Fédération Malagasy de Football"
+    },
+    {
+      "questionId": "EASY_027",
+      "themeId": "GEN",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Madagascar est un pays insulaire.",
+      "isTrue": true,
+      "explanation": "Madagascar est une **île**, et donc un pays insulaire, car elle est entourée par la mer.",
+      "source": "Géographie mondiale"
+    },
+    {
+      "questionId": "MEDIUM_003",
+      "themeId": "GEN",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Madagascar est le premier producteur mondial de vanille.",
+      "isTrue": true,
+      "explanation": "Madagascar est en effet le **plus grand producteur et exportateur mondial de vanille**, notamment la vanille Bourbon.",
+      "source": "FAO, Statistiques agricoles"
+    },
+    {
+      "questionId": "MEDIUM_007",
+      "themeId": "GEN",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Madagascar est réputée pour sa production de café de haute qualité.",
+      "isTrue": true,
+      "explanation": "Le **café** est une culture importante à Madagascar, qui produit notamment des cafés Arabica et Robusta reconnus pour leur qualité.",
+      "source": "Commerce équitable, Agriculture malgache"
+    },
+    {
+      "questionId": "MEDIUM_013",
+      "themeId": "GEN",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "L'économie de Madagascar repose principalement sur l'industrie automobile.",
+      "isTrue": false,
+      "explanation": "L'économie malgache repose principalement sur l'**agriculture, l'élevage, la pêche, l'exploitation minière (notamment de minéraux comme le nickel et l'ilménite) et le tourisme**, et non sur l'industrie automobile.",
+      "source": "Banque Mondiale, Économie de Madagascar"
+    },
+    {
+      "questionId": "MEDIUM_019",
+      "themeId": "GEN",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "La majorité de la population malgache vit en milieu urbain.",
+      "isTrue": false,
+      "explanation": "La **majorité de la population malgache vit encore en milieu rural**, et l'agriculture est le principal secteur d'activité.",
+      "source": "Banque Mondiale, Démographie de Madagascar"
+    },
+    {
+      "questionId": "MEDIUM_025",
+      "themeId": "GEN",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Madagascar est un pays membre de l'Union Africaine.",
+      "isTrue": true,
+      "explanation": "Madagascar est bien un **État membre de l'Union Africaine** depuis sa création en 2002.",
+      "source": "Union Africaine, États membres"
+    },
+    {
+      "questionId": "HARD_003",
+      "themeId": "GEN",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Madagascar est un pays à faible revenu selon la classification de la Banque Mondiale.",
+      "isTrue": true,
+      "explanation": "Oui, Madagascar est classé comme un **pays à faible revenu** par la Banque Mondiale, avec un PIB par habitant parmi les plus bas du monde.",
+      "source": "Banque Mondiale, Statistiques économiques"
+    },
+    {
+      "questionId": "HARD_007",
+      "themeId": "GEN",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Madagascar possède les plus grandes réserves mondiales de cobalt.",
+      "isTrue": false,
+      "explanation": "Bien que Madagascar soit un producteur de cobalt, les **plus grandes réserves mondiales de cobalt** se trouvent principalement en République Démocratique du Congo.",
+      "source": "US Geological Survey, Géologie minière mondiale"
+    },
+    {
+      "questionId": "HARD_013",
+      "themeId": "GEN",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le secteur touristique est le principal moteur de l'économie malgache, devant l'agriculture.",
+      "isTrue": false,
+      "explanation": "Bien que le tourisme soit important, l'**agriculture** reste de loin le principal moteur de l'économie malgache, employant la majorité de la population.",
+      "source": "Banque Mondiale, Économie de Madagascar"
+    },
+    {
+      "questionId": "HARD_019",
+      "themeId": "GEN",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le système éducatif malgache est entièrement gratuit du primaire au supérieur.",
+      "isTrue": false,
+      "explanation": "L'éducation primaire publique est en principe gratuite, mais des frais indirects existent. L'**enseignement supérieur public n'est pas entièrement gratuit**, et des frais d'inscription sont souvent demandés.",
+      "source": "Ministère de l'Éducation Nationale de Madagascar"
+    },
+    {
+      "questionId": "HARD_025",
+      "themeId": "GEN",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Madagascar est un pays avec une forte proportion de population très jeune (moins de 15 ans).",
+      "isTrue": true,
+      "explanation": "Madagascar a une **population très jeune**, avec plus de 40% de la population ayant moins de 15 ans, ce qui représente un défi et un potentiel démographique.",
+      "source": "UNICEF, Démographie de Madagascar"
+    },
+    {
+      "questionId": "EXPERT_003",
+      "themeId": "GEN",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Madagascar est membre de l'Organisation Internationale de la Francophonie (OIF) en tant que pays observateur seulement.",
+      "isTrue": false,
+      "explanation": "Madagascar est un **membre à part entière de l'OIF** et a même accueilli un sommet de la Francophonie en 2016.",
+      "source": "Organisation Internationale de la Francophonie, États et gouvernements"
+    },
+    {
+      "questionId": "EXPERT_007",
+      "themeId": "GEN",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Madagascar est un pays signataire du Protocole de Kyoto et a fortement réduit ses émissions de gaz à effet de serre.",
+      "isTrue": false,
+      "explanation": "Madagascar est bien signataire du Protocole de Kyoto et de l'Accord de Paris, mais en tant que pays en développement, ses émissions de gaz à effet de serre sont relativement faibles et le pays est avant tout **vulnérable aux effets du changement climatique**, plus qu'un acteur majeur dans la réduction des émissions à l'échelle mondiale.",
+      "source": "PNUD, Conventions Climat"
+    },
+    {
+      "questionId": "EXPERT_013",
+      "themeId": "GEN",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "L'industrie du tourisme à Madagascar est principalement axée sur le tourisme de masse et les grands complexes hôteliers.",
+      "isTrue": false,
+      "explanation": "Le tourisme à Madagascar est plutôt orienté vers le **tourisme écologique et d'aventure**, avec un accent sur la biodiversité unique et les parcs nationaux, bien qu'il existe quelques grands hôtels.",
+      "source": "Office National du Tourisme de Madagascar, Rapports du secteur"
+    },
+    {
+      "questionId": "EXPERT_019",
+      "themeId": "GEN",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Madagascar a été le premier pays africain à lancer un satellite de télécommunications en orbite.",
+      "isTrue": false,
+      "explanation": "Non, Madagascar n'a pas encore lancé de satellite de télécommunications en orbite. Plusieurs pays africains ont des satellites, mais ce n'est pas le cas de Madagascar à ce jour.",
+      "source": "Agences spatiales africaines, Actualités spatiales"
+    },
+    {
+      "questionId": "EXPERT_025",
+      "themeId": "GEN",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "La majorité de l'électricité à Madagascar est produite par des centrales nucléaires.",
+      "isTrue": false,
+      "explanation": "La majorité de l'électricité à Madagascar est produite à partir de sources **hydroélectriques et thermiques (groupes électrogènes diesel)**, le nucléaire n'étant pas utilisé.",
+      "source": "JIRAMA, Secteur énergétique de Madagascar"
+    }
+  ]
+}

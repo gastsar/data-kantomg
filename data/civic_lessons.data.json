@@ -1,0 +1,1398 @@
+[
+  {
+    "id": "civic-001",
+    "title": {
+      "mg": "Zon'ny olom-pirenena",
+      "fr": "Les droits du citoyen"
+    },
+    "summary": {
+      "mg": "Ny zo fototra tokony ananan’ny olom-pirenena rehetra eto Madagasikara.",
+      "fr": "Les droits fondamentaux de tout citoyen malgache."
+    },
+    "content": {
+      "mg": [
+        "Ny olom-pirenena tsirairay dia manan-jo amin'ny fiainana, fahafahana maneho hevitra, sy fahafahana miteny.",
+        "Manana zo hifidy sy hofidiana rehefa mahatratra ny taona tokony hanaovana izany.",
+        "Manana zo hahazo fitsaboana, fanabeazana, ary fahalalahana mitady asa."
+      ],
+      "fr": [
+        "Chaque citoyen a droit à la vie, à la liberté d'expression et à la liberté de parole.",
+        "Il a le droit de voter et d’être élu à partir de l'âge requis.",
+        "Il a le droit à la santé, à l'éducation, et à chercher un emploi."
+      ]
+    },
+    "theme": ["droit", "liberté"],
+    "sources": [
+      "Constitution de la République de Madagascar - Article 10 à 20"
+    ]
+  },
+  {
+    "id": "civic-002",
+    "title": {
+      "mg": "Adidin'ny olom-pirenena",
+      "fr": "Les devoirs du citoyen"
+    },
+    "summary": {
+      "mg": "Tsy ampy ny manana zo. Tokony ho fantatrao koa ny adidinao amin'ny firenena.",
+      "fr": "Avoir des droits implique aussi des devoirs envers la société."
+    },
+    "content": {
+      "mg": [
+        "Adidin'ny olom-pirenena ny manaja ny lalàna.",
+        "Tokony handoa hetra araka ny tokony ho izy.",
+        "Tsy maintsy manaja ny zon'ny hafa sy ny tontolo iainana isika."
+      ],
+      "fr": [
+        "Le citoyen a le devoir de respecter les lois.",
+        "Il doit payer ses impôts correctement.",
+        "Il est responsable du respect des autres et de l’environnement."
+      ]
+    },
+    "theme": ["devoir", "responsabilité"],
+    "sources": [
+      "Charte de bonne conduite citoyenne – Ministère de l’Intérieur"
+    ]
+  },
+  {
+    "id": "civic-003",
+    "title": {
+      "mg": "Fanjakana sy Andrim-panjakana",
+      "fr": "L’État et les institutions"
+    },
+    "summary": {
+      "mg": "Fantaro ny anjara asan’ny fitondrana sy ireo andrim-panjakana eto Madagasikara.",
+      "fr": "Découvre les rôles des différentes institutions malgaches."
+    },
+    "content": {
+      "mg": [
+        "Ny Filoha no lohany amin'ny Fanjakana.",
+        "Ny Antenimiera sy ny Fitsarana dia manampy amin'ny fitondrana ara-drariny.",
+        "Ny Kaominina dia manakaiky kokoa ny vahoaka."
+      ],
+      "fr": [
+        "Le Président est le chef de l’État.",
+        "Le Parlement et la Justice participent à un gouvernement équilibré.",
+        "La Commune est l’institution la plus proche des citoyens."
+      ]
+    },
+    "theme": ["institutions", "gouvernance"],
+    "sources": [
+      "Constitution malgache – Chapitres II et III"
+    ]
+  },
+  {
+    "id": "civic-004",
+    "title": {
+      "mg": "Sainan’i Madagasikara",
+      "fr": "Le drapeau de Madagascar"
+    },
+    "summary": {
+      "mg": "Ny loko sy heviny dia maneho ny maha izy antsika Malagasy.",
+      "fr": "Les couleurs du drapeau symbolisent l'identité malgache."
+    },
+    "content": {
+      "mg": [
+        "Fotsy: fahadiovana sy fahamarinana.",
+        "Mena: tolona sy herim-po.",
+        "Maitso: tany sy fanantenana."
+      ],
+      "fr": [
+        "Blanc : la pureté et la justice.",
+        "Rouge : la lutte et le courage.",
+        "Vert : la terre et l’espérance."
+      ]
+    },
+    "theme": ["symboles", "histoire", "identité"],
+    "sources": [
+      "Enseignement moral et civique – Programme CEPE"
+    ]
+  },
+  {
+    "id": "civic-005",
+    "title": {
+      "mg": "Ny fiarovana ny tontolo iainana",
+      "fr": "La protection de l’environnement"
+    },
+    "summary": {
+      "mg": "Ny fikajiana ny tontolo iainana dia adidin'ny olom-pirenena rehetra.",
+      "fr": "Protéger l’environnement est un devoir citoyen essentiel."
+    },
+    "content": {
+      "mg": [
+        "Tsy tokony handoto rano sy rivotra.",
+        "Tokony hanavaka fako isika: plastika, organika, sns.",
+        "Zava-dehibe ny fambolena hazo sy ny fikojakojana ny ala."
+      ],
+      "fr": [
+        "Il ne faut pas polluer l’eau ni l’air.",
+        "Nous devons trier nos déchets : plastique, organique, etc.",
+        "Planter des arbres et protéger les forêts est vital."
+      ]
+    },
+    "theme": ["écologie", "environnement", "devoir"],
+    "sources": [
+      "Code de l’environnement – Madagascar",
+      "Éducation pour le développement durable (EDD)"
+    ]
+  },
+  {
+    "id": "civic-006",
+    "title": {
+      "mg": "Fifidianana sy demokrasia",
+      "fr": "Élections et démocratie"
+    },
+    "summary": {
+      "mg": "Tsy misy demokrasia marina raha tsy misy fifidianana madio sy mangarahara.",
+      "fr": "Une démocratie repose sur des élections libres et transparentes."
+    },
+    "content": {
+      "mg": [
+        "Ny fifidianana no ahafahan'ny vahoaka misafidy mpitondra.",
+        "Ny olona rehetra manan-jo hifidy rehefa 18 taona.",
+        "Zava-dehibe ny fahalalahana maneho hevitra amin’ny demokrasia."
+      ],
+      "fr": [
+        "Les élections permettent au peuple de choisir ses dirigeants.",
+        "Toute personne âgée de 18 ans peut voter.",
+        "La liberté d'expression est essentielle en démocratie."
+      ]
+    },
+    "theme": ["droit", "démocratie", "participation citoyenne"],
+    "sources": [
+      "Commission électorale nationale indépendante (CENI)",
+      "Constitution – Articles 39 à 44"
+    ]
+  },
+  {
+    "id": "civic-007",
+    "title": {
+      "mg": "Fihavanana sy fifanampiana",
+      "fr": "Fihavanana et solidarité"
+    },
+    "summary": {
+      "mg": "Fihavanana no fototry ny fiarahamonina malagasy.",
+      "fr": "La Fihavanana est au cœur de la société malgache."
+    },
+    "content": {
+      "mg": [
+        "Fihavanana dia fiainana mirindra sy firaiketam-po.",
+        "Tokony hanampy ny olona sahirana isika.",
+        "Ny fanajana ray aman-dreny sy zokiolona dia zava-dehibe."
+      ],
+      "fr": [
+        "La Fihavanana signifie vivre en paix et en harmonie.",
+        "Nous devons aider les personnes en difficulté.",
+        "Respecter les aînés et les parents est fondamental."
+      ]
+    },
+    "theme": ["civisme", "culture", "solidarité"],
+    "sources": [
+      "Culture malgache – Ethique sociale",
+      "Fampianarana fototra CEPE"
+    ]
+  },
+  {
+    "id": "civic-008",
+    "title": {
+      "mg": "Zon’ny ankizy",
+      "fr": "Les droits de l’enfant"
+    },
+    "summary": {
+      "mg": "Ny ankizy dia manana zo manokana ho fiarovana sy fivoarana.",
+      "fr": "Les enfants ont des droits spécifiques pour être protégés et grandir."
+    },
+    "content": {
+      "mg": [
+        "Manan-jo hianatra sy hahazo sakafo sy fitsaboana ny ankizy rehetra.",
+        "Tsy tokony hiasa alohan'ny fahazaza feno.",
+        "Zon'ny ankizy ny milalao sy ny mitombo am-pilaminana."
+      ],
+      "fr": [
+        "Chaque enfant a droit à l’éducation, à la nourriture et aux soins.",
+        "Il est interdit de faire travailler un enfant en bas âge.",
+        "Les enfants ont aussi droit au jeu et à une croissance sereine."
+      ]
+    },
+    "theme": ["droit", "enfance", "protection"],
+    "sources": [
+      "Convention internationale relative aux droits de l’enfant (CIDE)",
+      "Loi n° 2007-023 sur la protection de l’enfant à Madagascar"
+    ]
+  },
+  {
+    "id": "civic-009",
+    "title": {
+      "mg": "Ny fankalazana 26 Jona",
+      "fr": "La fête du 26 juin"
+    },
+    "summary": {
+      "mg": "Andro manan-tantara ho an'ny fahaleovantenan'i Madagasikara.",
+      "fr": "Journée historique marquant l’indépendance de Madagascar."
+    },
+    "content": {
+      "mg": [
+        "Ny 26 Jona 1960 no andro nahazoan’i Madagasikara ny fahaleovantena.",
+        "Izy io dia manamarika ny fiafaran’ny fanjanahantany frantsay.",
+        "Amin’io andro io, misy fankalazana ara-kolontsaina sy miaramila."
+      ],
+      "fr": [
+        "Le 26 juin 1960 marque l’indépendance de Madagascar.",
+        "C’est la fin de la colonisation française.",
+        "La journée est célébrée avec des festivités culturelles et militaires."
+      ]
+    },
+    "theme": ["histoire", "fête nationale", "indépendance"],
+    "sources": [
+      "Archives nationales malgaches",
+      "Ministère de la Culture – Programme officiel du 26 juin"
+    ]
+  },
+  {
+    "id": "civic-010",
+    "title": {
+      "mg": "Ny fanajana ny fitsipiky ny lalana",
+      "fr": "Le respect du code de la route"
+    },
+    "summary": {
+      "mg": "Adidy hiaro tena sy ny hafa eo amin'ny lalana.",
+      "fr": "Un devoir pour assurer sa sécurité et celle des autres sur la route."
+    },
+    "content": {
+      "mg": [
+        "Manaja ny fe-potoana sy ny famantarana rehetra.",
+        "Manao fehikibo fiarovana foana sy manao afera-doha rehefa môtô.",
+        "Tsy mitondra fiara raha efa nisotro toaka."
+      ],
+      "fr": [
+        "Respecter les limitations de vitesse et tous les panneaux de signalisation.",
+        "Toujours porter sa ceinture de sécurité et son casque à moto.",
+        "Ne jamais conduire sous l'influence de l'alcool."
+      ]
+    },
+    "theme": ["devoir", "sécurité routière", "civisme"],
+    "sources": [
+      "Code de la Route – Madagascar",
+      "Sécurité Routière – Campagnes de sensibilisation"
+    ]
+  },
+  {
+    "id": "civic-011",
+    "title": {
+      "mg": "Ny fanabeazana sy ny asany",
+      "fr": "L'importance de l'éducation"
+    },
+    "summary": {
+      "mg": "Fanalahidin'ny fampandrosoana ny firenena sy ny tsirairay.",
+      "fr": "La clé du développement pour la nation et l'individu."
+    },
+    "content": {
+      "mg": [
+        "Manana zo sy adidy ny rehetra ny mianatra.",
+        "Ny fanabeazana dia manome fahaizana sy fahafahana hahita asa.",
+        "Mianara mandrakariva mba hampandroso ny firenena."
+      ],
+      "fr": [
+        "Chacun a le droit et le devoir d'apprendre.",
+        "L'éducation offre des compétences et des opportunités d'emploi.",
+        "Apprendre continuellement est essentiel pour le progrès du pays."
+      ]
+    },
+    "theme": ["droit", "éducation", "développement"],
+    "sources": [
+      "Ministère de l’Éducation Nationale – Madagascar",
+      "Objectifs de Développement Durable (ODD) – ODD 4: Éducation de qualité"
+    ]
+  },
+  {
+    "id": "civic-012",
+    "title": {
+      "mg": "Ny fitsarana sy ny fahamarinana",
+      "fr": "La justice et l'équité"
+    },
+    "summary": {
+      "mg": "Ny anjara asan'ny fitsarana amin'ny fiarovana ny zon'olombelona.",
+      "fr": "Le rôle de la justice dans la protection des droits humains."
+    },
+    "content": {
+      "mg": [
+        "Ny Fitsarana no miantoka ny fanajana ny lalàna sy ny zo.",
+        "Ny olona rehetra dia mitovy eo anatrehan'ny lalàna.",
+        "Zon'ny rehetra ny hahazo fitsarana tsy miangatra."
+      ],
+      "fr": [
+        "La Justice garantit le respect des lois et des droits.",
+        "Toute personne est égale devant la loi.",
+        "Chacun a droit à un procès équitable."
+      ]
+    },
+    "theme": ["institutions", "justice", "droit"],
+    "sources": [
+      "Constitution de la République de Madagascar – Articles 101 à 120",
+      "Code de Procédure Pénale – Madagascar"
+    ]
+  },
+  {
+    "id": "civic-013",
+    "title": {
+      "mg": "Ny hira fanevan'i Madagasikara",
+      "fr": "L'hymne national de Madagascar"
+    },
+    "summary": {
+      "mg": "Tantara sy dikany manentana ny fitiavan-tanindrazana.",
+      "fr": "Son histoire sy sa signification qui inspirent le patriotisme."
+    },
+    "content": {
+      "mg": [
+        "Ny 'Ry Tanindrazanay malala ô!' no hiram-pirenena.",
+        "Mirakitra ny tantaran'ny tolom-panafahana sy ny fanantenana.",
+        "Maneho ny firaisankina sy ny fahaleovantenan'i Madagasikara."
+      ],
+      "fr": [
+        "'Ry Tanindrazanay malala ô!' est l'hymne national.",
+        "Il retrace l'histoire de la lutte pour l'indépendance et l'espoir.",
+        "Il symbolise l'unité et la souveraineté de Madagascar."
+      ]
+    },
+    "theme": ["symboles", "histoire", "patriotisme"],
+    "sources": [
+      "Ministère de la Culture – Symboles nationaux",
+      "Histoire de Madagascar – Indépendance"
+    ]
+  },
+  {
+    "id": "civic-014",
+    "title": {
+      "mg": "Ny ady amin'ny kolikoly",
+      "fr": "La lutte contre la corruption"
+    },
+    "summary": {
+      "mg": "Fiarovana ny fahamarinana sy ny fampandrosoana eto Madagasikara.",
+      "fr": "Un combat pour l'intégrité et le développement de Madagascar."
+    },
+    "content": {
+      "mg": [
+        "Ny kolikoly dia manimba ny firenena sy ny fahatokisan'ny vahoaka.",
+        "Tokony handà sy hiady amin'ny kolikoly ny olom-pirenena rehetra.",
+        "Misy fitsarana manokana miady amin'ny kolikoly."
+      ],
+      "fr": [
+        "La corruption nuit au pays et à la confiance des citoyens.",
+        "Chaque citoyen doit refuser et combattre la corruption.",
+        "Des instances spécifiques luttent contre ce fléau."
+      ]
+    },
+    "theme": ["devoir", "éthique", "gouvernance"],
+    "sources": [
+      "Bureau Indépendant Anti-Corruption (BIANCO)",
+      "Loi anti-corruption – Madagascar"
+    ]
+  },
+  {
+    "id": "civic-015",
+    "title": {
+      "mg": "Ny andraikitry ny media",
+      "fr": "Le rôle des médias"
+    },
+    "summary": {
+      "mg": "Ny media dia manana andraikitra lehibe amin'ny fampielezam-baovao sy fanabeazana.",
+      "fr": "Les médias ont un rôle crucial dans l'information et l'éducation."
+    },
+    "content": {
+      "mg": [
+        "Miantoka ny fahalalahana maneho hevitra sy ny fampielezam-baovao.",
+        "Manampy ny olom-pirenena hahatakatra ny zava-miseho sy hanao safidy tsara.",
+        "Tokony ho tsy miangatra sy marina ny vaovao avoakan'ny media."
+      ],
+      "fr": [
+        "Ils garantissent la liberté d'expression et la diffusion de l'information.",
+        "Ils aident les citoyens à comprendre les événements et à prendre de bonnes décisions.",
+        "Les informations diffusées par les médias doivent être objectives et véridiques."
+      ]
+    },
+    "theme": ["droit", "information", "démocratie"],
+    "sources": [
+      "Loi sur la communication médiatisée – Madagascar",
+      "Principes éthiques du journalisme"
+    ]
+  },
+  {
+    "id": "civic-016",
+    "title": {
+      "mg": "Ny fananana fanjakana sy ny fikojakojana azy",
+      "fr": "La propriété publique et son entretien"
+    },
+    "summary": {
+      "mg": "Fiarovana ny fananana iombonana ho an'ny tombontsoan'ny rehetra.",
+      "fr": "Protéger les biens communs dans l'intérêt de tous."
+    },
+    "content": {
+      "mg": [
+        "Ny lalan-kely, ny sekoly, ny hopitaly, ary ny toeram-pialan-tsasatra dia fananana iombonana.",
+        "Adidin'ny olom-pirenena ny mikojakoja sy miaro azy ireo.",
+        "Tsy tokony hanimba na handoto ny fananana iombonana isika."
+      ],
+      "fr": [
+        "Les routes, les écoles, les hôpitaux et les parcs sont des biens publics.",
+        "Il est du devoir du citoyen de les entretenir et de les protéger.",
+        "Nous ne devons pas dégrader ni salir les biens communs."
+      ]
+    },
+    "theme": ["devoir", "civisme", "responsabilité"],
+    "sources": [
+      "Code des collectivités territoriales décentralisées – Madagascar",
+      "Règlements communaux sur l'entretien des espaces publics"
+    ]
+  },
+  {
+    "id": "civic-017",
+    "title": {
+      "mg": "Ny zon'ny vehivavy",
+      "fr": "Les droits de la femme"
+    },
+    "summary": {
+      "mg": "Ny fiarovana sy fampiroboroboana ny zon'ny vehivavy ho fitoviana.",
+      "fr": "La protection et la promotion des droits des femmes pour l'égalité."
+    },
+    "content": {
+      "mg": [
+        "Ny vehivavy dia manana zo mitovy amin'ny lehilahy eo amin'ny fiainana sy ny asa.",
+        "Tsy misy fanavakavahana amin'ny karazana na fanambadiana.",
+        "Zon'ny vehivavy ny handray anjara feno amin'ny fampandrosoana ny firenena."
+      ],
+      "fr": [
+        "Les femmes ont les mêmes droits que les hommes dans la vie et au travail.",
+        "Il ne doit y avoir aucune discrimination basée sur le genre ou le mariage.",
+        "Les femmes ont le droit de participer pleinement au développement du pays."
+      ]
+    },
+    "theme": ["droit", "égalité", "société"],
+    "sources": [
+      "Constitution de la République de Madagascar – Article 6",
+      "Convention sur l'élimination de toutes les formes de discrimination à l'égard des femmes (CEDAW)"
+    ]
+  },
+  {
+    "id": "civic-018",
+    "title": {
+      "mg": "Ny andraikitry ny tanora",
+      "fr": "Le rôle de la jeunesse"
+    },
+    "summary": {
+      "mg": "Ny tanora no ho avin'ny firenena sy mpisehatra amin'ny fampandrosoana.",
+      "fr": "La jeunesse est l'avenir du pays et un acteur du développement."
+    },
+    "content": {
+      "mg": [
+        "Tokony handray anjara amin'ny fiainam-pirenena sy ny fampandrosoana ny tanora.",
+        "Mila manana fahadiovana ara-moraly sy ara-tsaina.",
+        "Zava-dehibe ny mianatra sy mifampianatra ho amin'ny hoavy tsara kokoa."
+      ],
+      "fr": [
+        "La jeunesse doit participer à la vie nationale et au développement.",
+        "Elle doit faire preuve d'intégrité morale et intellectuelle.",
+        "Il est essentiel d'apprendre et de s'entraider pour un avenir meilleur."
+      ]
+    },
+    "theme": ["civisme", "jeunesse", "développement"],
+    "sources": [
+      "Politique Nationale de la Jeunesse – Madagascar",
+      "Programmes d'engagement civique pour les jeunes"
+    ]
+  },
+  {
+    "id": "civic-019",
+    "title": {
+      "mg": "Ny fanajana ny fahasamihafana",
+      "fr": "Le respect de la diversité"
+    },
+    "summary": {
+      "mg": "Ny fanekena sy fankalazana ny fahasamihafan'ny kolontsaina sy finoana.",
+      "fr": "Accepter et célébrer la diversité culturelle et des croyances."
+    },
+    "content": {
+      "mg": [
+        "Manaja ny kolontsaina, ny fiteny, ary ny fivavahan'ny tsirairay.",
+        "Tsy misy fanavakavahana noho ny fiaviana na ny fahasamihafana.",
+        "Ny fahasamihafana dia harena ho an'ny firenena."
+      ],
+      "fr": [
+        "Respecter la culture, la langue et la religion de chacun.",
+        "Il n'y a pas de discrimination basée sur l'origine ou la différence.",
+        "La diversité est une richesse pour la nation."
+      ]
+    },
+    "theme": ["civisme", "société", "tolérance"],
+    "sources": [
+      "Constitution de la République de Madagascar – Article 8",
+      "Déclaration universelle des droits de l'homme"
+    ]
+  },
+  {
+    "id": "civic-020",
+    "title": {
+      "mg": "Ny fanabeazana ara-bola",
+      "fr": "L'éducation financière"
+    },
+    "summary": {
+      "mg": "Fahaizana mitantana vola ho an'ny hoavy tsara kokoa.",
+      "fr": "Savoir gérer son argent pour un avenir meilleur."
+    },
+    "content": {
+      "mg": [
+        "Mianatra mitahiry sy mampiasa vola amim-pahendrena.",
+        "Mahatakatra ny tombontsoa amin'ny fampiasam-bola madinika.",
+        "Manampy amin'ny fampandrosoana ara-toekarena ny tsirairay sy ny firenena."
+      ],
+      "fr": [
+        "Apprendre à épargner et à dépenser son argent judicieusement.",
+        "Comprendre les avantages des micro-investissements.",
+        "Contribue au développement économique individuel et national."
+      ]
+    },
+    "theme": ["développement", "économie", "éducation"],
+    "sources": [
+      "Stratégie Nationale d'Inclusion Financière – Madagascar",
+      "Programmes d'éducation financière de la Banque Centrale"
+    ]
+  },
+  {
+    "id": "civic-021",
+    "title": {
+      "mg": "Ny fitsidihana ny hopitaly sy toeram-pitsaboana",
+      "fr": "La fréquentation des hôpitaux et centres de santé"
+    },
+    "summary": {
+      "mg": "Ny fananana fahadiovana sy fanajana ny fitsipika ao amin'ny toeram-pitsaboana.",
+      "fr": "L'importance de l'hygiène et du respect des règles dans les établissements de santé."
+    },
+    "content": {
+      "mg": [
+        "Manaraka tsara ny toromariky ny mpiasan'ny fahasalamana.",
+        "Mihazona ny fahadiovan'ny toerana sy tsy manary fako an-kasaka.",
+        "Manaja ny marary hafa sy ny filaminana ao amin'ny hopitaly."
+      ],
+      "fr": [
+        "Suivre attentivement les instructions du personnel de santé.",
+        "Maintenir la propreté des lieux et ne pas jeter de déchets n'importe où.",
+        "Respecter les autres patients et la tranquillité de l'hôpital."
+      ]
+    },
+    "theme": ["civisme", "santé", "hygiène"],
+    "sources": [
+      "Règlements intérieurs des hôpitaux de Madagascar",
+      "Campagnes de sensibilisation à la santé publique"
+    ]
+  },
+  {
+    "id": "civic-022",
+    "title": {
+      "mg": "Ny fanajana ny lalàna mifehy ny fifamoivoizana an-tanety",
+      "fr": "Le respect des lois sur la circulation terrestre"
+    },
+    "summary": {
+      "mg": "Mba hiantohana ny filaminana sy hisorohana ny loza eo an-dalana.",
+      "fr": "Assurer la sécurité et prévenir les accidents sur la route."
+    },
+    "content": {
+      "mg": [
+        "Manaraka ny fetran-tsofa sy ny famantarana rehetra.",
+        "Mampiasa jiro famantarana rehefa misy fiovana lalana.",
+        "Tsy mandeha amin'ny fanozona rehefa mitaingina fiara."
+      ],
+      "fr": [
+        "Respecter les limites de vitesse et tous les panneaux de signalisation.",
+        "Utiliser les clignotants en cas de changement de direction.",
+        "Ne pas conduire en état d'ébriété."
+      ]
+    },
+    "theme": ["devoir", "sécurité routière", "civisme"],
+    "sources": [
+      "Code de la Route – Madagascar",
+      "Ordonnances sur la sécurité routière"
+    ]
+  },
+  {
+    "id": "civic-023",
+    "title": {
+      "mg": "Ny fandraisana anjara amin'ny fampandrosoana ny tanàna",
+      "fr": "La participation au développement local"
+    },
+    "summary": {
+      "mg": "Miroso amin'ny tetikasa mahasoa ny fiarahamonina.",
+      "fr": "S'engager dans des projets bénéfiques pour la communauté."
+    },
+    "content": {
+      "mg": [
+        "Mandray anjara amin'ny asa fanorenana na fanamboarana eo an-tanana.",
+        "Manome hevitra sy soso-kevitra ho an'ny fampandrosoana ny kaominina.",
+        "Manao asa soa sy manampy ny olona sahirana eo an-toerana."
+      ],
+      "fr": [
+        "Participer aux travaux de construction ou d'aménagement locaux.",
+        "Apporter des idées et suggestions pour le développement de la commune.",
+        "Faire du bénévolat et aider les personnes dans le besoin localement."
+      ]
+    },
+    "theme": ["civisme", "développement", "participation citoyenne", "communauté"],
+    "sources": [
+      "Loi sur les collectivités territoriales décentralisées",
+      "Exemples de projets de développement communautaire à Madagascar"
+    ]
+  },
+  {
+    "id": "civic-024",
+    "title": {
+      "mg": "Ny fiarovana ny lova ara-kolontsaina",
+      "fr": "La protection du patrimoine culturel"
+    },
+    "summary": {
+      "mg": "Ny fikajiana ny tantara sy ny kolontsaina ho an'ny taranaka farany.",
+      "fr": "Préserver l'histoire et la culture pour les générations futures."
+    },
+    "content": {
+      "mg": [
+        "Manaja ny toerana masina, ny tsangambato ary ny vakoka ara-tantara.",
+        "Mianatra sy mampita ny fomba amam-panao ary ny lovantsofina.",
+        "Tsy manimba na mandoto ny trano na zavatra misy tantara."
+      ],
+      "fr": [
+        "Respecter les lieux sacrés, les monuments et les vestiges historiques.",
+        "Apprendre et transmettre les coutumes et les traditions.",
+        "Ne pas dégrader ni souiller les bâtiments ou objets historiques."
+      ]
+    },
+    "theme": ["culture", "histoire", "patrimoine", "devoir"],
+    "sources": [
+      "Code du Patrimoine Culturel – Madagascar",
+      "Organisations de protection du patrimoine (UNESCO Madagascar)"
+    ]
+  },
+  {
+    "id": "civic-025",
+    "title": {
+      "mg": "Ny ady amin'ny fandrobana sy halatra",
+      "fr": "La lutte contre le pillage et le vol"
+    },
+    "summary": {
+      "mg": "Ny fiarovana ny fananana sy ny filaminana eo amin'ny fiarahamonina.",
+      "fr": "Protéger les biens et assurer la sécurité dans la société."
+    },
+    "content": {
+      "mg": [
+        "Manao tatitra avy hatrany amin'ny mpitandro filaminana rehefa misy halatra.",
+        "Tsy mividy entana halatra na manohana ny mpangalatra.",
+        "Mandrosoa ny fiarovana iombonana eo amin'ny fokontany."
+      ],
+      "fr": [
+        "Signaler immédiatement tout vol aux forces de l'ordre.",
+        "Ne pas acheter de biens volés ni soutenir les voleurs.",
+        "Contribuer à la sécurité collective dans le quartier."
+      ]
+    },
+    "theme": ["devoir", "sécurité", "justice", "civisme"],
+    "sources": [
+      "Code Pénal – Madagascar",
+      "Actions de la Police Nationale et de la Gendarmerie"
+    ]
+  },
+  {
+    "id": "civic-026",
+    "title": {
+      "mg": "Ny andraikitry ny mpianatra",
+      "fr": "Le rôle de l'élève"
+    },
+    "summary": {
+      "mg": "Ny fandraisana andraikitra eo am-pianarana sy ny fiaraha-miasa.",
+      "fr": "L'engagement et la collaboration à l'école."
+    },
+    "content": {
+      "mg": [
+        "Manatrika tsara ny kilasy sy manao ny enti-mody.",
+        "Manaja ny mpampianatra sy ny mpiara-mianatra.",
+        "Mihazona ny fahadiovan'ny sekoly sy ny fananany."
+      ],
+      "fr": [
+        "Assister aux cours et faire ses devoirs assidûment.",
+        "Respecter les enseignants et les camarades de classe.",
+        "Maintenir la propreté de l'école et de ses équipements."
+      ]
+    },
+    "theme": ["éducation", "devoir", "civisme"],
+    "sources": [
+      "Règlement intérieur des établissements scolaires",
+      "Programmes d'éducation civique scolaire"
+    ]
+  },
+  {
+    "id": "civic-027",
+    "title": {
+      "mg": "Ny fanajana ny fitsipiky ny tsenan'ny asa",
+      "fr": "Le respect des règles du marché du travail"
+    },
+    "summary": {
+      "mg": "Fandraisana andraikitra sy fanajana ny lalàna eo amin'ny tontolon'ny asa.",
+      "fr": "Responsabilité et respect des lois dans le monde du travail."
+    },
+    "content": {
+      "mg": [
+        "Manaja ny fifanarahana asa sy ny ora fiasana.",
+        "Mandoa hetra sy latsakemboka araka ny lalàna.",
+        "Manaja ny zon'ny mpiasa hafa sy ny mpampiasa."
+      ],
+      "fr": [
+        "Respecter le contrat de travail et les heures de travail.",
+        "Payer ses impôts et cotisations conformément à la loi.",
+        "Respecter les droits des autres employés et de l'employeur."
+      ]
+    },
+    "theme": ["devoir", "droit", "travail", "économie"],
+    "sources": [
+      "Code du Travail – Madagascar",
+      "Législation fiscale malgache"
+    ]
+  },
+  {
+    "id": "civic-028",
+    "title": {
+      "mg": "Ny fiarovana ny biby sy ny zavamaniry",
+      "fr": "La protection de la faune et de la flore"
+    },
+    "summary": {
+      "mg": "Adidy miaro ny tontolo iainana sy ny zavamananaina.",
+      "fr": "Devoir de protéger l'environnement et la biodiversité."
+    },
+    "content": {
+      "mg": [
+        "Tsy mihaza biby arovana na manapaka hazo tsy nahazoana alalana.",
+        "Manaja ny faritra arovana sy ny fitsipika mifehy azy.",
+        "Mandray anjara amin'ny asa fambolena hazo sy fiarovana ny tontolo iainana."
+      ],
+      "fr": [
+        "Ne pas chasser d'animaux protégés ni couper d'arbres sans autorisation.",
+        "Respecter les aires protégées et leurs règlements.",
+        "Participer aux efforts de reboisement et de conservation."
+      ]
+    },
+    "theme": ["écologie", "environnement", "biodiversité", "devoir"],
+    "sources": [
+      "Code de l'Environnement – Madagascar",
+      "Conventions internationales sur la biodiversité (CITES)"
+    ]
+  },
+  {
+    "id": "civic-029",
+    "title": {
+      "mg": "Ny fanajana ny tsena sy ny mpivarotra",
+      "fr": "Le respect des marchés et des commerçants"
+    },
+    "summary": {
+      "mg": "Fitondran-tena mendrika amin'ny fifanakalozana ara-barotra.",
+      "fr": "Un comportement approprié dans les échanges commerciaux."
+    },
+    "content": {
+      "mg": [
+        "Tsy mifampiraharaha amin'ny fomba tsy marina na mandray anjara amin'ny hosoka.",
+        "Manaja ny vidin-tsena sy ny fitsipika mifehy ny varotra.",
+        "Mandoa ara-dalàna ny entana novidiana."
+      ],
+      "fr": [
+        "Ne pas s'engager dans des pratiques commerciales déloyales ou la fraude.",
+        "Respecter les prix du marché et les règles du commerce.",
+        "Payer correctement les biens achetés."
+      ]
+    },
+    "theme": ["civisme", "économie", "éthique"],
+    "sources": [
+      "Loi sur le commerce – Madagascar",
+      "Règlements des marchés publics"
+    ]
+  },
+  {
+    "id": "civic-030",
+    "title": {
+      "mg": "Ny fanentanana amin'ny fahadiovana ankapobeny",
+      "fr": "La sensibilisation à la propreté générale"
+    },
+    "summary": {
+      "mg": "Fandraisana andraikitra ho an'ny tontolo iainana madio sy salama.",
+      "fr": "S'engager pour un environnement propre et sain."
+    },
+    "content": {
+      "mg": [
+        "Tsy manary fako an-kasaka na eny an-dalana.",
+        "Manadio ny manodidina ny trano sy ny fokontany.",
+        "Mandray anjara amin'ny asa fanadiovana iombonana."
+      ],
+      "fr": [
+        "Ne pas jeter de déchets n'importe où ni dans la rue.",
+        "Nettoyer les alentours de sa maison et de son quartier.",
+        "Participer aux opérations de nettoyage communautaires."
+      ]
+    },
+    "theme": ["civisme", "environnement", "hygiène", "santé"],
+    "sources": [
+      "Campagnes de propreté des municipalités",
+      "Ordonnances sur la gestion des déchets"
+    ]
+  },
+  {
+    "id": "civic-031",
+    "title": {
+      "mg": "Ny fandraisana anjara amin'ny fanaovana kajikajy",
+      "fr": "La participation aux recensements"
+    },
+    "summary": {
+      "mg": "Ny maha-zava-dehibe ny fanomezana vaovao marina ho an'ny fanisam-bahoaka.",
+      "fr": "L'importance de fournir des informations exactes pour les recensements."
+    },
+    "content": {
+      "mg": [
+        "Mamaly marina ny fanontaniana rehetra mandritra ny fanisam-bahoaka.",
+        "Manampy amin'ny fanangonana angon-drakitra ilaina ho an'ny fampandrosoana.",
+        "Ny fanisam-bahoaka dia manampy ny fanjakana hanomana tsara ny tetikasa."
+      ],
+      "fr": [
+        "Répondre honnêtement à toutes les questions lors du recensement.",
+        "Contribuer à la collecte de données nécessaires au développement.",
+        "Les recensements aident le gouvernement à mieux planifier les projets."
+      ]
+    },
+    "theme": ["devoir", "gouvernance", "statistiques", "participation citoyenne"],
+    "sources": [
+      "Institut National de la Statistique (INSTAT) – Madagascar",
+      "Loi sur le recensement de la population"
+    ]
+  },
+  {
+    "id": "civic-032",
+    "title": {
+      "mg": "Ny fanajana ny fitsipiky ny fahasalamam-bahoaka",
+      "fr": "Le respect des règles de santé publique"
+    },
+    "summary": {
+      "mg": "Mba hiaro ny fahasalamana sy hisorohana ny aretina.",
+      "fr": "Protéger la santé et prévenir les maladies."
+    },
+    "content": {
+      "mg": [
+        "Manaraka ny toromariky ny manam-pahaizana manokana momba ny fahasalamana.",
+        "Manao vaksiny rehefa misy fanentanana.",
+        "Tsy miparitaka vaovao diso momba ny aretina."
+      ],
+      "fr": [
+        "Suivre les directives des professionnels de la santé.",
+        "Se faire vacciner lors des campagnes de vaccination.",
+        "Ne pas propager de fausses informations sur les maladies."
+      ]
+    },
+    "theme": ["santé", "devoir", "civisme"],
+    "sources": [
+      "Ministère de la Santé Publique – Madagascar",
+      "Règlements sanitaires internationaux"
+    ]
+  },
+  {
+    "id": "civic-033",
+    "title": {
+      "mg": "Ny andraikitry ny ray aman-dreny",
+      "fr": "Le rôle des parents"
+    },
+    "summary": {
+      "mg": "Ny fitaizana sy fanabeazana ny zanaka ho olom-pirenena tsara.",
+      "fr": "Éduquer et élever les enfants pour en faire de bons citoyens."
+    },
+    "content": {
+      "mg": [
+        "Manome fanabeazana sy fitiavana ho an'ny zanaka.",
+        "Manampy ny zanaka hahatakatra ny zo sy ny adidiny.",
+        "Mampianatra ny zanaka hanaja ny hafa sy ny lalàna."
+      ],
+      "fr": [
+        "Offrir éducation et amour à leurs enfants.",
+        "Aider les enfants à comprendre leurs droits et devoirs.",
+        "Enseigner aux enfants le respect des autres et des lois."
+      ]
+    },
+    "theme": ["famille", "éducation", "devoir", "société"],
+    "sources": [
+      "Code de l'Enfant – Madagascar",
+      "Principes de la parentalité positive"
+    ]
+  },
+  {
+    "id": "civic-034",
+    "title": {
+      "mg": "Ny fiarovana ny tanindrazana",
+      "fr": "La défense de la patrie"
+    },
+    "summary": {
+      "mg": "Ny andraikitry ny olom-pirenena amin'ny fiarovana ny firenena.",
+      "fr": "Le devoir du citoyen de défendre le pays."
+    },
+    "content": {
+      "mg": [
+        "Manao ny fanompoam-pirenena rehefa miantso ny firenena.",
+        "Mpiaro ny sisin-tanin'ny firenena sy ny fahaleovantenany.",
+        "Manao tatitra avy hatrany ny zavatra hafahafa mety hanimba ny fiarovam-pirenena."
+      ],
+      "fr": [
+        "Accomplir le service national lorsque le pays l'appelle.",
+        "Protéger les frontières et l'indépendance de la nation.",
+        "Signaler immédiatement toute activité suspecte menaçant la sécurité nationale."
+      ]
+    },
+    "theme": ["devoir", "patriotisme", "sécurité", "défense"],
+    "sources": [
+      "Loi sur le service national – Madagascar",
+      "Constitution de la République de Madagascar – Article 3"
+    ]
+  },
+  {
+    "id": "civic-035",
+    "title": {
+      "mg": "Ny andraikitra amin'ny loza voajanahary",
+      "fr": "La responsabilité face aux catastrophes naturelles"
+    },
+    "summary": {
+      "mg": "Miomana sy miara-miasa rehefa misy loza.",
+      "fr": "Se préparer et coopérer en cas de catastrophe."
+    },
+    "content": {
+      "mg": [
+        "Manaraka ny toromariky ny fanjakana sy ny mpamonjy voina.",
+        "Manampy ny olona sahirana sy voina.",
+        "Mandrafitra drafitra fiomanana ao an-tokantrano."
+      ],
+      "fr": [
+        "Suivre les directives du gouvernement et des secouristes.",
+        "Aider les personnes en difficulté et les sinistrés.",
+        "Établir un plan de préparation familial."
+      ]
+    },
+    "theme": ["civisme", "sécurité", "solidarité", "environnement"],
+    "sources": [
+      "Bureau National de Gestion des Risques et des Catastrophes (BNGRC)",
+      "Programmes de sensibilisation aux risques naturels"
+    ]
+  },
+  {
+    "id": "civic-036",
+    "title": {
+      "mg": "Ny fanajana ny fitsipiky ny asa aman-draharaha",
+      "fr": "Le respect des règlements professionnels"
+    },
+    "summary": {
+      "mg": "Ny fanarahan-dalàna sy ny etika eo amin'ny sehatry ny asa.",
+      "fr": "La conformité et l'éthique dans le cadre professionnel."
+    },
+    "content": {
+      "mg": [
+        "Manaraka ny fitsipika anatiny eo amin'ny toeram-piasana.",
+        "Manao ny asa amim-pahamarinana sy amim-pahazotoana.",
+        "Manaja ny tsiambaratelon'ny orinasa."
+      ],
+      "fr": [
+        "Respecter les règlements internes du lieu de travail.",
+        "Effectuer son travail avec intégrité et diligence.",
+        "Respecter la confidentialité de l'entreprise."
+      ]
+    },
+    "theme": ["devoir", "éthique", "travail"],
+    "sources": [
+      "Règlements intérieurs des entreprises",
+      "Codes de déontologie professionnels"
+    ]
+  },
+  {
+    "id": "civic-037",
+    "title": {
+      "mg": "Ny fampiasana ny teknolojia amin'ny fomba tompon'andraikitra",
+      "fr": "L'utilisation responsable de la technologie"
+    },
+    "summary": {
+      "mg": "Ny fanabeazana momba ny fampiasana ara-dalàna sy ara-moraly ny teknolojia.",
+      "fr": "L'éducation à l'utilisation légale et éthique de la technologie."
+    },
+    "content": {
+      "mg": [
+        "Tsy mampiely vaovao sandoka na manely lainga amin'ny internet.",
+        "Miaro ny angon-drakitra manokana sy ny an'ny hafa.",
+        "Mampiasa teknolojia ho an'ny tombontsoa fa tsy fanimbana."
+      ],
+      "fr": [
+        "Ne pas diffuser de fausses informations ou de mensonges sur internet.",
+        "Protéger ses données personnelles et celles des autres.",
+        "Utiliser la technologie pour le bien et non pour nuire."
+      ]
+    },
+    "theme": ["civisme", "technologie", "éthique", "sécurité"],
+    "sources": [
+      "Loi sur la cybercriminalité – Madagascar",
+      "Campagnes de sensibilisation à la citoyenneté numérique"
+    ]
+  },
+  {
+    "id": "civic-038",
+    "title": {
+      "mg": "Ny fanajana ny fitsipiky ny fitantanam-bola ampahibemaso",
+      "fr": "Le respect des règles de la gestion des finances publiques"
+    },
+    "summary": {
+      "mg": "Ny mangarahara sy ny fandraisana andraikitra amin'ny fampiasana ny volam-panjakana.",
+      "fr": "La transparence et la responsabilité dans l'utilisation des fonds publics."
+    },
+    "content": {
+      "mg": [
+        "Manara-maso ny fampiasana ny volam-panjakana sy ny tetibolam-panjakana.",
+        "Manao tatitra avy hatrany rehefa misy fanararaotana volam-panjakana.",
+        "Manohana ny ezaka ataon'ny fanjakana amin'ny ady amin'ny fandaniam-poana."
+      ],
+      "fr": [
+        "Surveiller l'utilisation des fonds publics et le budget de l'État.",
+        "Signaler immédiatement tout abus de fonds publics.",
+        "Soutenir les efforts du gouvernement dans la lutte contre le gaspillage."
+      ]
+    },
+    "theme": ["gouvernance", "économie", "éthique", "transparence"],
+    "sources": [
+      "Code des Finances Publiques – Madagascar",
+      "Cours de contrôle des finances publiques"
+    ]
+  },
+  {
+    "id": "civic-039",
+    "title": {
+      "mg": "Ny andraikitra amin'ny fananan-tany",
+      "fr": "La responsabilité foncière"
+    },
+    "summary": {
+      "mg": "Ny fanajana ny lalàna momba ny tany sy ny fananana.",
+      "fr": "Le respect des lois sur la terre et la propriété."
+    },
+    "content": {
+      "mg": [
+        "Manaja ny zon'ny tompon-tany sy ny fitsipika momba ny fananan-tany.",
+        "Tsy mandrava na manao asa tsy ara-dalàna eo amin'ny tany tsy tompony.",
+        "Mandoa ny hetra momba ny tany araka ny tokony ho izy."
+      ],
+      "fr": [
+        "Respecter les droits des propriétaires fonciers et les règlements fonciers.",
+        "Ne pas détruire ou effectuer d'activités illégales sur des terres non possédées.",
+        "Payer correctement les impôts fonciers."
+      ]
+    },
+    "theme": ["droit", "économie", "responsabilité"],
+    "sources": [
+      "Loi sur le foncier – Madagascar",
+      "Code général des impôts"
+    ]
+  },
+  {
+    "id": "civic-040",
+    "title": {
+      "mg": "Ny fiarovana ny zo amin'ny fanabeazana ho an'ny rehetra",
+      "fr": "La protection du droit à l'éducation pour tous"
+    },
+    "summary": {
+      "mg": "Miantoka ny fahazoan'ny tsirairay miditra amin'ny fanabeazana sy kalitao.",
+      "fr": "Assurer l'accès de tous à une éducation de qualité."
+    },
+    "content": {
+      "mg": [
+        "Manohana ny fanabeazana ho an'ny ankizy rehetra, na lahy na vavy.",
+        "Mandray anjara amin'ny fanatsarana ny kalitaon'ny fanabeazana.",
+        "Tsy misy ankizy tokony havela ho tsy mahay mamaky teny na manoratra."
+      ],
+      "fr": [
+        "Soutenir l'éducation pour tous les enfants, garçons et filles.",
+        "Contribuer à l'amélioration de la qualité de l'éducation.",
+        "Aucun enfant ne devrait être laissé pour compte en matière d'alphabétisation."
+      ]
+    },
+    "theme": ["droit", "éducation", "égalité", "développement"],
+    "sources": [
+      "Loi d'orientation de l'éducation nationale – Madagascar",
+      "Objectifs de Développement Durable (ODD) – ODD 4"
+    ]
+  },
+  {
+    "id": "civic-041",
+    "title": {
+      "mg": "Ny fitandroana ny fihavanana amin'ny mpifanolobodirindrina",
+      "fr": "Le maintien de bonnes relations de voisinage"
+    },
+    "summary": {
+      "mg": "Mba hiantohana ny fiainana mirindra sy ny fifanampiana eo amin'ny fiarahamonina.",
+      "fr": "Assurer une vie harmonieuse et l'entraide dans la communauté."
+    },
+    "content": {
+      "mg": [
+        "Manaja ny filaminana sy ny fialan-tsasatr'ireo mpifanolobodirindrina.",
+        "Mifampiresaka sy mifampihavana amin'ny mpifanolobodirindrina.",
+        "Manampy ny mpifanolobodirindrina amin'ny zavatra ilainy."
+      ],
+      "fr": [
+        "Respecter le calme et le repos des voisins.",
+        "Communiquer et entretenir de bonnes relations avec les voisins.",
+        "Aider les voisins en cas de besoin."
+      ]
+    },
+    "theme": ["civisme", "société", "solidarité"],
+    "sources": [
+      "Traditions malgaches sur le Fihavanana",
+      "Règlements de copropriété ou de voisinage"
+    ]
+  },
+  {
+    "id": "civic-042",
+    "title": {
+      "mg": "Ny andraikitra amin'ny fampielezam-peo sy ny vaovao",
+      "fr": "La responsabilité dans la diffusion de l'information"
+    },
+    "summary": {
+      "mg": "Ny fanamarinana ny vaovao alohan'ny hampiely azy.",
+      "fr": "Vérifier l'information avant de la diffuser."
+    },
+    "content": {
+      "mg": [
+        "Tsy mampiely vaovao tsy marina na mampidi-doza.",
+        "Mampiasa loharanom-baovao azo itokisana.",
+        "Mandrosoa ny fampielezana vaovao marina sy misy tombontsoa."
+      ],
+      "fr": [
+        "Ne pas diffuser de fausses informations ou des contenus dangereux.",
+        "Utiliser des sources d'information fiables.",
+        "Encourager la diffusion d'informations véridiques et utiles."
+      ]
+    },
+    "theme": ["information", "civisme", "éthique"],
+    "sources": [
+      "Loi sur la presse et la communication – Madagascar",
+      "Principes de vérification des faits (fact-checking)"
+    ]
+  },
+  {
+    "id": "civic-043",
+    "title": {
+      "mg": "Ny fiarovana ny zo amin'ny fitsaboana",
+      "fr": "La protection du droit à la santé"
+    },
+    "summary": {
+      "mg": "Ny fidirana amin'ny fitsaboana sy ny fahasalamana ho an'ny rehetra.",
+      "fr": "L'accès aux soins et à la santé pour tous."
+    },
+    "content": {
+      "mg": [
+        "Manana zo hahazo fitsaboana tsara kalitao ny olona rehetra.",
+        "Tokony handray anjara amin'ny fampandrosoana ny rafitra ara-pahasalamana.",
+        "Tsy misy fanavakavahana amin'ny fidirana amin'ny fitsaboana."
+      ],
+      "fr": [
+        "Toute personne a droit à des soins de santé de qualité.",
+        "Chacun devrait contribuer à l'amélioration du système de santé.",
+        "Il ne doit y avoir aucune discrimination dans l'accès aux soins."
+      ]
+    },
+    "theme": ["droit", "santé", "égalité"],
+    "sources": [
+      "Loi sur la santé – Madagascar",
+      "Constitution de la République de Madagascar – Article 16"
+    ]
+  },
+  {
+    "id": "civic-044",
+    "title": {
+      "mg": "Ny andraikitra amin'ny fiarovana ny tontolo iombonana",
+      "fr": "La responsabilité de la protection de l'environnement commun"
+    },
+    "summary": {
+      "mg": "Ny fikajiana ny rivotra, ny rano ary ny tany ho an'ny taranaka ho avy.",
+      "fr": "Préserver l'air, l'eau et le sol pour les générations futures."
+    },
+    "content": {
+      "mg": [
+        "Tsy mandoto ny rano na ny rivotra amin'ny loto isan-karazany.",
+        "Mampiasa loharanon-karena azo havaozina sy mitsitsy angovo.",
+        "Manohana ny tetikasa fiarovana ny tontolo iainana."
+      ],
+      "fr": [
+        "Ne pas polluer l'eau ou l'air avec divers déchets.",
+        "Utiliser des ressources renouvelables et économiser l'énergie.",
+        "Soutenir les projets de protection de l'environnement."
+      ]
+    },
+    "theme": ["écologie", "environnement", "devoir", "développement durable"],
+    "sources": [
+      "Code de l'Environnement – Madagascar",
+      "Accords de Paris sur le climat"
+    ]
+  },
+  {
+    "id": "civic-045",
+    "title": {
+      "mg": "Ny fanajana ny fitsipiky ny filaminam-bahoaka",
+      "fr": "Le respect des règles de l'ordre public"
+    },
+    "summary": {
+      "mg": "Ny fanarahana ny lalàna sy ny filaminana mba hiaina am-pilaminana.",
+      "fr": "Se conformer aux lois et maintenir l'ordre pour vivre en paix."
+    },
+    "content": {
+      "mg": [
+        "Tsy manao tabataba na manelingelina ny filaminam-bahoaka.",
+        "Manaraka ny toromariky ny mpitandro filaminana.",
+        "Mandrosoa ny fiaraha-miasa amin'ny mpitandro filaminana ho an'ny fiarovana iombonana."
+      ],
+      "fr": [
+        "Ne pas faire de bruit excessif ou perturber l'ordre public.",
+        "Suivre les instructions des forces de l'ordre.",
+        "Encourager la collaboration avec les forces de l'ordre pour la sécurité collective."
+      ]
+    },
+    "theme": ["civisme", "sécurité", "devoir", "justice"],
+    "sources": [
+      "Code Pénal – Madagascar",
+      "Règlements de la Police Nationale"
+    ]
+  },
+  {
+    "id": "civic-046",
+    "title": {
+      "mg": "Ny andraikitra amin'ny fampandrosoana ny fambolena",
+      "fr": "La responsabilité dans le développement agricole"
+    },
+    "summary": {
+      "mg": "Ny fandraisana anjara amin'ny fiantohana ny fahavokaran'ny sakafo.",
+      "fr": "Participer à la garantie de la sécurité alimentaire."
+    },
+    "content": {
+      "mg": [
+        "Mampiasa fomba fambolena maharitra sy miaro ny tany.",
+        "Manohana ny tantsaha sy ny vokatra eo an-toerana.",
+        "Mandrosoa ny fampivoarana ny fambolena ho an'ny firenena."
+      ],
+      "fr": [
+        "Utiliser des pratiques agricoles durables et protéger les sols.",
+        "Soutenir les agriculteurs et les produits locaux.",
+        "Promouvoir le développement agricole pour le pays."
+      ]
+    },
+    "theme": ["développement", "économie", "agriculture", "environnement"],
+    "sources": [
+      "Politique Nationale de l'Agriculture – Madagascar",
+      "Programmes de sécurité alimentaire"
+    ]
+  },
+  {
+    "id": "civic-047",
+    "title": {
+      "mg": "Ny fanajana ny fitsipiky ny fahadiovana ara-tsakafo",
+      "fr": "Le respect des règles d'hygiène alimentaire"
+    },
+    "summary": {
+      "mg": "Mba hiaro ny fahasalamana sy hisorohana ny aretina ateraky ny sakafo.",
+      "fr": "Protéger la santé et prévenir les maladies d'origine alimentaire."
+    },
+    "content": {
+      "mg": [
+        "Manasa tanana alohan'ny hikarakarana sakafo sy hihinana.",
+        "Mahandro sakafo araka ny tokony ho izy sy mitahiry azy amin'ny fomba madio.",
+        "Tsy mihinana sakafo lany daty na simba."
+      ],
+      "fr": [
+        "Se laver les mains avant de préparer et de manger.",
+        "Cuisiner les aliments correctement et les conserver de manière hygiénique.",
+        "Ne pas consommer d'aliments périmés ou avariés."
+      ]
+    },
+    "theme": ["hygiène", "santé", "devoir", "civisme"],
+    "sources": [
+      "Ministère de la Santé Publique – Normes d'hygiène alimentaire",
+      "Bonnes pratiques de fabrication (BPF)"
+    ]
+  },
+  {
+    "id": "civic-048",
+    "title": {
+      "mg": "Ny andraikitra amin'ny fanabeazana an-tokantrano",
+      "fr": "La responsabilité de l'éducation à domicile"
+    },
+    "summary": {
+      "mg": "Ny fanohanana ny fanabeazana omen'ny ray aman-dreny ao an-trano.",
+      "fr": "Soutenir l'éducation dispensée par les parents à la maison."
+    },
+    "content": {
+      "mg": [
+        "Manome fotoana sy fitaovana ho an'ny zanaka hianarana ao an-trano.",
+        "Mamporisika ny zanaka hamaky boky sy hanao fikarohana.",
+        "Mifampiresaka amin'ny mpampianatra sy mandray anjara amin'ny fivelaran'ny zanaka."
+      ],
+      "fr": [
+        "Fournir du temps et des ressources pour que les enfants apprennent à la maison.",
+        "Encourager les enfants à lire et à faire des recherches.",
+        "Communiquer avec les enseignants et participer au développement des enfants."
+      ]
+    },
+    "theme": ["famille", "éducation", "devoir"],
+    "sources": [
+      "Politique familiale – Madagascar",
+      "Conseils pour l'éducation parentale"
+    ]
+  },
+  {
+    "id": "civic-049",
+    "title": {
+      "mg": "Ny fanajana ny fitsipiky ny fitetezam-paritra",
+      "fr": "Le respect des règles du tourisme"
+    },
+    "summary": {
+      "mg": "Ny fitandroana ny hatsaran-tarehin'ny toerana fitsidihana sy ny kolontsaina.",
+      "fr": "Préserver la beauté des sites touristiques et la culture locale."
+    },
+    "content": {
+      "mg": [
+        "Manaraka ny toromariky ny mpitarika sy ny fitsipiky ny toerana fitsidihana.",
+        "Tsy manimba ny tontolo iainana na manary fako.",
+        "Manaja ny mponina eo an-toerana sy ny kolontsainy."
+      ],
+      "fr": [
+        "Suivre les instructions des guides et les règles des sites touristiques.",
+        "Ne pas dégrader l'environnement ni jeter de déchets.",
+        "Respecter les populations locales et leur culture."
+      ]
+    },
+    "theme": ["civisme", "environnement", "culture", "tourisme"],
+    "sources": [
+      "Code du Tourisme – Madagascar",
+      "Règlements des parcs nationaux et sites touristiques"
+    ]
+  },
+  {
+    "id": "civic-050",
+    "title": {
+      "mg": "Ny ady amin'ny tsaho sy ny lainga",
+      "fr": "La lutte contre les rumeurs et les mensonges"
+    },
+    "summary": {
+      "mg": "Ny fanomezana vaovao marina sy ny fampiroboroboana ny fahamarinana.",
+      "fr": "Diffuser des informations véridiques et promouvoir la vérité."
+    },
+    "content": {
+      "mg": [
+        "Tsy mampiely tsaho na vaovao diso.",
+        "Manamarina ny vaovao alohan'ny hinoany na hampiely azy.",
+        "Mandrosoa ny fifampitokisana sy ny fahamarinana eo amin'ny fiarahamonina."
+      ],
+      "fr": [
+        "Ne pas propager de rumeurs ou de fausses informations.",
+        "Vérifier les informations avant de les croire ou de les diffuser.",
+        "Promouvoir la confiance et la vérité dans la société."
+      ]
+    },
+    "theme": ["information", "civisme", "éthique", "société"],
+    "sources": [
+      "Loi sur la presse et la communication – Madagascar",
+      "Principes de l'éducation aux médias et à l'information"
+    ]
+  }
+]

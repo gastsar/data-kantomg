@@ -1,0 +1,103 @@
+{
+  "emblemesDeMada": [
+    {
+      "nom": "Armoiries royales de Madagascar",
+      "periode": "Royaume de Madagascar",
+      "illustration": "Image illustrative de l'article Emblème de Madagascar",
+      "details": {
+        "souverain": "Ranavalona II",
+        "timbre": "Couronne de Ranavalona Ire",
+        "ecu": "Ecartelé au 1 d'argent au zébu de sable, au 2 d'argent au ravinala de sinople, au 3 d'argent au bouclier et sagaies de sable, au 4 d'argent au riz de sinople, et sur le tout de cendres en croix au centre et aux bords azur",
+        "tenants": {
+          "dextre": "marchand vêtu d'un dishdasha",
+          "senestre": "soldat merina en tenue d'apparat"
+        },
+        "terrasse": "cylindre de sable, gravé de la devise",
+        "devise": "Tsy adidiko izaho irery, fa adidiko izaho sy ianao"
+      },
+      "usage": "Royaume de Madagascar",
+      "versionPrecedentes": []
+    },
+    {
+      "nom": "Emblème du gouvernement général de Madagascar",
+      "periode": "Colonie de Madagascar",
+      "illustration": "Image illustrative de l'article Emblème de Madagascar",
+      "details": {
+        "adoption": 1897,
+        "ecu": "de gueules",
+        "autresElements": "Initiales du gouvernement général"
+      },
+      "usage": "Colonie de Madagascar et dépendances",
+      "versionPrecedentes": ["XIXe siècle"]
+    },
+    {
+      "nom": "Sceau de la République malgache",
+      "periode": "République malgache",
+      "illustration": "Image illustrative de l'article Emblème de Madagascar",
+      "details": {
+        "gardien": "Ministre de la justice",
+        "adoption": 1959,
+        "ecu": "d'argent au ravinala d'argent feuillée de sinople",
+        "supports": "feuilles de riz d'or",
+        "soutiens": "zébu de sable",
+        "devise": "Fahafahana - Tanindrazana - Fandrosoana",
+        "cri": "Repoblika Malagasy"
+      },
+      "usage": "République malgache",
+      "versionPrecedentes": ["XIXe siècle", "1897"]
+    },
+    {
+      "nom": "Sceau de la République démocratique malgache",
+      "periode": "République démocratique malgache",
+      "illustration": "Image illustrative de l'article Emblème de Madagascar",
+      "details": {
+        "gardien": "Ministre de la justice",
+        "adoption": 1976,
+        "cimier": "Étoile rouge",
+        "ecu": "orangé à la bêche de gueules et d'or, avec un fusil d'or en dextre et un plumier de gueules en senestre, le tout sur fond de soleil de gueules",
+        "supports": "feuilles de riz d'or",
+        "terrasse": "burelle d'or et d'azur enté d'une roue dentée de sable",
+        "devise": "Tanindrazana - Tolom-piavotana - Fahafahana",
+        "cri": "Repoblika Demokratika Malagasy"
+      },
+      "usage": "République démocratique malgache",
+      "versionPrecedentes": ["XIXe siècle", "1897", "1959"]
+    },
+    {
+      "nom": "Emblème de la république de Madagascar",
+      "periode": "République de Madagascar",
+      "illustration": "Image illustrative de l'article Emblème de Madagascar",
+      "versions": [
+        {
+          "periode": "1993 - 1998",
+          "details": {
+            "gardien": "Ministre de la justice",
+            "adoption": 1993,
+            "ecu": "D'argent avec la topographie de l'île en gueules, feuillée de sinople, le tout sur fond d'argent",
+            "supports": "feuilles de riz de sinople",
+            "soutiens": "zébu de gueules",
+            "terrasse": "pavage de sinople",
+            "devise": "Tanindrazana - Fahafahana - Fahamarinana",
+            "cri": "Repoblikan'i Madagasikara"
+          },
+          "versionPrecedentes": ["XIXe siècle", "1897", "1959", "1975"]
+        },
+        {
+          "periode": "1998 - 2011",
+          "details": {
+            "gardien": "Ministre de la justice",
+            "adoption": 1998,
+            "ecu": "D'argent avec la topographie de l'île en gueules, feuillée de sinople, le tout sur fond d'or",
+            "supports": "feuilles de riz de sinople",
+            "soutiens": "zébu de gueules",
+            "terrasse": "pavage d'or",
+            "devise": "Tanindrazana - Fahafahana - Fandrosoana",
+            "cri": "Repoblikan'i Madagasikara"
+          },
+          "versionPrecedentes": ["XIXe siècle", "1897", "1959", "1975", "1993"]
+        }
+      ],
+      "usage": "République de Madagascar"
+    }
+  ]
+}
