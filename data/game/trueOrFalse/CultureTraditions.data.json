@@ -434,6 +434,405 @@
       "isTrue": true,
       "explanation": "Vrai, les **Ambaniandro** (littéralement 'sous le soleil' ou 'gens d'en-haut') est un terme utilisé pour désigner les **habitants des Hautes Terres centrales de Madagascar**, en particulier les Merina, souvent par opposition aux populations côtières.",
       "source": "Vocabulaire ethnographique malgache, Histoire"
+    }, {
+      "questionId": "EASY_011",
+      "themeId": "CULT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Le riz est souvent préparé avec de la sauce à Madagascar.",
+      "isTrue": true,
+      "explanation": "Oui, le riz est presque toujours accompagné d'un plat en sauce (laoka) à Madagascar.",
+      "source": "Cuisine malgache"
+    },
+    {
+      "questionId": "EASY_012",
+      "themeId": "CULT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "La musique traditionnelle malgache n'utilise que des instruments électriques.",
+      "isTrue": false,
+      "explanation": "Faux, la musique traditionnelle malgache utilise principalement des instruments acoustiques comme la valiha, le marovany ou des percussions.",
+      "source": "Musique traditionnelle malgache"
+    },
+    {
+      "questionId": "EASY_013",
+      "themeId": "CULT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Les Malgaches sont connus pour leur hospitalité.",
+      "isTrue": true,
+      "explanation": "Oui, l'hospitalité (fihavanana) est une valeur fondamentale dans la culture malgache.",
+      "source": "Culture malgache"
+    },
+    {
+      "questionId": "EASY_014",
+      "themeId": "CULT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Le chapeau est un accessoire de mode très important pour les Malgaches, hommes et femmes confondus.",
+      "isTrue": true,
+      "explanation": "Vrai, les chapeaux en paille sont très populaires et font partie de l'habillement traditionnel et quotidien, protégeant du soleil.",
+      "source": "Habillement traditionnel malgache"
+    },
+    {
+      "questionId": "EASY_015",
+      "themeId": "CULT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Les maisons traditionnelles malgaches sont toujours en béton.",
+      "isTrue": false,
+      "explanation": "Faux, les maisons traditionnelles sont souvent construites en terre, en bois, en bambou ou en pisé, avec des toits de chaume ou de tuiles.",
+      "source": "Architecture traditionnelle malgache"
+    },
+    {
+      "questionId": "EASY_016",
+      "themeId": "CULT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "On mange souvent du poulet à Madagascar.",
+      "isTrue": true,
+      "explanation": "Oui, le poulet est une viande très consommée à Madagascar, souvent préparée en ragoût ou grillée.",
+      "source": "Cuisine malgache"
+    },
+    {
+      "questionId": "EASY_017",
+      "themeId": "CULT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Les marchés locaux (tsena) sont rares à Madagascar.",
+      "isTrue": false,
+      "explanation": "Faux, les marchés locaux sont très courants et essentiels à la vie quotidienne des Malgaches pour le commerce de produits frais et artisanaux.",
+      "source": "Vie quotidienne à Madagascar"
+    },
+    {
+      "questionId": "EASY_018",
+      "themeId": "CULT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Le malgache est une langue unique qui n'a pas de dialectes.",
+      "isTrue": false,
+      "explanation": "Faux, bien qu'il y ait une langue malgache commune, elle possède plusieurs dialectes régionaux.",
+      "source": "Linguistique malgache"
+    },
+    {
+      "questionId": "EASY_019",
+      "themeId": "CULT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Les enfants malgaches jouent souvent au football dans la rue.",
+      "isTrue": true,
+      "explanation": "Oui, le football est un sport très populaire et les enfants jouent fréquemment dans les espaces ouverts et les rues.",
+      "source": "Observations culturelles, Sport à Madagascar"
+    },
+    {
+      "questionId": "EASY_020",
+      "themeId": "CULT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "La fabrication de briques en terre est une activité courante dans les campagnes malgaches.",
+      "isTrue": true,
+      "explanation": "Vrai, la fabrication de briques de terre ou de pisé est une technique traditionnelle et courante pour la construction de maisons à la campagne.",
+      "source": "Artisanat et construction à Madagascar"
+    },
+    {
+      "questionId": "MEDIUM_011",
+      "themeId": "CULT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le 'Fanorona' est un jeu de société stratégique traditionnel malgache.",
+      "isTrue": true,
+      "explanation": "Oui, le Fanorona est un jeu de plateau ancestral très populaire à Madagascar, joué avec des pions sur un diagramme complexe.",
+      "source": "Jeux traditionnels malgaches"
+    },
+    {
+      "questionId": "MEDIUM_012",
+      "themeId": "CULT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Les 'Aloalo' sont des sculptures funéraires géantes en pierre que l'on trouve dans le nord de Madagascar.",
+      "isTrue": false,
+      "explanation": "Faux, les Aloalo sont des piliers funéraires sculptés en bois, typiques des régions du sud-ouest de Madagascar, particulièrement chez les Mahafaly.",
+      "source": "Art funéraire malgache, Ethnologie"
+    },
+    {
+      "questionId": "MEDIUM_013",
+      "themeId": "CULT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le 'Mpanandro' est une personne respectée qui consulte les astres pour déterminer les jours propices ou défavorables.",
+      "isTrue": true,
+      "explanation": "Vrai, le Mpanandro est un astrologue traditionnel et conseiller spirituel, essentiel dans de nombreuses décisions de la vie malgache, basé sur le 'Vintana'.",
+      "source": "Croyances malgaches, Astrologie traditionnelle"
+    },
+    {
+      "questionId": "MEDIUM_014",
+      "themeId": "CULT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le \"Ravimbomanga\" (feuilles de patate douce) est un plat couramment consommé à Madagascar.",
+      "isTrue": true,
+      "explanation": "Vrai, le ravimbomanga est une feuille comestible souvent cuite avec du porc ou du zébu, un plat très apprécié dans la cuisine malgache.",
+      "source": "Cuisine malgache"
+    },
+    {
+      "questionId": "MEDIUM_015",
+      "themeId": "CULT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "La danse 'Malesa' est originaire des Hautes Terres centrales de Madagascar.",
+      "isTrue": false,
+      "explanation": "Faux, la Malesa est une danse traditionnelle du sud-ouest de Madagascar, souvent associée aux Bara et aux Mahafaly.",
+      "source": "Danses traditionnelles malgaches"
+    },
+    {
+      "questionId": "MEDIUM_016",
+      "themeId": "CULT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le culte des ancêtres à Madagascar implique de ne jamais prononcer le nom des défunts.",
+      "isTrue": false,
+      "explanation": "Faux, le culte des ancêtres est très important, et même si certaines règles entourent le nom des défunts, il n'y a pas d'interdiction universelle de les prononcer, surtout lors de rituels.",
+      "source": "Croyances et pratiques funéraires malgaches"
+    },
+    {
+      "questionId": "MEDIUM_017",
+      "themeId": "CULT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le port du 'Lamba' est réservé aux occasions spéciales et cérémonies.",
+      "isTrue": false,
+      "explanation": "Faux, le Lamba est porté quotidiennement par de nombreuses personnes, en plus d'être un vêtement cérémoniel important.",
+      "source": "Habillement traditionnel malgache"
+    },
+    {
+      "questionId": "MEDIUM_018",
+      "themeId": "CULT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "La fabrication de papier Antemoro est un artisanat ancestral qui utilise des fleurs séchées.",
+      "isTrue": true,
+      "explanation": "Vrai, le papier Antemoro est fabriqué à la main à partir de l'écorce d'un arbre local (havoha) et est souvent décoré de fleurs séchées, selon une technique héritée d'influences arabes.",
+      "source": "Artisanat malgache, Culture Antemoro"
+    },
+    {
+      "questionId": "MEDIUM_019",
+      "themeId": "CULT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "La majorité des proverbes malgaches (ohabolana) sont des inventions récentes.",
+      "isTrue": false,
+      "explanation": "Faux, les ohabolana sont une partie intégrante de la tradition orale malgache, transmis depuis des générations, et sont très anciens.",
+      "source": "Tradition orale malgache, Littérature"
+    },
+    {
+      "questionId": "MEDIUM_020",
+      "themeId": "CULT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Les Malgaches utilisent des baguettes pour manger le riz.",
+      "isTrue": false,
+      "explanation": "Faux, les Malgaches mangent traditionnellement le riz avec les doigts ou avec une cuillère.",
+      "source": "Habitudes alimentaires malgaches"
+    },
+    {
+      "questionId": "HARD_011",
+      "themeId": "CULT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le 'Vazimba' est une ethnie contemporaine majoritaire sur les Hautes Terres de Madagascar.",
+      "isTrue": false,
+      "explanation": "Faux, les Vazimba sont considérés comme les premiers habitants de Madagascar et sont vénérés comme des esprits ancestraux, mais ils ne constituent pas une ethnie contemporaine majoritaire.",
+      "source": "Mythes et légendes malgaches, Histoire ancienne"
+    },
+    {
+      "questionId": "HARD_012",
+      "themeId": "CULT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le concept de 'Tany Razana' (terre des ancêtres) est fondamental dans les questions foncières à Madagascar.",
+      "isTrue": true,
+      "explanation": "Vrai, le 'Tany Razana' représente la terre liée aux ancêtres, et sa propriété ou son utilisation est souvent régie par des droits coutumiers et des considérations spirituelles profondes, au-delà de la législation moderne.",
+      "source": "Droit coutumier malgache, Anthropologie foncière"
+    },
+    {
+      "questionId": "HARD_013",
+      "themeId": "CULT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le 'Salegy' est un genre musical malgache dont les rythmes sont exclusivement inspirés de la musique classique européenne.",
+      "isTrue": false,
+      "explanation": "Faux, le Salegy est un genre musical très dynamique et populaire de la côte nord-ouest, avec des influences africaines, arabes et un rythme très dansant, loin de la musique classique européenne.",
+      "source": "Musique malgache, Études musicologiques"
+    },
+    {
+      "questionId": "HARD_014",
+      "themeId": "CULT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "La danse 'Zafindraony' est une danse de transe rituelle associée aux rites de possession.",
+      "isTrue": false,
+      "explanation": "Faux, la danse Zafindraony est une danse de divertissement originaire de la côte sud-est, caractérisée par des mouvements joyeux et rythmés, et n'est pas spécifiquement associée aux rites de transe.",
+      "source": "Danses traditionnelles malgaches"
+    },
+    {
+      "questionId": "HARD_015",
+      "themeId": "CULT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le 'Sambatra' est une cérémonie collective de circoncision qui a lieu tous les sept ans chez les Antambahoaka.",
+      "isTrue": true,
+      "explanation": "Vrai, le Sambatra est un rituel majeur et spectaculaire qui rassemble tous les garçons nés durant une période de sept ans pour une circoncision collective, spécifique à l'ethnie Antambahoaka de la côte est.",
+      "source": "Rites de passage malgaches, Ethnographie"
+    },
+    {
+      "questionId": "HARD_016",
+      "themeId": "CULT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Les 'Ombiasa' sont des figures religieuses chrétiennes reconnues par les églises officielles à Madagascar.",
+      "isTrue": false,
+      "explanation": "Faux, les Ombiasa sont des guérisseurs et devins traditionnels, dont le rôle est lié aux croyances ancestrales et non aux institutions religieuses chrétiennes officielles.",
+      "source": "Médecine traditionnelle malgache, Religions à Madagascar"
+    },
+    {
+      "questionId": "HARD_017",
+      "themeId": "CULT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le 'Joro' est une offrande ou une prière rituelle adressée aux ancêtres ou à Zanahary (Dieu créateur).",
+      "isTrue": true,
+      "explanation": "Vrai, le Joro est une cérémonie ou un acte rituel, souvent accompagné d'offrandes (comme le rhum ou un zébu), pour invoquer les ancêtres et Zanahary, demander leur bénédiction ou apaiser leur colère.",
+      "source": "Rituels malgaches, Croyances"
+    },
+    {
+      "questionId": "HARD_018",
+      "themeId": "CULT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "L'utilisation du bois de rose pour la construction est une tradition séculaire et durable à Madagascar.",
+      "isTrue": false,
+      "explanation": "Faux, bien que le bois soit utilisé en construction, le bois de rose est une essence précieuse et menacée. Son exploitation, souvent illégale, est une cause majeure de déforestation et est source de trafic, ce n'est donc pas une pratique durable ou traditionnelle pour la construction courante.",
+      "source": "Environnement à Madagascar, Trafic de bois précieux"
+    },
+    {
+      "questionId": "HARD_019",
+      "themeId": "CULT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le 'Mangaika' est un type de vannerie traditionnelle très coloré, fabriqué à partir de feuilles de palmier.",
+      "isTrue": false,
+      "explanation": "Faux, le Mangaika est un plat à base de feuilles de manioc pilées, souvent cuit avec de la viande de porc ou du lait de coco, et non un type de vannerie.",
+      "source": "Cuisine malgache"
+    },
+    {
+      "questionId": "HARD_020",
+      "themeId": "CULT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Les 'Vazaha' désignent les étrangers ou les non-Malgaches.",
+      "isTrue": true,
+      "explanation": "Vrai, 'Vazaha' est le terme malgache utilisé pour désigner les personnes d'origine étrangère ou non-malgaches, souvent les Occidentaux.",
+      "source": "Lexique malgache, Relations interculturelles"
+    },
+    {
+      "questionId": "EXPERT_011",
+      "themeId": "CULT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le 'Lohavolana' est un concept malgache lié au cycle lunaire, influençant les périodes propices aux rituels et activités agricoles.",
+      "isTrue": true,
+      "explanation": "Vrai, le Lohavolana fait référence au début du mois lunaire et est un élément clé du calendrier traditionnel malgache, déterminant les moments favorables (vintana) pour diverses activités culturelles, religieuses ou agricoles.",
+      "source": "Calendrier traditionnel malgache, Ethnologie"
+    },
+    {
+      "questionId": "EXPERT_012",
+      "themeId": "CULT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le 'Kalo' est un style de chant épique monodique, sans accompagnement musical, spécifique aux ethnies côtières du sud.",
+      "isTrue": false,
+      "explanation": "Faux, le Kalo est un chant polyphonique et rythmique, souvent accompagné d'instruments et de danses, et est un élément important des arts du spectacle des Hautes Terres, notamment chez les Merina et Betsileo.",
+      "source": "Musique traditionnelle malgache, Ethnologie musicale"
+    },
+    {
+      "questionId": "EXPERT_013",
+      "themeId": "CULT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le 'Tranobe' est le nom donné aux maisons familiales très modestes des zones rurales malgaches.",
+      "isTrue": false,
+      "explanation": "Faux, le Tranobe (grande maison) désigne la maison ancestrale ou le tombeau familial imposant, souvent en pierre, qui est le centre des rituels ancestraux et un symbole du lien familial.",
+      "source": "Architecture funéraire malgache, Culture"
+    },
+    {
+      "questionId": "EXPERT_014",
+      "themeId": "CULT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le 'Moraingy' est un art martial qui, en plus des coups, inclut des techniques de soumission au sol et de clés articulaires.",
+      "isTrue": false,
+      "explanation": "Faux, le Moraingy est principalement un sport de combat de percussion (poings, pieds) et non de soumission. Il est caractérisé par des frappes rapides et puissantes, sans techniques de lutte au sol ou de clés.",
+      "source": "Arts martiaux traditionnels malgaches"
+    },
+    {
+      "questionId": "EXPERT_015",
+      "themeId": "CULT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le 'Fiankohofana' est une forme de prosternation ou d'inclinaison respectueuse devant les aînés ou les ancêtres.",
+      "isTrue": true,
+      "explanation": "Vrai, le Fiankohofana est un geste de respect profond, une salutation traditionnelle où l'on s'incline ou s'agenouille devant une personne âgée ou une autorité, ou lors de cérémonies en hommage aux ancêtres.",
+      "source": "Savoir-vivre malgache, Coutumes"
+    },
+    {
+      "questionId": "EXPERT_016",
+      "themeId": "CULT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Les 'Tanindrazana' désignent spécifiquement les terres cultivables pour le riz dans le nord de Madagascar.",
+      "isTrue": false,
+      "explanation": "Faux, le Tanindrazana (terre des ancêtres) est un concept beaucoup plus large et profond, faisant référence à la patrie ancestrale, à la terre où reposent les aïeux et où se trouvent les racines d'une communauté, et ce, dans toutes les régions de Madagascar.",
+      "source": "Sociologie et culture malgache"
+    },
+    {
+      "questionId": "EXPERT_017",
+      "themeId": "CULT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le 'Tsikafara' est un impôt annuel obligatoire payé par toutes les familles malgaches au chef du village.",
+      "isTrue": false,
+      "explanation": "Faux, le Tsikafara est une contribution volontaire ou une offrande effectuée lors de certaines cérémonies ou pour apaiser les ancêtres, et non un impôt obligatoire au sens strict.",
+      "source": "Pratiques rituelles malgaches, Anthropologie"
+    },
+    {
+      "questionId": "EXPERT_018",
+      "themeId": "CULT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le 'Dobo' est une pratique de pêche collective traditionnelle utilisant des filets tissés à la main, spécifique aux régions côtières.",
+      "isTrue": false,
+      "explanation": "Faux, le Dobo est un étang ou un bassin artificiel, souvent sacré, où des poissons sont élevés ou où des rituels liés à l'eau sont pratiqués. Ce n'est pas une technique de pêche.",
+      "source": "Hydrographie et culture malgache"
+    },
+    {
+      "questionId": "EXPERT_019",
+      "themeId": "CULT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Les 'Amponga' sont des tambours traditionnels malgaches, souvent utilisés lors des cérémonies et des fêtes.",
+      "isTrue": true,
+      "explanation": "Vrai, les Amponga sont des tambours de différentes tailles, omniprésents dans la musique et les rituels malgaches, fournissant le rythme pour les danses et les chants.",
+      "source": "Instruments de musique malgaches"
+    },
+    {
+      "questionId": "EXPERT_020",
+      "themeId": "CULT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le 'Rano Masina' (eau sacrée) est une eau bénite utilisée exclusivement par les pasteurs protestants à Madagascar.",
+      "isTrue": false,
+      "explanation": "Faux, le Rano Masina est une eau sacrée issue de sources spécifiques ou ayant fait l'objet de rituels traditionnels, utilisée dans diverses cérémonies (y compris de purification, de bénédiction) par les Ombiasa ou des chefs coutumiers, et non exclusivement par des pasteurs protestants.",
+      "source": "Croyances malgaches, Rituels traditionnels"
     }
   ]
 }
