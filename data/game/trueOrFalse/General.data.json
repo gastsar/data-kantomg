@@ -474,6 +474,405 @@
       "isTrue": false,
       "explanation": "La majorité de l'électricité à Madagascar est produite à partir de sources **hydroélectriques et thermiques (groupes électrogènes)**, et non par des centrales nucléaires.",
       "source": "Ministère de l'Énergie de Madagascar, Agence de l'énergie internationale"
+    }, {
+      "questionId": "EASY_011",
+      "themeId": "GEN",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Madagascar est une île.",
+      "isTrue": true,
+      "explanation": "Oui, Madagascar est une grande île située dans l'océan Indien.",
+      "source": "Manuels scolaires de géographie"
+    },
+    {
+      "questionId": "EASY_012",
+      "themeId": "GEN",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Le crocodile est un animal que l'on trouve souvent dans les rivières de Madagascar.",
+      "isTrue": true,
+      "explanation": "Oui, les crocodiles du Nil sont présents dans les rivières et lacs de Madagascar.",
+      "source": "Faune de Madagascar"
+    },
+    {
+      "questionId": "EASY_013",
+      "themeId": "GEN",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Madagascar est un pays froid où il neige souvent.",
+      "isTrue": false,
+      "explanation": "Faux, Madagascar a un climat tropical majoritairement chaud, même si certaines zones en altitude peuvent être fraîches.",
+      "source": "Climat de Madagascar"
+    },
+    {
+      "questionId": "EASY_014",
+      "themeId": "GEN",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Le Ranomafana est un célèbre parc national à Madagascar.",
+      "isTrue": true,
+      "explanation": "Oui, le Parc National de Ranomafana est un site classé au patrimoine mondial de l'UNESCO, connu pour sa biodiversité.",
+      "source": "UNESCO, Parcs Nationaux de Madagascar"
+    },
+    {
+      "questionId": "EASY_015",
+      "themeId": "GEN",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Les Malgaches parlent uniquement le français.",
+      "isTrue": false,
+      "explanation": "Faux, les langues officielles sont le malgache et le français.",
+      "source": "Constitution malgache"
+    },
+    {
+      "questionId": "EASY_016",
+      "themeId": "GEN",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "On peut trouver des pandas géants à Madagascar.",
+      "isTrue": false,
+      "explanation": "Faux, les pandas géants vivent en Chine, pas à Madagascar.",
+      "source": "Faune mondiale"
+    },
+    {
+      "questionId": "EASY_017",
+      "themeId": "GEN",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "La vanille est une épice très cultivée à Madagascar.",
+      "isTrue": true,
+      "explanation": "Oui, Madagascar est le plus grand producteur mondial de vanille.",
+      "source": "FAO, Rapports sur la production agricole"
+    },
+    {
+      "questionId": "EASY_018",
+      "themeId": "GEN",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Le moyen de transport le plus courant dans les villes malgaches est le métro.",
+      "isTrue": false,
+      "explanation": "Faux, les transports courants sont les taxis, les pousse-pousse et les bus, il n'y a pas de métro à Madagascar.",
+      "source": "Guides de voyage, Observations locales"
+    },
+    {
+      "questionId": "EASY_019",
+      "themeId": "GEN",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Les plages de Madagascar sont connues pour leur sable blanc.",
+      "isTrue": true,
+      "explanation": "Oui, Madagascar possède de nombreuses plages magnifiques avec du sable blanc et des eaux claires.",
+      "source": "Office National du Tourisme de Madagascar"
+    },
+    {
+      "questionId": "EASY_020",
+      "themeId": "GEN",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Les maisons traditionnelles malgaches sont souvent construites en verre.",
+      "isTrue": false,
+      "explanation": "Faux, les maisons traditionnelles sont souvent construites en brique de terre, en bois ou en bambou.",
+      "source": "Architecture traditionnelle malgache"
+    },
+    {
+      "questionId": "MEDIUM_011",
+      "themeId": "GEN",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le Rova d'Antananarivo était le complexe royal des souverains de l'ancien royaume de Madagascar.",
+      "isTrue": true,
+      "explanation": "Vrai, le Rova d'Antananarivo était la résidence royale et le centre politique et spirituel de l'ancien royaume Merina.",
+      "source": "Histoire de Madagascar, Patrimoine UNESCO"
+    },
+    {
+      "questionId": "MEDIUM_012",
+      "themeId": "GEN",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "La population malgache est majoritairement d'origine européenne.",
+      "isTrue": false,
+      "explanation": "Faux, la population malgache est un mélange d'origines austronésiennes (sud-est asiatique) et africaines.",
+      "source": "Démographie de Madagascar, Études génétiques"
+    },
+    {
+      "questionId": "MEDIUM_013",
+      "themeId": "GEN",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le \"Hira Gasy\" est un genre musical malgache moderne influencé par le hip-hop.",
+      "isTrue": false,
+      "explanation": "Faux, le Hira Gasy est une forme d'art traditionnel combinant musique, danse et théâtre, avec des racines anciennes.",
+      "source": "Patrimoine culturel malgache, UNESCO"
+    },
+    {
+      "questionId": "MEDIUM_014",
+      "themeId": "GEN",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le Betsileo est l'un des plus grands groupes ethniques de Madagascar.",
+      "isTrue": true,
+      "explanation": "Vrai, les Betsileo sont un important groupe ethnique des Hautes Terres du sud de Madagascar, réputés pour leur culture rizicole.",
+      "source": "Ethnographie de Madagascar"
+    },
+    {
+      "questionId": "MEDIUM_015",
+      "themeId": "GEN",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Madagascar est riche en gisements de pétrole facilement exploitables.",
+      "isTrue": false,
+      "explanation": "Faux, bien qu'il y ait eu des explorations, les gisements de pétrole ne sont pas encore une source majeure d'exploitation facile pour l'économie malgache.",
+      "source": "Ministère des Mines de Madagascar, Rapports énergétiques"
+    },
+    {
+      "questionId": "MEDIUM_016",
+      "themeId": "GEN",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le riz est souvent cuit et consommé trois fois par jour à Madagascar.",
+      "isTrue": true,
+      "explanation": "Vrai, le riz est l'aliment de base et est traditionnellement consommé à chaque repas par la majorité des Malgaches.",
+      "source": "Culture alimentaire malgache"
+    },
+    {
+      "questionId": "MEDIUM_017",
+      "themeId": "GEN",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "La plupart des routes principales de Madagascar sont pavées et en excellent état.",
+      "isTrue": false,
+      "explanation": "Faux, de nombreuses routes, même nationales, sont en mauvais état ou non pavées, rendant les déplacements difficiles.",
+      "source": "Réseau routier de Madagascar, Guides de voyage"
+    },
+    {
+      "questionId": "MEDIUM_018",
+      "themeId": "GEN",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le Malgache est une langue appartenant à la famille des langues bantoues.",
+      "isTrue": false,
+      "explanation": "Faux, le malgache appartient à la famille des langues austronésiennes, avec des liens avec le malais et l'indonésien.",
+      "source": "Linguistique, Études sur les langues malgaches"
+    },
+    {
+      "questionId": "MEDIUM_019",
+      "themeId": "GEN",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Les zébus sont des bovins très importants dans la culture et l'économie malgache.",
+      "isTrue": true,
+      "explanation": "Vrai, les zébus sont essentiels pour l'agriculture, le transport et ont une grande signification culturelle et symbolique à Madagascar.",
+      "source": "Agriculture et culture malgache"
+    },
+    {
+      "questionId": "MEDIUM_020",
+      "themeId": "GEN",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Madagascar a été colonisée par les Portugais avant les Français.",
+      "isTrue": false,
+      "explanation": "Faux, bien que les Portugais aient été parmi les premiers Européens à la découvrir, Madagascar a été colonisée par les Français.",
+      "source": "Histoire coloniale de Madagascar"
+    },
+    {
+      "questionId": "HARD_011",
+      "themeId": "GEN",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "La reine Ranavalona III fut la dernière monarque régnante de Madagascar avant la colonisation française complète.",
+      "isTrue": true,
+      "explanation": "Vrai, Ranavalona III a régné de 1883 à 1897, date de l'annexion et de l'abolition de la monarchie par la France.",
+      "source": "Histoire de Madagascar, Rois et Reines"
+    },
+    {
+      "questionId": "HARD_012",
+      "themeId": "GEN",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le Dahalo est un groupe ethnique du sud de Madagascar connu pour ses pratiques de transhumance pacifiques.",
+      "isTrue": false,
+      "explanation": "Faux, les Dahalo sont des voleurs de zébus, souvent armés, et représentent un problème de sécurité dans certaines régions du sud.",
+      "source": "Actualités malgaches, Rapports de sécurité"
+    },
+    {
+      "questionId": "HARD_013",
+      "themeId": "GEN",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le phénomène de la déforestation à Madagascar est principalement dû aux feux de brousse et à l'agriculture sur brûlis.",
+      "isTrue": true,
+      "explanation": "Vrai, ces pratiques, ainsi que l'exploitation forestière illégale, sont les principales causes de la déforestation massive à Madagascar.",
+      "source": "WWF, Rapports environnementaux sur Madagascar"
+    },
+    {
+      "questionId": "HARD_014",
+      "themeId": "GEN",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le Parc National de l'Isalo est surtout connu pour ses formations volcaniques actives.",
+      "isTrue": false,
+      "explanation": "Faux, le Parc National de l'Isalo est célèbre pour ses paysages de grès ruiniformes, ses canyons, ses piscines naturelles et sa végétation rupicole, et non pour son activité volcanique.",
+      "source": "Parcs Nationaux de Madagascar, Guides touristiques"
+    },
+    {
+      "questionId": "HARD_015",
+      "themeId": "GEN",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "La musique \"Salegy\" est originaire des Hautes Terres de Madagascar.",
+      "isTrue": false,
+      "explanation": "Faux, le Salegy est un genre musical dynamique originaire de la côte nord-ouest de Madagascar, souvent associé à la région de Mahajanga.",
+      "source": "Musique de Madagascar, Ethnologie musicale"
+    },
+    {
+      "questionId": "HARD_016",
+      "themeId": "GEN",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le taux d'électrification rurale à Madagascar est l'un des plus élevés d'Afrique subsaharienne.",
+      "isTrue": false,
+      "explanation": "Faux, le taux d'électrification rurale à Madagascar est très faible, parmi les plus bas d'Afrique, avec une grande partie de la population sans accès à l'électricité.",
+      "source": "Banque Mondiale, Rapports sur l'énergie en Afrique"
+    },
+    {
+      "questionId": "HARD_017",
+      "themeId": "GEN",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le climat de Madagascar est uniquement tropical sec.",
+      "isTrue": false,
+      "explanation": "Faux, le climat de Madagascar est varié : tropical humide sur la côte est, semi-aride au sud et tempéré sur les Hautes Terres centrales.",
+      "source": "Géographie et climatologie de Madagascar"
+    },
+    {
+      "questionId": "HARD_018",
+      "themeId": "GEN",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le système de castes a été aboli à Madagascar après l'indépendance en 1960.",
+      "isTrue": false,
+      "explanation": "Faux, bien que le système officiel de castes ait été aboli, ses vestiges et ses influences sociales persistent dans certaines structures de la société malgache.",
+      "source": "Sociologie de Madagascar, Études post-coloniales"
+    },
+    {
+      "questionId": "HARD_019",
+      "themeId": "GEN",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le poisson est la principale source de protéines pour la majorité des habitants de Madagascar.",
+      "isTrue": false,
+      "explanation": "Faux, la viande de zébu et de volaille, ainsi que les légumineuses, sont des sources de protéines plus courantes. Le poisson est consommé mais n'est pas la principale source pour la majorité des Malgaches.",
+      "source": "Habitudes alimentaires malgaches, Études nutritionnelles"
+    },
+    {
+      "questionId": "HARD_020",
+      "themeId": "GEN",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Les mangroves sont des écosystèmes importants le long des côtes ouest de Madagascar.",
+      "isTrue": true,
+      "explanation": "Vrai, les côtes ouest de Madagascar abritent de vastes écosystèmes de mangroves, cruciaux pour la biodiversité marine et la protection côtière.",
+      "source": "Écologie marine de Madagascar, Rapports environnementaux"
+    },
+    {
+      "questionId": "EXPERT_011",
+      "themeId": "GEN",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "La Grande Rébellion de 1947 à Madagascar visait l'indépendance totale vis-à-vis de la France.",
+      "isTrue": true,
+      "explanation": "Vrai, la Rébellion de 1947 était un soulèvement armé majeur contre la puissance coloniale française, exigeant l'indépendance de Madagascar.",
+      "source": "Histoire coloniale de Madagascar, Études sur la Rébellion de 1947"
+    },
+    {
+      "questionId": "EXPERT_012",
+      "themeId": "GEN",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "L'Avenue de l'Indépendance à Antananarivo est un vestige de l'urbanisme colonial britannique.",
+      "isTrue": false,
+      "explanation": "Faux, l'Avenue de l'Indépendance et l'urbanisme d'Antananarivo portent l'empreinte de la période coloniale française.",
+      "source": "Urbanisme et histoire d'Antananarivo"
+    },
+    {
+      "questionId": "EXPERT_013",
+      "themeId": "GEN",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le Code des 34 Lois (ou \"Code de 34 articles\") de Radama Ier fut un texte législatif moderne inspiré du droit anglais.",
+      "isTrue": false,
+      "explanation": "Faux, le Code des 34 Lois, établi par Radama Ier, était une refonte du droit coutumier malgache, avec certaines influences européennes mais pas spécifiquement anglaises pour l'ensemble du code.",
+      "source": "Histoire du droit malgache, Règne de Radama Ier"
+    },
+    {
+      "questionId": "EXPERT_014",
+      "themeId": "GEN",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le concept de 'Tsiny' dans la culture malgache désigne la culpabilité ou la faute perçue par la communauté, influençant le comportement social.",
+      "isTrue": true,
+      "explanation": "Vrai, le 'Tsiny' est un concept social et moral important, impliquant le blâme ou la réprobation collective suite à une action jugée incorrecte, et joue un rôle régulateur dans la société malgache.",
+      "source": "Anthropologie culturelle malgache, Concepts sociaux"
+    },
+    {
+      "questionId": "EXPERT_015",
+      "themeId": "GEN",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "La Grande Île est une région administrative de Madagascar.",
+      "isTrue": false,
+      "explanation": "Faux, 'La Grande Île' est un surnom de Madagascar en référence à sa taille, ce n'est pas une division administrative.",
+      "source": "Géographie de Madagascar, Administration territoriale"
+    },
+    {
+      "questionId": "EXPERT_018",
+      "themeId": "GEN",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "La Banque Centrale de Madagascar a son siège social à Toamasina.",
+      "isTrue": false,
+      "explanation": "Faux, la Banque Centrale de Madagascar a son siège social dans la capitale, Antananarivo.",
+      "source": "Banque Centrale de Madagascar"
+    },
+    {
+      "questionId": "EXPERT_021",
+      "themeId": "GEN",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "La Constitution malgache actuelle garantit la liberté de religion et la laïcité de l'État.",
+      "isTrue": true,
+      "explanation": "Vrai, la Constitution de la Quatrième République de Madagascar (2010) affirme la laïcité de l'État et garantit la liberté de culte.",
+      "source": "Constitution de la Quatrième République de Madagascar (2010)"
+    },
+    {
+      "questionId": "EXPERT_022",
+      "themeId": "GEN",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le Palais d'Andafiavaratra, situé à Antananarivo, était la résidence officielle des Premiers ministres durant la monarchie Merina.",
+      "isTrue": true,
+      "explanation": "Vrai, ce palais, désormais un musée, a servi de résidence aux Premiers ministres du royaume Merina, notamment Rainilaiarivony.",
+      "source": "Histoire des palais royaux de Madagascar"
+    },
+    {
+      "questionId": "EXPERT_023",
+      "themeId": "GEN",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "L'Ambondro mahabo est une espèce de dinosaure endémique de Madagascar, découverte récemment.",
+      "isTrue": false,
+      "explanation": "Faux, l'Ambondro mahabo est l'un des plus anciens mammifères connus, datant du Jurassique, et non un dinosaure.",
+      "source": "Paléontologie de Madagascar, Revues scientifiques"
+    },
+    {
+      "questionId": "EXPERT_024",
+      "themeId": "GEN",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le secteur informel représente une part marginale de l'économie malgache.",
+      "isTrue": false,
+      "explanation": "Faux, le secteur informel est très important à Madagascar, employant une grande majorité de la population active et contribuant significativement au PIB.",
+      "source": "Banque Mondiale, Rapports économiques sur Madagascar"
     }
   ]
 }
