@@ -434,6 +434,405 @@
       "isTrue": false,
       "explanation": "Faux, si la musique folk malgache puise dans ses racines traditionnelles, de nombreux artistes contemporains y **incorporent des instruments, rythmes ou harmonies d'influences occidentales** (pop, rock, jazz) pour créer des sons nouveaux.",
       "source": "Musique malgache contemporaine, Fusions musicales"
+    }, {
+      "questionId": "EASY_011",
+      "themeId": "LITT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Le théâtre est populaire à Madagascar.",
+      "isTrue": true,
+      "explanation": "Oui, le théâtre a une longue tradition à Madagascar et reste une forme d'art populaire, avec des troupes professionnelles et amateurs se produisant régulièrement.",
+      "source": "Arts du spectacle à Madagascar"
+    },
+    {
+      "questionId": "EASY_012",
+      "themeId": "LITT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "La vannerie (objets en osier tressé) n'existe pas à Madagascar.",
+      "isTrue": false,
+      "explanation": "Faux, la vannerie est un artisanat très répandu à Madagascar, utilisant diverses fibres végétales pour fabriquer des chapeaux, des sacs, des paniers, etc.",
+      "source": "Artisanat malgache"
+    },
+    {
+      "questionId": "EASY_013",
+      "themeId": "LITT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "La musique malgache utilise souvent des percussions.",
+      "isTrue": true,
+      "explanation": "Vrai, les percussions (tambours, hachets, etc.) sont fondamentales dans de nombreux styles de musique traditionnelle malgache et accompagnent souvent les danses et les cérémonies.",
+      "source": "Musique traditionnelle malgache"
+    },
+    {
+      "questionId": "EASY_014",
+      "themeId": "LITT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Les romans policiers sont le seul genre littéraire apprécié à Madagascar.",
+      "isTrue": false,
+      "explanation": "Faux, la littérature malgache est diverse, incluant la poésie, le théâtre, les contes oraux, les romans historiques, sociaux, etc.",
+      "source": "Littérature malgache"
+    },
+    {
+      "questionId": "EASY_015",
+      "themeId": "LITT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "La 'Valiha' est un instrument de musique typiquement malgache.",
+      "isTrue": true,
+      "explanation": "Oui, la Valiha est un instrument à cordes tubulaire, considéré comme l'instrument national de Madagascar, souvent fabriqué en bambou.",
+      "source": "Instruments de musique malgaches"
+    },
+    {
+      "questionId": "EASY_016",
+      "themeId": "LITT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Les Malgaches n'ont pas de tradition de contes et légendes orales.",
+      "isTrue": false,
+      "explanation": "Faux, la tradition orale est très riche à Madagascar, avec de nombreux contes (angano), proverbes (ohabolana) et légendes transmis de génération en génération.",
+      "source": "Tradition orale malgache"
+    },
+    {
+      "questionId": "EASY_017",
+      "themeId": "LITT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Les peintures à Madagascar sont souvent très colorées.",
+      "isTrue": true,
+      "explanation": "Vrai, l'art pictural malgache, qu'il soit traditionnel ou contemporain, est souvent caractérisé par l'utilisation de couleurs vives et expressives.",
+      "source": "Art pictural malgache"
+    },
+    {
+      "questionId": "EASY_018",
+      "themeId": "LITT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "La sculpture sur bois est un art peu développé à Madagascar.",
+      "isTrue": false,
+      "explanation": "Faux, la sculpture sur bois est un art majeur à Madagascar, avec des styles variés selon les ethnies (par exemple, les Aloalo Mahafaly, les boiseries Zafimaniry).",
+      "source": "Sculpture sur bois malgache, Artisanat"
+    },
+    {
+      "questionId": "EASY_019",
+      "themeId": "LITT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Les Malgaches utilisent l'alphabet latin pour écrire leur langue.",
+      "isTrue": true,
+      "explanation": "Oui, le malgache est écrit avec l'alphabet latin depuis le début du XIXe siècle, grâce notamment aux missionnaires protestants.",
+      "source": "Linguistique malgache, Histoire de l'écriture"
+    },
+    {
+      "questionId": "EASY_020",
+      "themeId": "LITT",
+      "levelId": "EASY",
+      "ageRange": "6-99",
+      "questionText": "Il n'y a pas de festivals de musique modernes à Madagascar.",
+      "isTrue": false,
+      "explanation": "Faux, Madagascar accueille plusieurs festivals de musique modernes et internationaux, comme le Festival Donia à Nosy Be, qui mettent en valeur la diversité musicale de l'île.",
+      "source": "Festivals de musique à Madagascar"
+    },
+    {
+      "questionId": "MEDIUM_011",
+      "themeId": "LITT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Jean-Joseph Rabearivelo est considéré comme l'un des plus grands poètes malgaches du XXe siècle.",
+      "isTrue": true,
+      "explanation": "Vrai, Jean-Joseph Rabearivelo (1903-1937) est une figure majeure de la littérature malgache, pionnier de la poésie moderne, dont l'œuvre est traduite et reconnue internationalement.",
+      "source": "Littérature malgache, Histoire de la poésie"
+    },
+    {
+      "questionId": "MEDIUM_012",
+      "themeId": "LITT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le 'Hira Gasy' est une forme d'opéra occidental importée à Madagascar et chantée en latin.",
+      "isTrue": false,
+      "explanation": "Faux, le Hira Gasy est un spectacle traditionnel malgache des Hautes Terres, combinant musique, chant, danse, théâtre et oratoire, entièrement en malgache, avec des thèmes sociaux et moraux.",
+      "source": "Arts du spectacle malgaches, Hira Gasy"
+    },
+    {
+      "questionId": "MEDIUM_013",
+      "themeId": "LITT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le roman 'L'Enfant noir' de Camara Laye est un exemple célèbre de la littérature malgache.",
+      "isTrue": false,
+      "explanation": "Faux, 'L'Enfant noir' est un roman de l'écrivain guinéen Camara Laye et non un auteur malgache. La littérature malgache a ses propres auteurs célèbres.",
+      "source": "Littérature africaine, Littérature malgache"
+    },
+    {
+      "questionId": "MEDIUM_014",
+      "themeId": "LITT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "La technique du 'Famadihana' (retournement des morts) est une source d'inspiration pour de nombreuses œuvres artistiques et littéraires malgaches.",
+      "isTrue": true,
+      "explanation": "Vrai, le Famadihana, rituel funéraire majeur, est une coutume profondément enracinée qui influence l'art, la littérature, et la musique malgaches, symbolisant le lien indéfectible avec les ancêtres.",
+      "source": "Culture malgache, Influence du Famadihana dans l'art"
+    },
+    {
+      "questionId": "MEDIUM_015",
+      "themeId": "LITT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Les arts plastiques malgaches se limitent à la reproduction de paysages et d'animaux.",
+      "isTrue": false,
+      "explanation": "Faux, les arts plastiques malgaches sont diversifiés, incluant des portraits, des scènes de vie quotidienne, des abstractions, des thèmes mythologiques ou des commentaires sociaux, en plus des représentations animalières et paysagères.",
+      "source": "Arts plastiques de Madagascar"
+    },
+    {
+      "questionId": "MEDIUM_016",
+      "themeId": "LITT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le film 'Fara, Reine des sables' est un documentaire sur les dunes du sud de Madagascar.",
+      "isTrue": false,
+      "explanation": "Faux, 'Fara, Reine des sables' est un film de fiction malgache-français réalisé par Paul Calori et Kostia Testut, qui explore des thèmes sociaux contemporains et non un documentaire sur la géographie.",
+      "source": "Cinéma malgache, Filmographie"
+    },
+    {
+      "questionId": "MEDIUM_017",
+      "themeId": "LITT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "La littérature malgache contemporaine est de plus en plus ouverte aux thèmes sociaux et politiques.",
+      "isTrue": true,
+      "explanation": "Vrai, de nombreux auteurs contemporains utilisent la littérature pour aborder des questions de société, les défis politiques, l'urbanisation, la pauvreté ou les transformations culturelles à Madagascar.",
+      "source": "Analyse de la littérature malgache contemporaine"
+    },
+    {
+      "questionId": "MEDIUM_018",
+      "themeId": "LITT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Le 'Rababa' est un type de danse malgache rapide et acrobatique originaire du nord.",
+      "isTrue": false,
+      "explanation": "Faux, le Rababa est un instrument de musique à cordes frottées (une sorte de vièle ou de luth), proche du Rebab arabe, et non une danse.",
+      "source": "Instruments de musique malgaches"
+    },
+    {
+      "questionId": "MEDIUM_019",
+      "themeId": "LITT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "L'artisanat du papier Antemoro est une tradition qui remonte à des siècles, héritée d'influences arabes.",
+      "isTrue": true,
+      "explanation": "Vrai, le papier Antemoro, fabriqué à partir de l'écorce de l'arbre Havoha et souvent décoré de fleurs séchées, est une tradition artisanale qui a des racines historiques liées aux manuscrits arabes introduits dans la région d'Ifanadiana.",
+      "source": "Artisanat malgache, Histoire du papier Antemoro"
+    },
+    {
+      "questionId": "MEDIUM_020",
+      "themeId": "LITT",
+      "levelId": "MEDIUM",
+      "ageRange": "10-99",
+      "questionText": "Les proverbes malgaches (ohabolana) sont uniquement utilisés dans les conversations formelles.",
+      "isTrue": false,
+      "explanation": "Faux, les ohabolana sont très présents dans la vie quotidienne, les discussions informelles, l'éducation, les discours, et les cérémonies, servant à transmettre la sagesse et les valeurs.",
+      "source": "Tradition orale malgache, Usage des proverbes"
+    },
+    {
+      "questionId": "HARD_011",
+      "themeId": "LITT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Dox (Rajemisa-Raolison) est un poète malgache connu pour ses œuvres profondément enracinées dans la tradition orale et la langue malgache.",
+      "isTrue": true,
+      "explanation": "Vrai, Dox (1913-1978) est un poète et dramaturge majeur, dont l'œuvre est caractérisée par une forte ancrage dans la culture malgache, l'utilisation raffinée de la langue et une grande musicalité.",
+      "source": "Littérature malgache, Poésie"
+    },
+    {
+      "questionId": "HARD_012",
+      "themeId": "LITT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le 'Kabary' est un genre musical chanté a capella, typique des pêcheurs de la côte ouest.",
+      "isTrue": false,
+      "explanation": "Faux, le Kabary est l'art oratoire traditionnel malgache, un discours formel et éloquent, souvent structuré avec des proverbes, des métaphores, et des récits, utilisé lors d'événements importants (mariages, funérailles, négociations).",
+      "source": "Art oratoire malgache, Culture"
+    },
+    {
+      "questionId": "HARD_013",
+      "themeId": "LITT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "La sculpture des 'Aloalo' est associée principalement à l'ethnie Antandroy dans le sud de Madagascar.",
+      "isTrue": false,
+      "explanation": "Faux, les Aloalo sont des piliers funéraires sculptés en bois emblématiques, mais ils sont principalement associés à l'ethnie Mahafaly (sud-ouest de Madagascar) et non aux Antandroy.",
+      "source": "Art funéraire malgache, Ethnologie"
+    },
+    {
+      "questionId": "HARD_014",
+      "themeId": "LITT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le style musical 'Salegy' est originaire des Hautes Terres centrales et utilise principalement la valiha.",
+      "isTrue": false,
+      "explanation": "Faux, le Salegy est un genre musical très populaire de la côte nord-ouest de Madagascar (région de Mahajanga), caractérisé par des rythmes très entraînants, souvent avec des instruments modernes et électriques, et non principalement la valiha.",
+      "source": "Musique malgache, Genres musicaux"
+    },
+    {
+      "questionId": "HARD_015",
+      "themeId": "LITT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Rakoto Frah (Philibert Rabezafy) était un célèbre joueur de flûte Sodina malgache, reconnu internationalement.",
+      "isTrue": true,
+      "explanation": "Vrai, Rakoto Frah (1923-1999) est une légende de la musique malgache, maître incontesté de la Sodina (flûte traversière en bambou), dont la virtuosité l'a amené à se produire dans le monde entier.",
+      "source": "Musiciens malgaches, Biographie de Rakoto Frah"
+    },
+    {
+      "questionId": "HARD_016",
+      "themeId": "LITT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "La tradition des 'Mpikabary' (maîtres de la parole) est en déclin rapide et a presque disparu à Madagascar.",
+      "isTrue": false,
+      "explanation": "Faux, bien que les pratiques évoluent, l'art du Kabary et le rôle des Mpikabary restent vivants et valorisés dans les cérémonies et la vie sociale malgaches, notamment dans les Hautes Terres.",
+      "source": "Tradition orale malgache, Études culturelles"
+    },
+    {
+      "questionId": "HARD_017",
+      "themeId": "LITT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le cinéma malgache est un domaine artistique très récent (moins de 20 ans d'existence) et sans production significative.",
+      "isTrue": false,
+      "explanation": "Faux, le cinéma malgache a une histoire qui remonte à l'ère coloniale, avec des productions significatives et des réalisateurs reconnus, même si l'industrie est confrontée à des défis.",
+      "source": "Histoire du cinéma malgache"
+    },
+    {
+      "questionId": "HARD_018",
+      "themeId": "LITT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Les 'Hainteny' sont des chants funéraires improvisés et mélancoliques, spécifiques aux régions du sud-ouest.",
+      "isTrue": false,
+      "explanation": "Faux, les Hainteny sont des poèmes courts, des joutes oratoires, ou des devinettes poétiques, caractérisés par l'allusion et l'énigme, et non des chants funéraires improvisés.",
+      "source": "Littérature orale malgache, Hainteny"
+    },
+    {
+      "questionId": "HARD_019",
+      "themeId": "LITT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Raharimanana est un auteur malgache contemporain, connu pour ses romans explorant l'histoire et les traumatismes de Madagascar.",
+      "isTrue": true,
+      "explanation": "Vrai, Raharimanana (né en 1967) est un écrivain majeur de la littérature malgache contemporaine, dont l'œuvre romanesque et théâtrale explore souvent les périodes troubles de l'histoire malgache et les questions identitaires.",
+      "source": "Littérature malgache contemporaine, Biographie d'auteurs"
+    },
+    {
+      "questionId": "HARD_020",
+      "themeId": "LITT",
+      "levelId": "HARD",
+      "ageRange": "14-99",
+      "questionText": "Le 'Lakalasa' est un type de broderie malgache, utilisant des perles et des fils d'or, typique des parures royales.",
+      "isTrue": false,
+      "explanation": "Faux, le Lakalasa est une sorte de **petit bateau à voile traditionnel**, utilisé pour la pêche ou le transport le long des côtes, et non un type de broderie.",
+      "source": "Lexique malgache, Artisanat marin"
+    },
+    {
+      "questionId": "EXPERT_011",
+      "themeId": "LITT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le style musical 'Vakodrazana' est une forme de musique urbaine moderne, fortement influencée par le hip-hop occidental.",
+      "isTrue": false,
+      "explanation": "Faux, le Vakodrazana est un genre musical traditionnel et rural des Hautes Terres, caractérisé par des chants polyphoniques, des instruments acoustiques (valiha, marovany) et des textes épiques ou narratifs, loin du hip-hop.",
+      "source": "Musique traditionnelle malgache, Ethnologie musicale"
+    },
+    {
+      "questionId": "EXPERT_012",
+      "themeId": "LITT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "La production littéraire malgache a été fortement influencée par les courants de la négritude et de la francophonie au milieu du XXe siècle.",
+      "isTrue": true,
+      "explanation": "Vrai, des auteurs malgaches comme Jacques Rabemananjara ont participé activement aux mouvements de la négritude et de la francophonie, marquant la littérature par des questionnements sur l'identité, la colonisation et l'africanité, tout en écrivant en français.",
+      "source": "Histoire littéraire de Madagascar, Francophonie"
+    },
+    {
+      "questionId": "EXPERT_013",
+      "themeId": "LITT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le 'Trano Gasy' est un festival international de cinéma qui se tient annuellement à Antananarivo.",
+      "isTrue": false,
+      "explanation": "Faux, 'Trano Gasy' (maison malgache) fait référence à l'architecture traditionnelle des Hautes Terres, souvent des maisons en brique avec des balcons. Ce n'est pas un festival de cinéma.",
+      "source": "Architecture traditionnelle malgache"
+    },
+    {
+      "questionId": "EXPERT_014",
+      "themeId": "LITT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "La technique de la 'Lamba hoany' est une forme de tissage de tapis en laine, typique du sud de Madagascar.",
+      "isTrue": false,
+      "explanation": "Faux, le Lamba hoany est une forme de **pagnes traditionnels imprimés ou teints**, souvent avec des motifs et des messages, utilisés comme vêtement ou pour des occasions rituelles, et non des tapis en laine.",
+      "source": "Textiles malgaches, Artisanat"
+    },
+    {
+      "questionId": "EXPERT_015",
+      "themeId": "LITT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Ny Avana Ramanantoanina est un poète dont les œuvres célèbrent la nature malgache et la spiritualité ancestrale.",
+      "isTrue": true,
+      "explanation": "Vrai, Ny Avana Ramanantoanina (1891-1940) est un poète symboliste majeur, dont l'œuvre, riche en images et en lyrisme, exprime un attachement profond à la terre, à la nature et aux croyances traditionnelles malgaches.",
+      "source": "Littérature malgache, Poésie symboliste"
+    },
+    {
+      "questionId": "EXPERT_016",
+      "themeId": "LITT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le 'Opéra Vakodrazana' est un genre musical malgache moderne, inspiré de l'opéra italien du 19ème siècle.",
+      "isTrue": false,
+      "explanation": "Faux, le 'Vakodrazana' est une forme de musique traditionnelle (voir EXPERT_011). Il n'y a pas d'opéra malgache portant ce nom et directement inspiré de l'opéra italien.",
+      "source": "Musique malgache, Genres musicaux"
+    },
+    {
+      "questionId": "EXPERT_017",
+      "themeId": "LITT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le roman 'Zafimaniry : Le Bois et l'Esprit' de Jean-Paul Sorg est une œuvre de fiction qui décrit le mode de vie des Zafimaniry.",
+      "isTrue": false,
+      "explanation": "Faux, l'ouvrage 'Zafimaniry : Le Bois et l'Esprit' (ou des titres similaires) est généralement un livre d'art ou d'anthropologie, souvent photographique, sur la culture et l'artisanat du bois Zafimaniry, et non un roman de fiction.",
+      "source": "Publications sur l'art Zafimaniry, Anthropologie culturelle"
+    },
+    {
+      "questionId": "EXPERT_018",
+      "themeId": "LITT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le 'Moraingy' est une danse traditionnelle féminine, caractérisée par des mouvements lents et gracieux.",
+      "isTrue": false,
+      "explanation": "Faux, le Moraingy est un art martial traditionnel malgache, un sport de combat à mains nues et pieds, pratiqué principalement par les hommes sur la côte ouest, et caractérisé par des frappes puissantes.",
+      "source": "Arts martiaux traditionnels malgaches"
+    },
+    {
+      "questionId": "EXPERT_019",
+      "themeId": "LITT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "L'influence de la poésie orale 'ohabolana' (proverbes) est perceptible même dans la littérature malgache contemporaine écrite.",
+      "isTrue": true,
+      "explanation": "Vrai, les ohabolana continuent d'enrichir la langue et la pensée malgaches. De nombreux auteurs contemporains les intègrent, les revisitent ou s'en inspirent pour donner de la profondeur et une touche d'authenticité à leurs écrits.",
+      "source": "Analyse de la littérature malgache, Influence de la tradition orale"
+    },
+    {
+      "questionId": "EXPERT_020",
+      "themeId": "LITT",
+      "levelId": "EXPERT",
+      "ageRange": "16-99",
+      "questionText": "Le 'Jerijery' est un instrument de musique à cordes pincées, similaire à la guitare électrique moderne.",
+      "isTrue": false,
+      "explanation": "Faux, le Jerijery est un type de **flûte traversière en bambou**, utilisée dans certaines régions de Madagascar, et n'a aucune ressemblance avec une guitare électrique.",
+      "source": "Instruments de musique malgaches"
     }
   ]
 }
